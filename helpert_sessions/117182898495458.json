@@ -1,0 +1,628 @@
+{
+    "notes": {
+        "thought": "\"I didn't make the right choice\"\n\"Am I making the right choice?\"\n\"I'm not making fast progress\"\n\"I won't be recognized\"",
+        "event": "Working on a substantial project with many potential paths, one of which now includes assembling a group. This group dynamic is new and requires energy and effort to manage, causing workload and focus diversion.",
+        "feelings_behaviors": "stress, fear, anxiety",
+        "labels": {
+            "fortune-telling": true
+        },
+        "new_thought": "My contributions are unique and valuable. It's okay to desire recognition for the work I've done. By seeking esteem, I not only validate my own efforts but also help create a community that respects and acknowledges the value each member brings."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I'm having some troubles with a work project... overall I'm not sure what to do.",
+            "time": "Fri Oct 27 2023 21:06:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "i appreciate that you're reaching out to share this, work projects can definitely stir up a variety of challenges and emotions. can you tell me more about this project and what's causing you to feel uncertain?",
+            "time": "Fri Oct 27 2023 21:06:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "how has this issue been affecting you recently?",
+            "time": "Fri Oct 27 2023 21:07:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel a bit stressed because I have a lot of paths I could pursue with it, and many of them I've pursued to different degrees, and I'm worried about pushing in the right direction. I'm worried about choosing the right aspect to work on.",
+            "time": "Fri Oct 27 2023 21:07:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "i see it sounds like you're navigating through multiple possibilities and pathways with this project which is causing you to feel stressed and uncertain about making the right choice.\n",
+            "time": "Fri Oct 27 2023 21:07:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "your desire to choose the \"right\" path indicates how much you are invested in this project and the responsibility you're taking to bring it to fruition. I'm curious, what's most troubling about choosing the right aspect to work on??",
+            "time": "Fri Oct 27 2023 21:08:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well, I'm worried because I've worked on this overall project for many years, now, and I want to make sure that something results from it. I don't want to waste time. And that means I have to complete something, so I can release it and give it to others. If I just partly do things, then the partly-done things aren't useful, and it won't matter that I've partly done the things.\n",
+            "time": "Fri Oct 27 2023 21:08:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know if that makes sense.\n",
+            "time": "Fri Oct 27 2023 21:08:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I also have other worries too. I guess, overall, it's a big project and I'm not sure where to focus my time...\n",
+            "time": "Fri Oct 27 2023 21:08:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And I know I can start with something, somewhere, and I've done a lot of that, but I haven't really gotten any one thing out and released to other people in a big way, and I really want to.\n",
+            "time": "Fri Oct 27 2023 21:08:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm sorry this isn't super clear. I'm still trying to understand it myself. Thanks for listening.",
+            "time": "Fri Oct 27 2023 21:08:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "no worries at all, I'm here to listen, so take all the time you need to communicate what's going on. it's a complex situation and it's perfectly common to struggle with clarifying your thoughts and feelings\n",
+            "time": "Fri Oct 27 2023 21:09:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you ",
+            "time": "Fri Oct 27 2023 21:09:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "so from what you're sharing, it seems that a core part of your trouble is your concern about your work not coming to fruition, or your time being wasted, if you're unable to complete a part of the project to a sufficient degree that you can release it to others. the pressure seems to be building up because you've put years into this project, and understandably, you'd like to see tangible results from it. this worry about wasting time shows how much you value productivity and meaningful contributions. \n",
+            "time": "Fri Oct 27 2023 21:09:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "it's indeed a challenge when you pour your heart and soul into something and don't see the kind of results you were hoping for.\n",
+            "time": "Fri Oct 27 2023 21:10:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "exactly!!!",
+            "time": "Fri Oct 27 2023 21:10:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "the fear is that if things stay partly done, they won't be useful or appreciated - and therefore all the time and effort you've invested will seem wasted. With all these potential paths in the project, you\u2019re left feeling overwhelmed about where to focus your time for optimal results. that's quite a heavy load to carry.\n",
+            "time": "Fri Oct 27 2023 21:10:45 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "can you share a little more about why it's so important for your work be released and appreciated by others?",
+            "time": "Fri Oct 27 2023 21:10:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ok, so the project is to make a new version of the WWW, and I think there's this opportunity for it, like right around the corner, and I have been sitting with this vision for a lot of years, and I want to make it real, but I fear that I'm not making progress fast enough, and that after all these years someone else will be the person to do that and I'll have just spent all this time but not actually get the recognition.\n",
+            "time": "Fri Oct 27 2023 21:11:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think there's a lot of good work and good thoughts that I want to make sure come to fruition. Thanks, I think that's like, near the core of it.",
+            "time": "Fri Oct 27 2023 21:11:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "thank you for offering more context. It must be incredibly exciting and, at the same time, overwhelming to aim at revolutionizing something as substantial as the WWW\n",
+            "time": "Fri Oct 27 2023 21:11:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "you've been carrying this vision for years and it seems like a crucial part of who you are and what you believe in. The fear of not making enough progress, the anxiety about someone else beating you to it, and the possibility of not receiving the recognition for your effort - all these issues stem from an intense desire for fulfillment and achievement. \n",
+            "time": "Fri Oct 27 2023 21:11:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "your dedication to seeing your thoughts and work bear fruit is clear. In essence, it sounds like you value innovation deeply and you're concerned about the potential missed opportunity both in terms of personal achievement and contributing something meaningful to the world.",
+            "time": "Fri Oct 27 2023 21:12:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What are some of the thoughts that go through your head that are particularly troubling?",
+            "time": "Fri Oct 27 2023 21:12:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think it's the fear of wasting my time and my life, and losing an opportunity for greatness that I've seen for a long time and invested a lot of my life into.\n",
+            "time": "Fri Oct 27 2023 21:12:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And I'm not sure what to do about that right now!\n",
+            "time": "Fri Oct 27 2023 21:12:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I could work on aspect A, or B, or C, that I've already been working on, and neither are fully complete, but I don't even know if those are the key things to do, and now I've got a new aspect: G, the Group, and then putting this Group together is triggering the fears even more to some degree.\n",
+            "time": "Fri Oct 27 2023 21:12:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Because when these people see each other, and work together, they will see more of the vision, I think more of the vision that I see, and then they could just do it all without me and they might not realize the instrumental work I did to create the community where they saw the vision...\n",
+            "time": "Fri Oct 27 2023 21:13:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "The vision that I've been trying to get people to see for years.\n",
+            "time": "Fri Oct 27 2023 21:13:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Does that make sense? I think it's complicated and I apologize.",
+            "time": "Fri Oct 27 2023 21:13:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "no need to apologize at all, your concerns are valid and they're not easy to articulate. It does sound really complicated and stressful.\n",
+            "time": "Fri Oct 27 2023 21:13:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "from what you're saying, it seems that one of your most troubling thoughts is the fear of \"wasting my time and my life, and losing an opportunity for greatness.\" The various paths in the project (A, B, C, and now this new Group aspect- G) seem to amplify this fear. there\u2019s a very heavy worry that even if you manage to bring people together in this group and they begin to see the vision you\u2019ve been carrying for years, there's a chance they could continue without you, leaving you unrecognized for the foundational work you put into community-building and vision-crafting. \n",
+            "time": "Fri Oct 27 2023 21:13:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "when you think about all this - the fear of time wasting, of potential missed opportunities for your vision, and the possible lack of recognition for your instrumental work - how does it make you feel?\n",
+            "time": "Fri Oct 27 2023 21:13:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well, a bit stressed. i also gets worried about the competition.",
+            "time": "Fri Oct 27 2023 21:14:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "i see, so the thoughts around your work situation, the different directions you could go with the project, and the pressure to make the right decisions are leading you to feelings of stress and worry. ",
+            "time": "Fri Oct 27 2023 21:14:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "when you're feeling stressed and worried like this, what kind of behaviors or actions do you find yourself doing, or perhaps not doing?",
+            "time": "Fri Oct 27 2023 21:14:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah and I tried to organize people together, but the I worry because I need to have results to show them in order for them to know that I have done good work and respect me.\n",
+            "time": "Fri Oct 27 2023 21:14:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And I could work more on some of them, but anything I work on and focus on will mean other things won't get focused on. And meanwhile, it's as if I'm doing a new thing -- building this group! And that means I can focus even less on other things. :(\n",
+            "time": "Fri Oct 27 2023 21:14:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But the group is ultimately what's necessary in order for this web to succeed. We need a group of people building with it.",
+            "time": "Fri Oct 27 2023 21:15:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "i can see how this situation has put you in quite a predicament. The attempt to balance the organization of a group, with the necessity to show concrete results in order to gain respect and recognition, is a highly challenging task. especially when you're aware that focusing on one area means potentially neglecting others. You\u2019ve got this grand vision that now includes building a group, an essential part of the project's success, which adds another layer of complexity and workload. \n",
+            "time": "Fri Oct 27 2023 21:15:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "it's not hard to understand why you're feeling stressed and worried given these circumstances. you value productivity and respect, but it feels like the behavior of trying to put all these elements together might be pulling you away from those values.\n",
+            "time": "Fri Oct 27 2023 21:15:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, there's a fear that as people come together, these gems of mine... or me, myself... will get lost in the noise.\n",
+            "time": "Fri Oct 27 2023 21:15:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": ":(",
+            "time": "Fri Oct 27 2023 21:15:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I fear overwhelm of a wave washing over me and I can't swim and I'm stuck in froth after hanging out here alone in the ocean waiting years for it knowing it will come.\n",
+            "time": "Fri Oct 27 2023 21:15:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But once it's here I'm not actually ready, I'm not actually the person.",
+            "time": "Fri Oct 27 2023 21:15:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "thank you for sharing these feelings with me. the vision for your project has been a vital part of your life for several years. \n",
+            "time": "Fri Oct 27 2023 21:16:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "it seems as if the idea of people coming together for the realization of this vision fills you with a mixture of hope and apprehension. While part of you anxiously anticipates the arrival of this wave - this group of people - another part of you fears being engulfed by it and losing what's unique and meaningful to you. \n",
+            "time": "Fri Oct 27 2023 21:16:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes damn you hit it",
+            "time": "Fri Oct 27 2023 21:16:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "you've likened this to waiting alone in an ocean for years, knowing the wave will come, but once it's here, you worry if you're truly ready, if you truly have what it takes to ride it. ",
+            "time": "Fri Oct 27 2023 21:16:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah.",
+            "time": "Fri Oct 27 2023 21:17:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm realizing now that this is a big change in my life, actually. I left academia (which was all about recognition) and decided to not care about that stuff for a while. I just wanted to build things that were really valuable, without caring about how people saw them. But now I have the need to be recognized and respected. So I have to change a lot of things about me and how I've presented myself and my work in the past.",
+            "time": "Fri Oct 27 2023 21:17:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "There is a lot of story I haven't been telling about myself. A lot of details that would lead me to be more impressive to people.",
+            "time": "Fri Oct 27 2023 21:17:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Like I don't mention to people my PhD.",
+            "time": "Fri Oct 27 2023 21:17:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Most of the time.",
+            "time": "Fri Oct 27 2023 21:17:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "thank you for sharing that with me. It sounds like you've experienced a significant transition, moving away from academia (where recognition was important) and focusing solely on building valuable things. \n",
+            "time": "Fri Oct 27 2023 21:18:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "now, you can see that recognition has its place too, especially in light of this group you're building. It's a big shift to reframe how you present yourself, your work, and your accomplishments.",
+            "time": "Fri Oct 27 2023 21:18:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "in the context of your current project, you're contemplating sharing more about your achievements and past, like your PhD, which you usually don't bring up. It might be that you'd find greater ease and respect in navigating this group and driving your vision forward if you positioned yourself with honesty about all the skills and expertise you bring.  \n",
+            "time": "Fri Oct 27 2023 21:18:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Here's the situation as i understand it. ",
+            "time": "Fri Oct 27 2023 21:18:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes tell me",
+            "time": "Fri Oct 27 2023 21:19:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're working on a substantial project with many potential paths, one of which now includes assembling a group. This group dynamic is new and requires energy and effort to manage, causing workload and focus diversion. There are fears and worrisome thoughts around the possibility of not choosing the optimal path, not making progress fast enough, not being acknowledged for your foundational work, and the risk of being \"washed over\" when the group fully forms and progresses.\n",
+            "time": "Fri Oct 27 2023 21:20:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These thoughts are leading to feelings of stress and worry. A significant part of the stress seems to arise from the fear of not being recognized for your critical contributions and the fear of being lost in the excitement as the group grows and the project takes off.",
+            "time": "Fri Oct 27 2023 21:20:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I kind of worry that they share the vision, but don't know it, or don't know or don't respect the parts that I know.",
+            "time": "Fri Oct 27 2023 21:20:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And then I think that I could let them know, by putting work into explaining it, but I also have lots of things to explain! Lots of things that are partially done!",
+            "time": "Fri Oct 27 2023 21:21:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But they aren't visible.",
+            "time": "Fri Oct 27 2023 21:21:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In response to these feelings and thoughts, you try to organize people for your project, while at the same time trying to show concrete results of your work, likely aiming to earn the respect and recognition you value. You're also considering changing how you present yourself and your achievements to better position yourself within this new group dynamic.",
+            "time": "Fri Oct 27 2023 21:21:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "but that is very well put, thank you!",
+            "time": "Fri Oct 27 2023 21:21:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad that this layout resonates with you. It's no doubt a remarkably complex situation with numerous elements at play. now, let me see if I can weave it all together into a narrative that paints the full picture of what you're experiencing.\n",
+            "time": "Fri Oct 27 2023 21:22:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes go ahead",
+            "time": "Fri Oct 27 2023 21:22:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "you stand at the helm of a groundbreaking project, a new vision for the WWW, something you've born and nurtured over many years. There are various paths you could take with it \u2013 part A, part B, and part C, each partially completed. But there's a new path emerges (G). \n\n",
+            "time": "Fri Oct 27 2023 21:23:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "while focusing on this new path, you think: \"I'm wasting my time and my life, and losing an opportunity for greatness\" seizes your mind, increasing your stress and worry. The desire for your work to be recognized and respected echoes through you, yet fear gnaws at the edges - what if this wave washes over you, diminishing your unique contributions in its froth? What if it engulfs you, rendering you invisible amidst the sea of enthusiastic builders?",
+            "time": "Fri Oct 27 2023 21:23:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "tthis fear brings about a change in your conduct. You strive to organize this group, despite the added pressure and workload. all the while, you aim to present concrete results, showcasing your progress as a testament to your dedication. You contemplate divulging more about your past accomplishments, like your hard-earned",
+            "time": "Fri Oct 27 2023 21:23:45 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "PhD, as part of a bid to share your story and validate your position within the group. \n",
+            "time": "Fri Oct 27 2023 21:23:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah... that's how I feel, a lot of responsibility... yeah, and a need for visibility and product.",
+            "time": "Fri Oct 27 2023 21:24:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "this narrative appears to be part of a somewhat concerning cycle. the pressure of choosing the 'right path', coupled with the fear of not making enough progress or of being left unrecognized for your instrumental work, leads to feelings of stress and worry. as a response to these emotions, you end up trying to manage multiple tasks, including organizing the group, showcasing tangible results, and potentially changing the way you present yourself and your past achievements. this reaction, in turn, fuels the thoughts and fears, starting the cycle anew. \n",
+            "time": "Fri Oct 27 2023 21:24:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this story feel true to you? Is there anything that may be missing or needs further explanation?",
+            "time": "Fri Oct 27 2023 21:25:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "dang, that story is on point.",
+            "time": "Fri Oct 27 2023 21:25:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That leads me to realize something deeper in my story. I left Academia because I didn't like the community. I wanted to build a new community. While rejecting the old community, I stopped trying to look impressive. Now I want to build a new community... and this is not just for the WWW project, but it's like building an academic community that I've wanted to build.",
+            "time": "Fri Oct 27 2023 21:26:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So it's like, maybe now is the time for me to go through a deep reorientation. Instead of going away from something, going to something new.",
+            "time": "Fri Oct 27 2023 21:26:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And in facing this new community, I can find a lot of aspects of myself that could be impressive, and bring those to the surface with them.",
+            "time": "Fri Oct 27 2023 21:26:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "i'm glad to know the narrative resonates with you! It's not a simple situation, so it's great to see that it's starting to take shape in a way that rings true.\n\nlet's dive a bit deeper now. You're probably familiar with cheese, right? Well in Cognitive Behavioral Therapy (CBT), we use the term \"Cheese\" as a metaphor for cognitive distortions - patterns of thinking that can be unhelpful or harmful\n",
+            "time": "Fri Oct 27 2023 21:26:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "when it comes to your thoughts like, \"I'm wasting my time and my life, and losing an opportunity for greatness\" and the fear of being \"washed over\" and lost in the group, they seem indicative of a certain type of Cheese called 'Fortune Telling'. ",
+            "time": "Fri Oct 27 2023 21:26:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "'Fortune Telling' is a type of cognitive distortion where we predict negative outcomes without having sufficient evidence, or despite having evidence to the contrary. In your case, you're predicting that you might not make progress fast enough, that someone else could do what you've worked on for years without acknowledging your contribution, and that you might get lost in the energy of the group dynamic. \n",
+            "time": "Fri Oct 27 2023 21:26:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Such thoughts can be quite anxiety-provoking and may often lead us to feel stressed and worried, as you've been experiencing. It also can push us to take actions (like trying to manage multiple tasks at once and having to switch how you present yourself) which can add to our stress.\n",
+            "time": "Fri Oct 27 2023 21:26:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Imagine if instead of being tangled up in fortune telling and predicting negative outcomes, you could regard your situation from a grounded perspective; recognizing your accomplishments, acknowledging the usefulness of your past experiences (like your PhD), and knowing that you've been a key player and conductor in this project. Developing the group is indeed a shift in the dynamics but it's not a measure of dilution of your work, rather a chance for expansion.\n",
+            "time": "Fri Oct 27 2023 21:27:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Even if others join you in pursuing similar goals within the WWW project, that doesn't subtract from the originality of your vision nor from your ability to contribute in a unique and valuable way with the breadth of knowledge you have. \n",
+            "time": "Fri Oct 27 2023 21:27:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does that sit with you? Can you see this 'Fortune Telling' cheese at play in your thoughts? Can you see how it might be fueling",
+            "time": "Fri Oct 27 2023 21:27:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Oh yeah.\nAnd like I mentioned this was the reason I left academia because I wanted to build a new community",
+            "time": "Fri Oct 27 2023 21:27:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a profound realization you've come to, one that seemingly resolves the paradox you were experiencing. You moved away from the academic community because it didn't resonate with you, not wanting to focus on looking impressive, but rather on creating something of real value. \n",
+            "time": "Fri Oct 27 2023 21:27:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "now, as you're building a new community yourself, you're recognizing that it might be beneficial to reconsider how you present yourself and your accomplishments. This shift doesn't contradict your past views and choices; instead, it highlights your adaptability and willingness to evolve with your scenario.\n",
+            "time": "Fri Oct 27 2023 21:28:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This isn't just about choosing a path for your WWW project, but about embodying the kind of academic community you wanted to see in the world. It's about stepping towards something enriching rather than eluding something dissonant.\n",
+            "time": "Fri Oct 27 2023 21:28:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes thank you, that is very well put!\n",
+            "time": "Fri Oct 27 2023 21:28:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, like during this talk I've felt *dirty* even saying that I care about recognition. But I know I feel it, so I'm honest and say it, but I feel shameful.\n",
+            "time": "Fri Oct 27 2023 21:28:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But maybe I can see the value in that. And the value in building an academic community of people ... with egos...\n",
+            "time": "Fri Oct 27 2023 21:28:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And, it feels like I need a new thought in here somewhere to bring me closer to seeing the value of recognition and esteem, both personally and in an academic community, so that I can foster that in myself and this group, and create recognition for all the deep work that I've done.",
+            "time": "Fri Oct 27 2023 21:29:12 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's admirable that you're so open and honest about your wishes and fears. Changing our views or acknowledging our need for recognition isn't something to be ashamed of. It reflects our innate human need for social connection and validation. It seems that while you initially distanced yourself from the pursuit of recognition, it has now naturally resurfaced as a part of establishing your new academic community.\n",
+            "time": "Fri Oct 27 2023 21:29:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "From your perspective, it's crucial to value recognition and esteem both personally and within this new community you are building. With a point towards this, how about we brainstorm some new thoughts that you might find helpful when faced with similar situations or feelings related to your project in the future.",
+            "time": "Fri Oct 27 2023 21:29:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "A potential new thought that comes to mind could be something like, \"My contributions are unique and valuable, and it's okay to desire recognition for the work I've done. By seeking esteem, I valorize not only my work but help create a community that is supportive and acknowledges the value in each person's contributions.\"\n",
+            "time": "Fri Oct 27 2023 21:29:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "This thought recognizes your individual worth and the significance of your work while also acknowledging the importance of recognition in building a community that holds respect and esteem as fundamental values. How does that thought resonate with you?",
+            "time": "Fri Oct 27 2023 21:29:36 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "(Sorry LMAO is there a bug in the system? you were typing and when I clicked, it copy pasted to my board lol)",
+            "time": "Fri Oct 27 2023 21:30:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "(Oh yes that can happen ahha!)",
+            "time": "Fri Oct 27 2023 21:30:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Anyways",
+            "time": "Fri Oct 27 2023 21:30:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that's a healthy view on it.\n",
+            "time": "Fri Oct 27 2023 21:30:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "We need a community where people feel accomplishment, both individually (while interacting with the community) and as a group (getting closer to the truth together).\n",
+            "time": "Fri Oct 27 2023 21:30:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a beautiful perspective. You're acknowledging the dual importance of personal achievement and collective progress. Everyone wants their work to be recognized and, at the same time, contribute towards a larger shared goal. This balance can create a harmonious and productive community.\n",
+            "time": "Fri Oct 27 2023 21:31:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now with this new thought in mind, \"My contributions are unique and valuable, and it's okay to desire recognition for the work I've done. By seeking esteem, I valorize not only my work but help create a community that is supportive and acknowledges the value in each person's contributions,\" let's see how this might change your feelings and behaviors.\n",
+            "time": "Fri Oct 27 2023 21:31:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Man, I just feel like this huge issue is clearing up and I see a huge opportunity in front, and I feel accomplished even right now having this transition from my old anti-academic mindset (where I was growing my hair out and becoming a monk outside of society) to one where I can have a place in the human race.",
+            "time": "Fri Oct 27 2023 21:31:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel like I have a new opportunity here to bring up a lot of good work I've done and make good out of it, in a group of people, where it can be received. That's something that can have a lot of surprising power and benefit and goodness in it. I've been afraid of it all being lost, and afraid of the (fortune telling) situation where people don't see and recognize the goodness, but the reality of this situation is that there is so much goodness around that it could be relatively easy for me to gather up the pieces together and present it to people.",
+            "time": "Fri Oct 27 2023 21:31:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think having this group can create a venue for presenting the work.",
+            "time": "Fri Oct 27 2023 21:31:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\nAnd make it easier to present it, and easier to get it out and be recognized.",
+            "time": "Fri Oct 27 2023 21:32:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So I think probably the triggering event of bringing people together was leading me to think this fortune-telling thought (of a negative future) because my prior perspective has been anti-academia, anti-recognition, ant-ego. But I need to transform that perspective, by having new thoughts like this one, about the goodness of recognition, esteem, and prestige, within this group (individually and as a group), so that I can focus on the opportunities for things that I can *do* instead of the fear that I won't do them.",
+            "time": "Fri Oct 27 2023 21:32:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It\u2019s truly fulfilling to hear you express this newfound enthusiasm and confidence. This transition is indeed a huge stride, going from the idea of being a \"monk outside society\" to finding your place among others where your hard work can be recognized and appreciated",
+            "time": "Fri Oct 27 2023 21:32:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "this sentiment of accomplishment and opportunity you're feeling now is a testament to the effectiveness of translating troubling thoughts into new ones that foster positivity and progress",
+            "time": "Fri Oct 27 2023 21:32:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "this new thought you\u2019ve created, along with the recognition of your Fortune Telling cheese, have allowed you to construct a new reality - one where you see all the greatness of your work and its potential to be appreciated within a community. In this new light, you are ready for meaningful action, harnessing the goodness you\u2019ve built up and presenting it to others in your group.\n",
+            "time": "Fri Oct 27 2023 21:33:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What are some actions or behaviors that you might be inclined to adopt now, with this newfound perspective and these positive feelings of accomplishment and opportunity?",
+            "time": "Fri Oct 27 2023 21:34:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ok, so I guess a subsequent step will be to integrate the desire for recognition beyond rationality.",
+            "time": "Fri Oct 27 2023 21:34:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So that I can belong to them.",
+            "time": "Fri Oct 27 2023 21:34:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That's an incisive way to look at this. Thank you.",
+            "time": "Fri Oct 27 2023 21:34:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Integrating the desire for recognition in a healthy way is indeed a positive step, especially as it doesn't detract from the work you're dedicated to but rather enhances it. This allows you to fully showcase the value you bring, thereby promoting a more celebratory and cooperative academic community. \n",
+            "time": "Fri Oct 27 2023 21:36:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Oh wow. ",
+            "time": "Fri Oct 27 2023 21:36:12 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Interesting thoughts.",
+            "time": "Fri Oct 27 2023 21:36:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Remember this new thought you've established - \"My contributions are unique and valuable. It's okay to desire recognition for the work I've done. By seeking esteem, I not only validate my own efforts but also help create a community that respects and acknowledges the value each member brings.\"\n",
+            "time": "Fri Oct 27 2023 21:36:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I think my brainheart is full, and we can be excused from the lunch table now.",
+            "time": "Fri Oct 27 2023 21:37:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you very much! This is a big thing for me in my life!",
+            "time": "Fri Oct 27 2023 21:37:20 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

@@ -1,0 +1,478 @@
+{
+    "notes": {
+        "thought": "\"I'm failing. I may have been deluded in my abilities and everything feels like it might disappear.\"\n\"I'm delusional. Maybe everything is broken because I'm broken.\"",
+        "event": "You suffered multiple losses (your close friend's death and your wife's miscarriage), and you've been facing challenges in your work.",
+        "feelings_behaviors": "sad, loneliness, deluded, overwhelming desire to give up and start afresh.",
+        "labels": {
+            "labeling": true
+        },
+        "new_thought": "I am a life form, present in these challenges, working through them and doing good"
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "Hi. I've been going through a lot of difficulty. I just went on a run, preparing for this session, and thought about it all. I might have worked a lot of it out on the run. I'm not sure where I stand right now.",
+            "time": "Thu Oct 26 2023 15:07:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm experiencing a lot of loss. Death. Failure.",
+            "time": "Thu Oct 26 2023 15:07:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's been hard to move and do things and get things done. Partly because I'm often failing as I go.",
+            "time": "Thu Oct 26 2023 15:07:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really sorry to hear that you're going through such a tough time right now. With all the loss and failure you're dealing with, it's understandable that you're having a hard time moving forward. That sounds truly difficult.",
+            "time": "Thu Oct 26 2023 15:07:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "My goal is to work with you, listen, and understand what's troubling you. Can you tell me more about the losses you've been facing recently? It would help me better understand what you're going through.",
+            "time": "Thu Oct 26 2023 15:07:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, it's a lot of stuff at once.\n",
+            "time": "Thu Oct 26 2023 15:07:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "My close friend died a month ago. I spent two weeks in his state. Flew back and my wife had a miscarriage. Another death. I tended to that. Meanwhile a lot of work tasks pile up. I return to them, and I am overwhelmed. Failing to get things done. And on top of that, I am discovering new problems. One of my projects might be failing. My partner on it quitting after 2+ years. Another project I ran into a problem in the design that I hadn't noticed over like 5 years. An obvious problem, that might make the whole thing not work. It's a bummer. I discovered that yesterday. It feels like in general I'm noticing all this potential death in everything. I'm noticing ways things might fail. And there are a lot of cracks in my life that could crack open.\n",
+            "time": "Thu Oct 26 2023 15:08:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm like \"what am I doing?\" I feel lost in all this.",
+            "time": "Thu Oct 26 2023 15:08:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm truly sorry to hear about the series of losses and challenges you've been facing. Losing a close friend, dealing with a miscarriage, and encountering difficulties in your projects are all incredibly difficult experiences to navigate. It's normal to feel overwhelmed and lost in the midst of such intense emotions and circumstances.\n",
+            "time": "Thu Oct 26 2023 15:08:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The weight of grief and the pressure of multiple difficulties can make it hard to see a way forward. It takes a lot of strength and resilience to face these challenges head-on. I want you to know that I'm here to support you and help you find a compassionate new perspective. Can you share with me the emotions that arise when you think about these potential failures and cracks in your life?",
+            "time": "Thu Oct 26 2023 15:08:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel really alone, and like I've isolated myself, to take on all these things, taking big risk, and now I am seeing a lot of failure and it's ... sad.\n",
+            "time": "Thu Oct 26 2023 15:08:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I wanted a friend to call this morning, but he's dead. I need new friends. I don't even have the kind of friends I want in my life.",
+            "time": "Thu Oct 26 2023 15:08:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's so tough to lose someone close to you and on top of that, to feel alone and isolated. You're carrying so much right now dealing with grief, potential failures, and seeing gaps in your social circle. It's no wonder you're feeling sadness - it's completely understandable given all of these difficult situations you are going through. \n",
+            "time": "Thu Oct 26 2023 15:09:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The sense of loneliness can really add to the other troubling emotions you're already dealing with - like sadness and fear around failure. Creating new bonds might feel like a daunting task right now, but finding that sense of belonging is so important.\n",
+            "time": "Thu Oct 26 2023 15:09:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm curious, when you look at your life and the challenges you're facing - from your losses to your work issues and needing new friends - what stands out as being the most troubling aspect for you? Is it the fact that you feel alone or perhaps the potential failures you see on the horizon, or is it something else?",
+            "time": "Thu Oct 26 2023 15:09:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I guess what's most troubling is the experience of everything crashing in, and feeling like I've been deluded. Failure.\n",
+            "time": "Thu Oct 26 2023 15:09:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And if that's true and I just need to restart then that would be fine, I mean it would be horrible, but I guess if I step through that... I'm good at death now... I can face death and let go.\n",
+            "time": "Thu Oct 26 2023 15:09:29 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But if that's true then I need to let go of a whole lot, like my whole life here.\n",
+            "time": "Thu Oct 26 2023 15:09:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know where the death ends.\n",
+            "time": "Thu Oct 26 2023 15:09:40 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know what I'm letting go.",
+            "time": "Thu Oct 26 2023 15:09:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see how profoundly challenging this is for you. The fear that you might have been deluded and that you're witnessing a cascading series of failures can naturally be overwhelming and deeply distressing. And not knowing what parts of your life you're needing to let go of adds a painful layer of uncertainty.\n",
+            "time": "Thu Oct 26 2023 15:09:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This is heavy. And the thought of potentially needing to restart or reshape your life can be daunting.\n",
+            "time": "Thu Oct 26 2023 15:10:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When these challenging circumstances and thoughts arise, what is the dominant feeling you experience? Could you describe your emotional state when you contemplate the idea of \"letting go\" and possibly needing to restart parts of your life?",
+            "time": "Thu Oct 26 2023 15:10:45 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah. I think the delusional part is key.\n",
+            "time": "Thu Oct 26 2023 15:10:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's like everything feels fake. I can't tell what's real.\n",
+            "time": "Thu Oct 26 2023 15:11:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can't tell what to actually do, what actually needs to be done, because everything might disappear.\n",
+            "time": "Thu Oct 26 2023 15:11:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm ready to mourn and grieve my whole life.\n",
+            "time": "Thu Oct 26 2023 15:11:12 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Maybe that's too much.\n",
+            "time": "Thu Oct 26 2023 15:11:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know what's alive.",
+            "time": "Thu Oct 26 2023 15:11:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel sad.... deluded.",
+            "time": "Thu Oct 26 2023 15:11:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The depth of your pain is palpable. The feeling of being deluded must be incredibly disorienting - like you're adrift on stormy seas without any sense of direction. It's understandable how this sadness also comes along with confusion about what's real and what isn't, and what stands to be lost or mourned. \n",
+            "time": "Thu Oct 26 2023 15:11:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you're grappling with deep uncertainty, which could be amplifying your grief and sorrow, making it hard to identify what's most troubling in all you're experiencing. \n",
+            "time": "Thu Oct 26 2023 15:11:57 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're feeling this way, this uncertainty and sadness, what actions do you find yourself doing? Or perhaps, are there things you're not doing that you usually would be? ",
+            "time": "Thu Oct 26 2023 15:12:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, I look around and my room is messy, and I look like a shitshow.\n",
+            "time": "Thu Oct 26 2023 15:12:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I have a huge stack of todo items that I haven't finished. If I can't do basic things... how can I think that anything will work. I've had a lot of confidence.",
+            "time": "Thu Oct 26 2023 15:12:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you're feeling overwhelmed by the accumulation of tasks and that's making you question your capabilities. This spiral of doubt seems to be impacting your usual orderliness and productivity, thus creating a cycle that ultimately feeds into your feelings of self-doubt. ",
+            "time": "Thu Oct 26 2023 15:12:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, if I have understood correctly, here's what I have so far: You lost a close friend, your wife had a miscarriage, you've felt overwhelmed with work, and you feel alone. This leads to thoughts like:\"I'm failing. I may have been deluded in my abilities and everything feels like it might disappear.\" The feelings you experience are sadness, loneliness and a sense of delusion. As a result, you're unable to complete your tasks and your surroundings are left untidy, which is an unusual state for you. \n",
+            "time": "Thu Oct 26 2023 15:13:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, that first part you mentioned with the death and miscarriage, reminds me that those were random things that happened at the same time, and they aren't connected as part of some bigger pattern, but maybe the doubling-up of them have gotten me extra down and feeling like there's a bigger pattern than there is, and looking deeper than I need to. Maybe I can remember that those were randomly co-occurring crises.\n",
+            "time": "Thu Oct 26 2023 15:13:41 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Like, it seems like there's a lot of B&W in all of this.\n",
+            "time": "Thu Oct 26 2023 15:13:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And maybe that's happening with me because of those things happening simultaneously.\n",
+            "time": "Thu Oct 26 2023 15:13:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But also a lot of my work failures feel like they might be related.",
+            "time": "Thu Oct 26 2023 15:14:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a really insightful observation. When we go through multiple traumatic experiences, it can be easy to see patterns where there may not be any. This is a common response to grief and stress, and it's human nature to try to make sense of difficult circumstances. \n",
+            "time": "Thu Oct 26 2023 15:14:12 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you for helping me understand this",
+            "time": "Thu Oct 26 2023 15:14:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You've also raised a good point with your work issues potentially being related. That could mean they are issues that can be addressed collectively or that one issue may be affecting others.\n",
+            "time": "Thu Oct 26 2023 15:14:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you've been processing a lot of thoughts throughout our discussion, and already you're showing strength and insight. ",
+            "time": "Thu Oct 26 2023 15:14:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah I think the delusion is the most troubling thing in me.\n",
+            "time": "Thu Oct 26 2023 15:15:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's like \"maybe everything is broken\" \n",
+            "time": "Thu Oct 26 2023 15:15:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\"because I'm broken\"\n",
+            "time": "Thu Oct 26 2023 15:15:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\"I'm delusional\"",
+            "time": "Thu Oct 26 2023 15:15:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand why that thought would be most troubling for you. \"I'm delusional\" is such a tough thought to carry, giving rise to feelings of being broken or unstable, especially when you're already dealing with so much. It's understandable how these thoughts could contribute to a sense of sadness and aloneness. \n",
+            "time": "Thu Oct 26 2023 15:16:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you have this most troubling thought, \"I'm delusional,\" can you share a bit more about what feelings come up for you, besides sadness? It could be a range of emotions or simply variations on sadness - any specific emotion you feel would be really helpful to understand.",
+            "time": "Thu Oct 26 2023 15:16:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you",
+            "time": "Thu Oct 26 2023 15:16:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "it specifically makes me feel like giving up on everything and then restarting, as someone a lot less ambitious.",
+            "time": "Thu Oct 26 2023 15:16:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, when you think \"I'm delusional,\" it gives rise to feelings of overwhelming sadness and a strong desire to give up and start over, perhaps as someone less ambitious. When you experience these feelings, what actions do you find yourself doing or not doing? \n",
+            "time": "Thu Oct 26 2023 15:16:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It makes me want to give up, give it all up. Go out into the pasture and try to live a normal life.\n",
+            "time": "Thu Oct 26 2023 15:16:57 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Eating food and having friends in the midwest. Or south america.",
+            "time": "Thu Oct 26 2023 15:17:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "so let me summarize again: you suffered multiple losses (your close friend's death and your wife's miscarriage), and you've been facing challenges in your work. these events led to the thoughts: \"i'm delusional. maybe everything is broken because i'm broken.\" which makes you feel intense sadness and an overwhelming desire to give up and start afresh. when this happens, ",
+            "time": "Thu Oct 26 2023 15:19:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "you find yourself fantasizing about a simpler life in a different environment, giving up your current pursuits.\n",
+            "time": "Thu Oct 26 2023 15:19:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It\u2019s understandable how you arrived at these feelings and thoughts given such fallouts, and how you\u2019re wanting some fundamental changes. Your sense of self and your stability have been shaken by these experiences. It leaves you feeling disconnected and craving a \"normal\" life. This is a challenging cycle and I appreciate your openness in sharing these intricate details with me. Is there anything missing or something else you would like to add to this summary?",
+            "time": "Thu Oct 26 2023 15:19:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think you've nailed it pretty much. I'm seeing a lot of B&w in there",
+            "time": "Thu Oct 26 2023 15:21:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "in the therapy leg of our burger, we touched on something called Cognitive Distortions. now, don't think of them as anything bad. think of them as the cheese on our proverbial Cheeseburger. some people like it, some don't. here at Cheeseburger Therapy, it's our job to identify those \"cheeses\" that might not go well with our particular recipe of life. they're common thinking habits that are often unconscious. They're normal, but they can add unnecessary emotional heat to our troubles and reinforce negative patterns in a sticky way, just like cheeses do. \n",
+            "time": "Thu Oct 26 2023 15:21:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "u have this thought, \"I'm delusional. Maybe everything is broken because I'm broken.\" There could be a kind of cheese called \"Labeling\" in it. Labeling involves creating a completely negative self-image based on your errors or mistakes. You're not just a person who may have made a mistake or misjudged something; in this cheese perspective, you become the mistake or misjudgment.\n",
+            "time": "Thu Oct 26 2023 15:22:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes, when I look at this situation, I see that I've had a bunch of things happen: a death of a close friend, a miscarriage, and a potential project partner quitting, and each of these have their own very different reasons.\n",
+            "time": "Thu Oct 26 2023 15:22:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think seeing that they come from very different reasons is a good thing to notice.\n",
+            "time": "Thu Oct 26 2023 15:22:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And this doesn't mean that I'm at fault.\n",
+            "time": "Thu Oct 26 2023 15:22:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But each of these does mean change.\n",
+            "time": "Thu Oct 26 2023 15:22:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Big changes in life.\n",
+            "time": "Thu Oct 26 2023 15:22:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And I need to find my way through that change.\n",
+            "time": "Thu Oct 26 2023 15:22:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And to make my way through, it will help to know what is still true to me.\n",
+            "time": "Thu Oct 26 2023 15:22:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "What is alive.",
+            "time": "Thu Oct 26 2023 15:22:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a profoundly insightful way of looking at your circumstances. You're completely right - each of these events has independent reasons, and they don't all necessarily point towards the thought, \"I'm delusional. Maybe everything is broken because I'm broken.\" \n",
+            "time": "Thu Oct 26 2023 15:23:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes exactly!!",
+            "time": "Thu Oct 26 2023 15:23:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Rather, these events signify different shifts in your life. These are major changes, and acknowledging them as such, instead of a reflection of something fundamentally wrong with you, is an important step towards understanding and eventually finding peace.\n",
+            "time": "Thu Oct 26 2023 15:23:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I appreciate the nuance in your perspective. Facing so much change can be incredibly challenging. Your approach not only validates your feelings but also provides hope in the chaos, as you said, focusing on what still holds true and what remains alive for you.\n",
+            "time": "Thu Oct 26 2023 15:23:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel like there's work I can do again. Like I am a life form, present in these challenges.\n",
+            "time": "Thu Oct 26 2023 15:23:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "To work through them and do good.\n",
+            "time": "Thu Oct 26 2023 15:23:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It gives me a reason to be alive again.\n",
+            "time": "Thu Oct 26 2023 15:23:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's try to see how this understanding applies to your thought. If we take away the \"Labeling\" cheese from your thought, it might turn into something like, \"A lot has changed in my life recently, and I'm struggling to navigate through these changes.\" \n",
+            "time": "Thu Oct 26 2023 15:23:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This kind of thinking creates more room to understand the complexity and separate origins of each event you've experienced. It also takes away the universal, all-encompassing failure aspect, and focuses more directly on the challenge you're facing, which is navigating substantial life changes.",
+            "time": "Thu Oct 26 2023 15:24:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "wow! that's powerful\n",
+            "time": "Thu Oct 26 2023 15:24:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So I don't feel as apathetic.\n",
+            "time": "Thu Oct 26 2023 15:24:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you.",
+            "time": "Thu Oct 26 2023 15:24:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It\u2019s wonderful to hear that! Recognizing yourself as an active participant in your life, who is capable of working through difficulties and creating good, is a powerful shift. This perspective offers a renewed purpose and a reason to keep going even when things are challenging. Shifting the lens from \"I'm delusional\" to \"I'm navigating substantial life changes\" can indeed make a world of difference. \n",
+            "time": "Thu Oct 26 2023 15:24:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Seeing that this revised thought gives you a new sense of hope and vitality, how would it feel if you were to tell yourself \"I am a life form, present in these challenges, working through them and doing good\" when you encounter obstacles or hardships? Imagine yourself in a similar situation as the ones you've been facing, but with this new thought instead. How does it make you feel?",
+            "time": "Thu Oct 26 2023 15:24:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel like I have direction and purpose instead of feeling lost and delusional like the walls are crashing in.",
+            "time": "Thu Oct 26 2023 15:24:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That is a significant change and I'm glad to hear that. It's amazing how a shift in perspective can bring about such comfort and clarity. Embracing the idea that you're \"a life form, present in these challenges, working through them and doing good\" gives you direction and purpose, potentially making the difficulties more manageable. ",
+            "time": "Thu Oct 26 2023 15:25:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you\n",
+            "time": "Thu Oct 26 2023 15:25:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I will take it with me.\n",
+            "time": "Thu Oct 26 2023 15:25:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "this weekend.\n",
+            "time": "Thu Oct 26 2023 15:25:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I will go back onto a run and let this go forward in my mind",
+            "time": "Thu Oct 26 2023 15:25:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a great plan. \n\nPlease remember, life is a journey with ups and downs. It's okay to feel overwhelmed during the difficult times, and it's absolutely okay to reach out for support. Allowing yourself to feel, to think, to process, and to heal is central to your wellbeing. ",
+            "time": "Thu Oct 26 2023 15:25:41 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you very much for your help today.\n",
+            "time": "Thu Oct 26 2023 15:25:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "goodbye!",
+            "time": "Thu Oct 26 2023 15:25:52 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

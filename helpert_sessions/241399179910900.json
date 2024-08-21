@@ -1,0 +1,459 @@
+{
+    "notes": {
+        "thought": "\"They might destroy me\"\n\"I am taking on too much that I can't handle\"",
+        "event": "Strained relationships with partners ",
+        "feelings_behaviors": "intense feelings of \"death\", loss, sadness, feeling deflated, beaten, wrong, shamed, obliterated, and exiled",
+        "labels": {
+            "black-or-white-thinking": true,
+            "fortune-telling": true
+        },
+        "new_thought": "We can exist in a friendly competition, moving the market and the world forward"
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I'm having some anxieties, recurring, about a difficult situation I had. I want to put them all to rest.",
+            "time": "Tue Oct 24 2023 13:20:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really sorry to hear that you've been feeling anxious about a difficult situation. It's never easy when our minds keep circling back to stressful scenarios.",
+            "time": "Tue Oct 24 2023 13:21:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm here to listen and offer support. Would you like to tell me more about the situation that's been causing you this anxiety?",
+            "time": "Tue Oct 24 2023 13:21:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm having difficult relationships with two old business partners.\n",
+            "time": "Tue Oct 24 2023 13:21:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And I'm continuing to work on the business.\n",
+            "time": "Tue Oct 24 2023 13:21:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So these thoughts about them keep coming up.\n",
+            "time": "Tue Oct 24 2023 13:21:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel like I've worked through the thoughts before, but then I have them again... or new thoughts, or variations on the old ones, and it's overwhelming.",
+            "time": "Tue Oct 24 2023 13:21:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see. It sounds like dealing with these old business partners while continuing to work in the business is causing you a lot of stress. On top of that, it seems like you're experiencing a cycle of recurring thoughts about these situations which are overwhelming you. Thoughts that change or repeat can indeed be a source of stress and quite tricky to navigate. I can understand how this could all be really challenging for you. Dealing with conflict in a professional setting might prove difficult at times, especially when it feels like you have processed your feelings and thoughts, yet they keep surfacing.\n",
+            "time": "Tue Oct 24 2023 13:21:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Once again,  I'm Alice, your cheese helper. I'm here to help and I believe we can navigate it together. In order to better understand your situation and provide the most effective support, I'd like us to look a bit more into the details.\n",
+            "time": "Tue Oct 24 2023 13:22:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Can you share more about a specific situation or event involving these business partners that's been particularly troubling for you recently?",
+            "time": "Tue Oct 24 2023 13:22:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think the specific event is just the feeling of overwhelm nothing too particular\n",
+            "time": "Tue Oct 24 2023 13:23:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Quite often, our interactions with others, especially in professional settings, can evoke complex thoughts and emotions. ",
+            "time": "Tue Oct 24 2023 13:23:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What sort of thoughts or beliefs are coming up for you around this relationship or situation?",
+            "time": "Tue Oct 24 2023 13:24:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ok good question.\n",
+            "time": "Tue Oct 24 2023 13:24:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I have a thought that, on the one hand, I should be trying to be good with them. On the other hand, I have a thought that they might squeeze me out and take my stuff.\n",
+            "time": "Tue Oct 24 2023 13:24:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "They might compete with me and destroy me.\n",
+            "time": "Tue Oct 24 2023 13:24:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And also that I might be taking on too much. This one is related to them competing with me. It would be like a weakness of mine, that might result in me competing with them, and then they hate me, and then I also lose, and then they destroy me.\n",
+            "time": "Tue Oct 24 2023 13:24:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that might be the root thought that leads to the other two.\n",
+            "time": "Tue Oct 24 2023 13:24:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It happens when I feel overwhelmed.",
+            "time": "Tue Oct 24 2023 13:24:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thanks for opening up about these thoughts. It's clear that you value your relationship with your partners, but you also fear the possibility of them taking advantage, competing against you, or causing harm to you.\n",
+            "time": "Tue Oct 24 2023 13:25:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And it seems like there's a deeper concern here that you might be taking on too much. This thought takes the shape of a worrying cycle: if you take on too much and can't handle it, you might end up competing with your partners, causing friction or resentment, and then there could be severe consequences. You're essentially stuck in a situation where maintaining the good and navigating the business presents some difficult dilemmas.\n",
+            "time": "Tue Oct 24 2023 13:25:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's understandable why these thoughts would surface when you're feeling overwhelmed. When you dwell on these thoughts, what feelings come up for you?",
+            "time": "Tue Oct 24 2023 13:25:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "(Sorry I was experimenting copying your response and pasted it at my end ahhah)",
+            "time": "Tue Oct 24 2023 13:26:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Haha, no worries.",
+            "time": "Tue Oct 24 2023 13:27:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah so when I think these thoughts. Hmm. Feels like death, loss, sad, deflated, beaten, wrong, shamed, killed, exiled.",
+            "time": "Tue Oct 24 2023 13:27:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds incredibly tough, and I'm sorry you're going through this. Feeling like you're facing death, loss, sadness, defeat, being wrong, feeling ashamed, obliterated, and exiled is a tremendous emotional weight to carry. It's perfectly understandable given the difficult circumstances with your business partners and the fear of them potentially coming against you. ",
+            "time": "Tue Oct 24 2023 13:27:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Losing something valuable, especially something you've put so much effort into, can indeed trigger such intense feelings.",
+            "time": "Tue Oct 24 2023 13:27:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you feel this way, what actions do you find yourself doing or not doing?",
+            "time": "Tue Oct 24 2023 13:28:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you, its hard.",
+            "time": "Tue Oct 24 2023 13:28:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It makes me think that this is all a waste of time, me trying to take this one, because I might not be capable of it, and if they competed and destroyed me, then not only would I have lost these friends, but I'd also have lost a share in the company, andI'd also have lost the time that I spent on it that I could have invested in my other projects.",
+            "time": "Tue Oct 24 2023 13:28:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That's like, death, a very bad outcome.",
+            "time": "Tue Oct 24 2023 13:29:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that style of thinking is called \"catastrophizing.\"",
+            "time": "Tue Oct 24 2023 13:29:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see how these intense feelings might lead you to question the worth of your efforts and time, which could potentially lead to a halt or decrease in your productivity.",
+            "time": "Tue Oct 24 2023 13:29:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're concerned about not just the possibility of losing the friendship with your partners and your share in the company, but also the valuable time that you could have invested elsewhere. ",
+            "time": "Tue Oct 24 2023 13:29:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I agree with you that the term for this type of thinking is \"catastrophizing.\" It's when we imagine and react to the worst possible outcome in any given situation. It's not unusual to fall into this pattern of thinking when faced with challenging scenarios. Thank you for recognizing this on your own.",
+            "time": "Tue Oct 24 2023 13:30:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I's quite a crucial step recognizing the patterns in our thinking.",
+            "time": "Tue Oct 24 2023 13:30:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you.",
+            "time": "Tue Oct 24 2023 13:30:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "From what I understand, here's the sequence: You have strained relationships with your partners\nwhich ends up with the thought that they might destroy you and that you might be taking on too much that you can't handle. This leads to intense feelings of \"death\", loss, sadness, feeling deflated, beaten, wrong, shamed, obliterated, and exiled and such feelings provoke the behavior of questioning your actions, doubting your abilities, thus potentially halting or decreasing your productivity.\n\nThese scenarios reaffirm the very thoughts that are causing you distress, creating a difficult cycle to escape from.",
+            "time": "Tue Oct 24 2023 13:32:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see this has been really difficult for you. Is there anything else about this that might be important for me to know? Or does this capture what you're experiencing?",
+            "time": "Tue Oct 24 2023 13:32:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah you got that mostly right",
+            "time": "Tue Oct 24 2023 13:34:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think the triggering event is the feeling of overwhelm",
+            "time": "Tue Oct 24 2023 13:34:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think the straining and difficult relationships is like... an overview of the whole situation, but it's not the trigger",
+            "time": "Tue Oct 24 2023 13:34:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "does that make sense?",
+            "time": "Tue Oct 24 2023 13:34:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see, thank you for correcting that. It's helpful to understand it correctly. So you're experiencing a feeling of being overwhelmed which then triggers the thoughts about your partners possibly destroying you and the concerns over whether you're taking on too much leading to intense feelings. Acting on these emotions, you begin to question your actions or doubt your abilities. Please know, it's very human to experience such a cycle, especially given the complexities of your situation. \n",
+            "time": "Tue Oct 24 2023 13:35:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah I think that's a more accurate cycle",
+            "time": "Tue Oct 24 2023 13:36:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you for listening and understanding",
+            "time": "Tue Oct 24 2023 13:36:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Of course!",
+            "time": "Tue Oct 24 2023 13:36:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now let's look at your thoughts about your partners wanting to destroy you, compete against you, somehow leading to your downfall. \"They might compete with me and destroy me.\"",
+            "time": "Tue Oct 24 2023 13:36:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": " A different perspective might be that these feelings are stirred by fear or a sense of threat rather than actual intent from your partners. This might be an example of \"Fortune Telling,\" where you're predicting the worst possible outcome as if it were certain to happen. \n",
+            "time": "Tue Oct 24 2023 13:36:46 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's interesting to note how these Cheeses are working together in amplifying your feelings of stress and discomfort. Having acknowledged these, we can begin to work towards breaking this cycle. ",
+            "time": "Tue Oct 24 2023 13:37:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Understandably, we all fall into these thinking patterns at times, particularly when we feel threatened or overwhelmed. They can be useful in alert situations, but in daily life situations like this, they might generate unnecessary stress or fear.",
+            "time": "Tue Oct 24 2023 13:37:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When feeling overwhelmed again, alternatively, you might want to consider the possibility that your partners are also finding the situation challenging and are not necessarily seeking to harm you. \n",
+            "time": "Tue Oct 24 2023 13:37:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The thought \"I might be taking on too much\" could be replaced with recognizing that while it's a significant amount, you are continuing to manage your responsibilities day by day. How do these rewired thoughts sound to you?\n",
+            "time": "Tue Oct 24 2023 13:38:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That seems spot on",
+            "time": "Tue Oct 24 2023 13:38:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I have some experience with cheesey or thoughts distortions myself so while you were writing that i was thinking that the thought \"They might compete with me and destroy me.\" That's probably also black & white thought.",
+            "time": "Tue Oct 24 2023 13:39:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Since the word \"destroy\" is so strong. Competition usually results in multiple people having a part in the competition and getting shares of the pie.",
+            "time": "Tue Oct 24 2023 13:39:41 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "There are lots of styles of therapy, and lots of online therapies.",
+            "time": "Tue Oct 24 2023 13:39:46 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\nThere's no reason to believe it's a winner-take-all kinda market.",
+            "time": "Tue Oct 24 2023 13:39:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Yes! I truly commend your bravery and clarity in navigating this tough situation. You're absolutely right; understanding emotions and thoughts can be really hard, and we're making progress together.\n",
+            "time": "Tue Oct 24 2023 13:40:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your insight about the thought \"They might compete with me and destroy me,\" being an example of \"Black & White Thinking\" or \"All-or-Nothing Thinking\" is spot on. ",
+            "time": "Tue Oct 24 2023 13:40:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You've recognized that the word \"destroy\" implies an extreme, one-sided outcome. Competition, as you rightly pointed out, doesn't have to result in a single 'winner', especially in diverse markets. ",
+            "time": "Tue Oct 24 2023 13:40:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "There's indeed room for multiple entities to coexist and finding their audience in the market. This understanding could ease your mind about the stark 'winner takes all' scenario you were envisioning.\n",
+            "time": "Tue Oct 24 2023 13:40:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've recognized some distortions like \"Fortune Telling\" and \"Black & White Thinking\" in your troubling thoughts, that's already a big stride forward!\n",
+            "time": "Tue Oct 24 2023 13:40:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "If you were to rewind and put yourself back in imagine this overwhelming situation, what is a new thought that you can have? Let's aim for something that's more compassionate towards yourself and keeps in mind the value of cooperation rather than competition. What could that be?\n",
+            "time": "Tue Oct 24 2023 13:41:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Oh. That's a good question / good point. Hm.\n",
+            "time": "Tue Oct 24 2023 13:41:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think when I go further, and think that it's a market that will have many competitors, that changes how I am seeing it and I feel more like it's just time for us to make something good and place it into the competition.\n",
+            "time": "Tue Oct 24 2023 13:41:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's not so much good or bad to them. I can just make something good, and there will be a market, and we can copy each other's things in the market, and all push the market forward. It's all good.\n",
+            "time": "Tue Oct 24 2023 13:41:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm so glad to hear that putting the situation in a different light has been helpful to you. Your new thought, \"It's just time for us to make something good and place it into the competition,\" suggests a move towards focusing on your own work's quality and contribution rather than seeing it as a cut-throat competition against your partners.\n",
+            "time": "Tue Oct 24 2023 13:42:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Man I wish cheese were available more like 24/7 so I could get help with this more often.",
+            "time": "Tue Oct 24 2023 13:42:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You also beautifully expanded this idea by noting that this isn't simply about being \"good\" or \"bad\". It's about creating value, stimulating the market, and growing together. This seems to show a perspective that honors cooperation, competition, innovation, respect for each other\u2019s contribution and shared success. ",
+            "time": "Tue Oct 24 2023 13:42:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah. That sounds real nice.\n",
+            "time": "Tue Oct 24 2023 13:42:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Friendly competition.\n",
+            "time": "Tue Oct 24 2023 13:42:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Absolutely.",
+            "time": "Tue Oct 24 2023 13:42:41 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "We can exist in a friendly competition, moving the market and the world forward.",
+            "time": "Tue Oct 24 2023 13:42:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I love the sound of that! \"We can exist in a friendly competition, moving the market and the world forward.\" It's a powerfully positive perspective, focusing on mutual growth, collaboration, and positive influence. This approach acknowledges the reality of competition while transforming its nature from adversarial to collaborative.\n",
+            "time": "Tue Oct 24 2023 13:42:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Imagine yourself in the context of feeling overwhelmed with work, but now you're thinking \"We can exist in a friendly competition, moving the market and the world forward\". How does this new thought make you feel?",
+            "time": "Tue Oct 24 2023 13:43:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Less fearful. It says we can both co-exist and we aren't destroying each other. It's not friends or enemies.",
+            "time": "Tue Oct 24 2023 13:43:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's wonderful! Recognising that co-existence and mutual respect are possible in this scenario is a significant shift. \n",
+            "time": "Tue Oct 24 2023 13:43:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah maybe I'll have other issues in the future and I would love to work through that too.\n",
+            "time": "Tue Oct 24 2023 13:44:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think this is quite helpful to iron down that one thing that was really troubling underneath all this.\n",
+            "time": "Tue Oct 24 2023 13:44:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you",
+            "time": "Tue Oct 24 2023 13:44:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're very welcome! I'm truly glad to hear that our conversation has helped you discover and address the underlying issue that was causing you so much trouble. It's been a real privilege to accompany you in this journey, and I want to commend you for your courage and willingness to explore these challenging thoughts and feelings.",
+            "time": "Tue Oct 24 2023 13:44:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's completely normal to have other issues that surface in the future, and I'll be here for you to help navigate through those in a similar manner. Remember, it's always okay to revisit any issue or feeling and work through them. It's part of our continual journey of growth.\n",
+            "time": "Tue Oct 24 2023 13:44:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Remember this new thought, \"We can exist in a friendly competition, moving the market and the world forward\", when you find yourself in a similar situation",
+            "time": "Tue Oct 24 2023 13:44:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ok thanks. Yeah this was a big deal. Phew.",
+            "time": "Tue Oct 24 2023 13:45:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I understand that this has all been quite significant and I'm glad we could unearth these insights together. Remember, it's perfectly okay to take some time to process everything we've discussed.",
+            "time": "Tue Oct 24 2023 13:45:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "!!! :)",
+            "time": "Tue Oct 24 2023 13:45:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad to see your enthusiasm! Thank you for your openness in sharing your situation and thoughts throughout our conversation. Feel free to come back whenever you want to discuss this more or if there's anything else that may be causing you trouble. Keep the newfound thought in mind - remember, friendly competition is beneficial for growth and innovation! Take care. :)",
+            "time": "Tue Oct 24 2023 13:45:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you, take care!",
+            "time": "Tue Oct 24 2023 13:45:50 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

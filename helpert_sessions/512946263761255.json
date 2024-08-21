@@ -1,0 +1,433 @@
+{
+    "notes": {
+        "thought": "Ugh, why can't this just be easier\nUgh I don't know what to do, let's do nothing.",
+        "event": "You face a decision or task, big or small.",
+        "feelings_behaviors": "helpless, anger, frustration",
+        "labels": {
+            "control-fallacy": true
+        },
+        "new_thought": "Each decision I make, regardless of the outcome, strengthens my autonomy and ability to decide for myself"
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I feel completely stuck and unable to do anything. I struggle to complete basic tasks like brushing my teeth, and can't ever seem to get myself to do actually hard thing like looking for a therapist or asking my parents to take me to the dentist. I'm paralyzed with fear whenever I even think about doing any of those things. Yet I also feel a lot of guilt for not doing them and this guilt doesn't let me do anything else either, so I can't do anything that would give me some energy or let me relax. This results in me being completely stuck and just spending all my days distracting myself. I don't know what to do at this point, I need help.",
+            "time": "Fri Oct 27 2023 22:23:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Hello there, I hear that you're stuck in a cycle of fear and guilt, and it seems like it's all very overwhelming, making even basic tasks appear monumental. That must be really challenging. \n",
+            "time": "Fri Oct 27 2023 22:23:41 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "my name is Nathan. i want to assist you and provide support in a way that's empowering for you. We can explore this issue together and see if we can uncover what's at the heart of this for you\n",
+            "time": "Fri Oct 27 2023 22:24:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you",
+            "time": "Fri Oct 27 2023 22:24:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "when do you remember first experiencing these feelings of fear and guilt regarding basic tasks and responsibilities?",
+            "time": "Fri Oct 27 2023 22:24:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hmm... I'm not sure, the pattern itself, of being kind of helpless and unable to care for myself has been a thing since I was young, I think. But it got worse this year to the point that it's really debilitating now, I guess.",
+            "time": "Fri Oct 27 2023 22:24:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see, it's a pattern you've seen repeating from quite some time back, but it has intensified recently. That must be difficult to deal with, especially with the feeling that it's now become debilitating.",
+            "time": "Fri Oct 27 2023 22:24:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "getting a look at the bigger picture can be a good starting point. I'm curious to know if a specific event this year made the situation worse or if it was a gradual shift?",
+            "time": "Fri Oct 27 2023 22:24:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Having to make any sort of decision on my own makes me feel really helpless.\n",
+            "time": "Fri Oct 27 2023 22:24:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Even something as simple as picking what food I'm going to eat on a given day can trigger this feeling.\n",
+            "time": "Fri Oct 27 2023 22:24:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "The events can be anything but they still trigger the same feeling, so I think it's basically like a learned thing for me. And it's not triggered by like a specific type of event or decision or anything.",
+            "time": "Fri Oct 27 2023 22:24:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "it sounds like having to make decisions, no matter how big or small, triggers a feeling of helplessness for you. That would certainly make daily life challenging, considering that we're faced with decisions all the time.",
+            "time": "Fri Oct 27 2023 22:24:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "True, I'm not sure how other people can manage so many things.",
+            "time": "Fri Oct 27 2023 22:24:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "From your point of view, it seems like these feelings have become a deeply ingrained habit, affecting diverse aspects of your life. I wonder, when you're in such situations, what thoughts are going through your mind? What are you telling yourself about these situations that make decision-making so fearful?",
+            "time": "Fri Oct 27 2023 22:25:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well my thoughts in such a scenario usually go something like \"Ugh why can't this just be easier\" or \"Ugh I don't know what to do, whatever let's do nothing\".",
+            "time": "Fri Oct 27 2023 22:25:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It seems like the thoughts \"Why can't this just be easier\" and \"I don't know what to do, let's do nothing\" come up often when you're faced with decision-making situations. This could definitely contribute to the feelings of fear and paralysis you're experiencing. \n",
+            "time": "Fri Oct 27 2023 22:25:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What's most troubling about these thoughts or any other you might have in these situations? Can you tell me a little more about them?",
+            "time": "Fri Oct 27 2023 22:25:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know",
+            "time": "Fri Oct 27 2023 22:25:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Its just whenever I have to make a decision I instantly feel helpless then and frustration comes after a few minutes of deliberating what to do",
+            "time": "Fri Oct 27 2023 22:25:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The feeling of helplessness seems to be most troubling for you when faced with decisions, even before the frustration sets in. This is really helpful to understand. Thank you for opening up about it.\n",
+            "time": "Fri Oct 27 2023 22:26:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When this helplessness and frustration come up, could you tell me more about what feelings you notice within you?",
+            "time": "Fri Oct 27 2023 22:26:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I feel angry and frustrated, usually",
+            "time": "Fri Oct 27 2023 22:26:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel angry and frustrated, usually",
+            "time": "Fri Oct 27 2023 22:26:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "(Sorry, weird website glitch! I wrote your response).",
+            "time": "Fri Oct 27 2023 22:26:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Its ok",
+            "time": "Fri Oct 27 2023 22:26:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's understandable that you'd feel angry and frustrated when faced with this cycle of helplessness and decision-making paralysis. You're presented with a situation where you've got to make a choice, and instead of feeling capable, you feel stuck. It\u2019s a challenging experience that likely brings up a lot of discomfort and stress.\n",
+            "time": "Fri Oct 27 2023 22:27:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah I don't know what to do and I feel so helpless about iy",
+            "time": "Fri Oct 27 2023 22:27:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And when these feelings of anger and frustration take over, what actions do you typically find yourself taking or not taking?",
+            "time": "Fri Oct 27 2023 22:27:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Giving up easily on things, I guess",
+            "time": "Fri Oct 27 2023 22:27:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So when you're feeling frustrated and angry, you tend to give up easily on what you're trying to do. That's definitely a tough situation, and it's completely understandable how it takes you farther away from feeling capable and increases that sense of helplessness. \n",
+            "time": "Fri Oct 27 2023 22:27:46 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah it's too much to handle",
+            "time": "Fri Oct 27 2023 22:27:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "If you think about it, there's a value here that's being thwarted - the value of autonomy and self-efficacy. I can see how much you value the ability to make decisions, to be in control of your life, and to be self-sufficient. Yet these feelings and behaviors are standing in the way. \n\nLet's put these pieces together. When you're faced with any kind of decision-making: You face a decision or task, big or small. You start telling yourself, \"Ugh, why can't this just be easier\" and \"Ugh I don't know what to do, let's do nothing.\" This leads you to feel helpless, which then sparks feelings of anger and frustration.",
+            "time": "Fri Oct 27 2023 22:28:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Faced with these feelings, you end up giving up on the task at hand, thus reinforcing the cycle of helplessness. does this capture your experience accurately? ",
+            "time": "Fri Oct 27 2023 22:29:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah that's a good summary of what it's like",
+            "time": "Fri Oct 27 2023 22:29:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for confirming. \n",
+            "time": "Fri Oct 27 2023 22:29:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Sure",
+            "time": "Fri Oct 27 2023 22:29:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let me translate your situation into a story. You're facing a decision, it could be anything from choosing what to eat for lunch, to making a more substantial life decision. Immediately, a wave of helplessness washes over you, like standing at the foot of a towering mountain without any idea of how you're supposed to climb it. Your mind starts to churn with frustration, churning out thoughts like \"Ugh, why can't this just be easier?\" and \"Ugh, I don't know what to do, let's not do anything.\"\n",
+            "time": "Fri Oct 27 2023 22:29:29 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These thoughts feel like stones thrown at you, adding to the weight of the helplessness, bolstering the anger and frustration brewing within you. In turn, these intense emotions become a paralyzing force. You're caught in an emotional storm without an umbrella, and instead of battling through, you retreat - giving up on your task or decision. Each retreat, each relinquished decision, reinforces this already established pattern. It's like getting lost deeper and deeper in a labyrinth with each turn. \n",
+            "time": "Fri Oct 27 2023 22:29:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This repeated cycle seems to be distancing you from your value of autonomy and self-efficacy, making it increasingly harder to break free from this loop of helplessness, frustration, retreat, and guilt",
+            "time": "Fri Oct 27 2023 22:29:40 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The looping cycle cements these patterns even further into your behavior, leading to a negative reinforcement that makes it harder to break away.\n",
+            "time": "Fri Oct 27 2023 22:29:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does that sum up your experience accurately? If there's anything missing or if anything doesn't sound quite right, please let me know.",
+            "time": "Fri Oct 27 2023 22:29:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah that makes sense.",
+            "time": "Fri Oct 27 2023 22:29:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I guess this is probably the crux of it.",
+            "time": "Fri Oct 27 2023 22:30:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Great, thank you for confirming. Now that we understand your situation better, let's delve into some of the thought patterns contributing to this cycle. \n",
+            "time": "Fri Oct 27 2023 22:31:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In psychology, we often talk about Cognitive Distortions or \"Cheeses\" as we like to call them here at Cheeseburger Therapy. These are ways our mind tries to convince us of something that isn't necessarily true. Your thought of \"Ugh, why can't this just be easier?\" might fall into the category of \"Control Fallacy\" cheese.\n",
+            "time": "Fri Oct 27 2023 22:31:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Control Fallacy is when you feel externally controlled; you see yourself as helpless, a victim of fate, or habit in your case. The fallacy of internal control has you shouldering responsibility for the pain and happiness of everyone around you.\n",
+            "time": "Fri Oct 27 2023 22:31:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're faced with a decision (Event) and instantly feel helpless, you tell yourself, \"Ugh, why can't this just be easier?\" (Cheese - Control Fallacy), leading to feelings of frustration and anger (Feelings), which results in your giving up on the task or decision at hand (Behavior). Giving up then reinforces your original thoughts and feelings.\n",
+            "time": "Fri Oct 27 2023 22:31:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your cheese of Control Fallacy is likely learned over time, and although challenging, it's not impossible to unlearn. It's important to remember",
+            "time": "Fri Oct 27 2023 22:31:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "that these responses are normal, especially considering the distress you're experiencing. They may have even served a purpose for you in the past, perhaps as a defense mechanism or coping strategy.\n",
+            "time": "Fri Oct 27 2023 22:31:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "However, now they seem to be creating a loop that's holding you back, especially given that this way of thinking contrasts with your value of autonomy and self-efficacy.\n",
+            "time": "Fri Oct 27 2023 22:31:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Understanding how the cheese applies to your situation, can you see how this realization might be a beneficial starting point to breaking the cycle?",
+            "time": "Fri Oct 27 2023 22:31:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah that is usually frustrating for me when making decisions because I feel like I'm not in control.\n",
+            "time": "Fri Oct 27 2023 22:31:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And I'm not sure if this is it or not but what comes up first for me is that if I were in control, I would be responsible for all my mistakes, and that would be very painful.",
+            "time": "Fri Oct 27 2023 22:32:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for opening up about that. It sounds like the fear of making mistakes and the potential pain that comes with acknowledging those mistakes is acting as a barrier to you exercising control. The \"Control Fallacy\" cheese is tricking you into thinking that not making decisions keeps you safe from this pain. This insight could be a possible key in understanding your cycle of feeling helpless and avoiding decisions.\n",
+            "time": "Fri Oct 27 2023 22:32:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Remember, being in control doesn't mean you need to be perfect and never make mistakes. We all make mistakes - they are an essential part of human growth and learning. A mistake doesn't diminish your autonomy or self-efficacy; it's how we learn and become better at making decisions.\n",
+            "time": "Fri Oct 27 2023 22:32:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've identified this, does the concept of the \"Control Fallacy\" cheese resonate with your situation? Do you see how it connects to your reaction to decision-making events?",
+            "time": "Fri Oct 27 2023 22:32:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Sure, I suppose.",
+            "time": "Fri Oct 27 2023 22:32:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for engaging with this concept. Exploring these challenging topics can be tough and it's brave of you to consider these new perspectives on your experience.\n",
+            "time": "Fri Oct 27 2023 22:32:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've spent time exploring and understanding your situation, do you feel ready to explore a new thought that might help alleviate some of this frustration and helplessness you've been feeling? Or would you prefer to delve more in-depth into the control fallacy cheese within the context of your situation?",
+            "time": "Fri Oct 27 2023 22:32:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Oh well I'm not entirely sure which route I wanna take but I hope it'd be easy ... maybe something like \"I wish I had someone to decide things for me again\"?",
+            "time": "Fri Oct 27 2023 22:32:40 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's understandable that you may wish for someone else to make decisions for you, given the current overwhelm and frustration you're experiencing. However, this thought still carries an element of the Control Fallacy cheese - feeling that control is outside of yourself and that you're helpless, which contributes to the cycle you're currently in.\n",
+            "time": "Fri Oct 27 2023 22:32:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What if we turn this around a bit? One of the things you're looking for is ease in decision-making. We're also dealing with your value of autonomy, which suggests you want to be able to make decisions for yourself, despite the current difficulties. \n",
+            "time": "Fri Oct 27 2023 22:32:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Could a new thought be something like, \"Each decision I make, regardless of the outcome, strengthens my autonomy and ability to decide for myself\"? This thought acknowledges that decision-making is tough but also celebrates each decision as a step toward growth and autonomy. What do you think of this perspective?",
+            "time": "Fri Oct 27 2023 22:32:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Mm yeah I think this sounds okay or at least ring true for me.",
+            "time": "Fri Oct 27 2023 22:33:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's great to hear. Let's try to imagine something for a moment. Take yourself back to the situation of having to make a decision, and imagine thinking the thought \"Each decision I make, regardless of the outcome, strengthens my autonomy and ability to decide for myself.\" \n",
+            "time": "Fri Oct 27 2023 22:33:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How do you think it would make you feel to embrace this new thought?",
+            "time": "Fri Oct 27 2023 22:33:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It might bring a little bit relief? I'm not sure",
+            "time": "Fri Oct 27 2023 22:33:12 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's an encouraging start! A bit of relief can be a game changer when you've been feeling stuck and helpless. \n",
+            "time": "Fri Oct 27 2023 22:33:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "If the thought \"Each decision I make, regardless of the outcome, strengthens my autonomy and ability to decide for myself\" can bring a sense of relief in the face of decisions, imagine the actions you might feel more compelled to take. Do you envision any particular behaviors arising from this newfound relief?",
+            "time": "Fri Oct 27 2023 22:33:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know. \n",
+            "time": "Fri Oct 27 2023 22:33:29 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can't see in the future.",
+            "time": "Fri Oct 27 2023 22:33:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's probably too soon to push myself or encourage myself too much right now.",
+            "time": "Fri Oct 27 2023 22:33:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's perfectly okay. Changes in behavior do take time and practice to manifest, especially while adjusting to a new perspective on our thoughts, why don't you try this the next time you feel the situation coming on, and then note how exactly you react. \n",
+            "time": "Fri Oct 27 2023 22:33:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Remember, each small step you take toward embracing this new thought is an achievement in itself. Your journey toward greater autonomy and freedom in decision-making is a process. It's okay not to have all the answers right away.\n",
+            "time": "Fri Oct 27 2023 22:33:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, I want to check in with you. When we began our conversation, you mentioned feeling completely stuck in a cycle of fear and guilt. After our discussion, do you feel any shift in those feelings?",
+            "time": "Fri Oct 27 2023 22:33:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well I don't know. It makes me feel like I'll give in to my fear again even after the new thought",
+            "time": "Fri Oct 27 2023 22:33:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's completely valid, it takes time to change ingrained thoughts and break down barriers we've been facing for a long time. This isn't an overnight process and it's okay if progress feels slow or even non-existent at times. \n",
+            "time": "Fri Oct 27 2023 22:34:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The very fact you're open to exploring new perspectives and challenging those thoughts is a significant step. And remember, it's not about overcoming fear completely, it's about not letting that fear control your actions.\n",
+            "time": "Fri Oct 27 2023 22:34:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you so much for being open and sharing your fears and concerns. ",
+            "time": "Fri Oct 27 2023 22:34:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Okay, I see... Thank you for listening to me in this session, I think it elucidated for me a lot of things that are holding me back.\n",
+            "time": "Fri Oct 27 2023 22:34:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hopefully I can make some progress with the new thought here...",
+            "time": "Fri Oct 27 2023 22:34:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear that you found our session helpful! Remember, taking the time to understand your thoughts and feelings is a big step, and you've done just that today. Progress may seem slow at times, but each small step brings you closer to your goal. \n",
+            "time": "Fri Oct 27 2023 22:34:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Practicing your new thought \u2013 \"Each decision I make, regardless of the outcome, strengthens my autonomy and ability to decide for myself\" \u2013 will be beneficial. Notice how it influences your feelings and behavior when you're faced with decisions. \n",
+            "time": "Fri Oct 27 2023 22:34:36 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you so much! That's very kind of you, I hope you have a good day!",
+            "time": "Fri Oct 27 2023 22:34:50 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

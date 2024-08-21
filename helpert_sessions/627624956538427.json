@@ -1,0 +1,393 @@
+{
+    "notes": {
+        "thought": "\"Adulthood gives me the fear of failing.\"",
+        "event": "The big event was losing your mother in 2019 and then having to move out of her house.",
+        "feelings_behaviors": "sadness, anxiety, frozen",
+        "labels": {
+            "black-or-white-thinking": true
+        },
+        "new_thought": "\"I am learning and growing in my journey, regardless of the outcome.\""
+    },
+    "messages": [
+        {
+            "user": "helper",
+            "text": "Hi there, welcome to Cheeseburger Therapy. My name is Nathan.",
+            "time": "Wed Nov 15 2023 22:30:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hey nathan",
+            "time": "Wed Nov 15 2023 22:30:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I lost my mom in apr of 2019 and I did a big step by applying for an apartment and I\u2019m kind of anxious",
+            "time": "Wed Nov 15 2023 22:31:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm so sorry to hear about the loss of your mom. Losing a loved one can be incredibly painful and difficult to navigate. It's understandable that taking a big step like applying for an apartment would bring up feelings of anxiety. Can you tell me a bit more about what specifically is causing you to feel anxious?",
+            "time": "Wed Nov 15 2023 22:31:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just feel so much anxiety. I was living in my mom's house until January and now I\u2019m staying with my cousin with her children. Although I love them, I needed my own space and applied for my own apartment. But I realized the kids fill a void when they\u2019re around and when I move out, I am afraid that I\u2019ll fall back into that. Like I know I\u2019m able to visit, but I just feel it wouldn't be the same.\n",
+            "time": "Wed Nov 15 2023 22:32:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "First of all, let me tell you that I'm really sorry about your mom's passing. It must have been a hard time for you. It sounds like you've been dealing with a lot of transition and change recently - moving out of your mom's house, finding temporary accommodation with your cousin and her children, and now looking for your own place. All these can certainly stir up a lot of emotions. \n",
+            "time": "Wed Nov 15 2023 22:32:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You mentioned a sense of anxiety and also a concern about potentially feeling a void when the kids aren't around. So, your fear about this move seems to be tied closely to your need for connection and company. Is that correct? ",
+            "time": "Wed Nov 15 2023 22:32:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes. Like o feel that I don\u2019t want to be an burden on my cousin cause she has a house full on her own. It\u2019s just that I don\u2019t want to make my self feel a burden but at the same time grow into my adult hood with the fear of failing",
+            "time": "Wed Nov 15 2023 22:33:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": " It definitely sounds like you've been managing a balancing act - wanting to take on adulthood and carve out space for yourself, but also worrying about failure, and not wanting to impose on your cousin. I can see your value for independence shining through, coupled with a genuine concern for your cousin's wellbeing and an understandable fear of the unknown. It seems like this upcoming move represents a big step toward that independence, but it's also tied to uncertainty and worry about what comes next and whether you'll be able to manage it. It's natural to have these fears when facing such life-changing decisions. ",
+            "time": "Wed Nov 15 2023 22:33:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you think about moving to your own place and contemplating the possibility of failure, can you tell me more about this fear of failure and what it looks like to you? What scares you the most about it?",
+            "time": "Wed Nov 15 2023 22:33:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well, even though my mom passed,  I had to take care of her being the only child. Now that she\u2019s gone, I really don\u2019t know what I want to do. I just find myself busy at work to avoid feelings. That\u2019s what I did when I knew she was passing. I don't know what I am even really scared of, maybe just all the responsibility and feeling like I have to move forward. ",
+            "time": "Wed Nov 15 2023 22:33:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Oh, dear friend. I see you. You've been carrying a heavy weight. Considering the feelings of loss and the responsibility that you've had to shoulder, it\u2019s completely understandable to feel overwhelmed. When someone we love passes, it leaves a void in our life that often feels impossible to fill. It's no wonder that the prospect of moving into your own apartment, on top of all this change and loss, feels scary. \n",
+            "time": "Wed Nov 15 2023 22:34:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Being an only child caring for a dying parent is an enormous role to fill, and it\u2019s natural to divert that energy to other areas, such as work, as a way to cope. Your fear seems to be tied up in this immense upheaval and the great unknown that comes with it. It sounds like you're wrestling with the sense of obligation to move forward, combined with the uncertainty of what moving forward actually means. \n",
+            "time": "Wed Nov 15 2023 22:34:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Could you help me understand a bit more about the responsibilities that are making you anxious? Also, what does 'moving forward' look like to you?",
+            "time": "Wed Nov 15 2023 22:34:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well, I think getting this apartment and dealing with my new job is a lot of responsibility. I think those things are part of moving forward for me, but also being active in building relationships with more people. I'm just avoid touchy topics a lot (I cry a lot about my mom), so sometimes it's hard. ",
+            "time": "Wed Nov 15 2023 22:34:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can wholeheartedly empathize with how much you're going through. Transitioning into a new apartment is certainly a big responsibility, and when combined with adjusting to a new job, it\u2019s a lot to navigate. You're also desiring to build relationships with more people, which is a very valid and meaningful goal. \n",
+            "time": "Wed Nov 15 2023 22:34:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your value for connection is shining through here. You're seeking connection with others, even though opening up to people and tackling personal subjects can feel really hard, especially when it triggers so much grief. You fear that this might make you appear vulnerable, but please know, dear friend, that it's perfectly okay and human to cry and express your feelings, especially about a loss as profound as that of your mother. ",
+            "time": "Wed Nov 15 2023 22:35:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "After living through such a profound loss, it must be tough at times to imagine a future without your mom in it. When you think about \"having to move forward\" and your fear around it, what feelings does that bring up for you?",
+            "time": "Wed Nov 15 2023 22:35:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel like sobbing, frozen. ",
+            "time": "Wed Nov 15 2023 22:35:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I am genuinely sorry for what you're going through. Your feelings of sadness and being frozen are perfectly understandable given what you've been experiencing. Losing your mother, changing your living situation, navigating a new job - any one of these is daunting on its own, and you're tackling all three at once. That's a lot for anyone to handle.\n",
+            "time": "Wed Nov 15 2023 22:35:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you those words mean a lot to me",
+            "time": "Wed Nov 15 2023 22:35:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you feel this deep sadness and the sensation of being frozen, what actions do you find yourself taking (or not taking)?",
+            "time": "Wed Nov 15 2023 22:36:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just work to avoid feeling things. ",
+            "time": "Wed Nov 15 2023 22:36:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That\u2019s what I did when I knew she was passing too\n\n",
+            "time": "Wed Nov 15 2023 22:36:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It truly sounds like you're carrying a heavy burden of sadness and loss. Using work as a way to avoid these overwhelming feelings is a coping mechanism many of us use in tough times. It helps us to keep busy and distract ourselves from the pain. \n",
+            "time": "Wed Nov 15 2023 22:37:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your mom's passing has certainly left a hole in your life. Meanwhile, you've been trying to hold together and at the same time handle other big changes like getting a new job and now applying for an apartment. This all while nursing a fear of failure and of being alone in your new place. These fears then pull you into a whirlpool of emotions where you feel like sobbing and frozen at the same time. And to try and cope with all the emotional turmoil, you've been immersing yourself in work as a tool to avoid these overwhelming feelings. And yet, amidst these challenges and the looming fear of failure, I see a courageous spirit within you. You\u2019re confronting some really challenging feelings and transitions, while also making sure you're doing what you need to move forward. All these certainly reflect your resilience. \n\n",
+            "time": "Wed Nov 15 2023 22:39:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Do you think this summary accurately represents what you're experiencing right now, or is there something more you'd like to add?",
+            "time": "Wed Nov 15 2023 22:39:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "No that\u2019s about it\n\n",
+            "time": "Wed Nov 15 2023 22:39:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thanks for letting me realize\n\n",
+            "time": "Wed Nov 15 2023 22:39:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know if I am that courageous though",
+            "time": "Wed Nov 15 2023 22:40:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I think it's natural to have moments of self-doubt in such challenging times, and it's completely okay to not always feel brave or courageous. Sometimes, the bravest thing we do is acknowledging our feelings and confronting our fears, even in small steps. The very fact that you've sought to chat, opening up about your experiences, fears and anxieties indeed shows courage.\n",
+            "time": "Wed Nov 15 2023 22:40:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's take this moment to look a bit more closely at one of your fears - the fear of failure. Specifically, when you mentioned, \"adulthood gives me the fear of failing.\" It presents quite an interesting thought. You know, we often have these standards or patterns of thinking that seem so true, but they might actually be what we in Cheeseburger Therapy refer to as 'cheeses,' also known as cognitive distortions. These 'cheeses' can shape our thoughts in ways that may not be entirely accurate or helpful. \n",
+            "time": "Wed Nov 15 2023 22:40:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ok",
+            "time": "Wed Nov 15 2023 22:40:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can see that",
+            "time": "Wed Nov 15 2023 22:40:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "For instance, your fear of failure could possibly have some 'cheeses' in it. A 'Cheese' that often goes hand in hand with a fear of failure is 'black or white thinking.' This cheese has us believing that things are either perfect or a complete disaster, with no space for the grays of 'good enough' or '",
+            "time": "Wed Nov 15 2023 22:41:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "'room for improvement.' So if you apply this cheese to your situation, it could look something like this: when you think about moving into your apartment and taking on new responsibilities, you tell yourself \"I can't fail.\" When you think this, you might start feeling anxious or scared, and the action you take in response is to keep yourself busy at work to avoid those feelings.\n",
+            "time": "Wed Nov 15 2023 22:41:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Omg that hits the spot",
+            "time": "Wed Nov 15 2023 22:41:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thanks so much Nathan !\n\n",
+            "time": "Wed Nov 15 2023 22:41:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "If you use 'black-and-white thinking', you might perceive that if you don't do absolutely everything perfectly or if anything goes wrong, that would mean you've failed. This way of thinking doesn't account for the fact that it's not only okay, but also completely normal, to make mistakes and grow from them. \n",
+            "time": "Wed Nov 15 2023 22:41:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It seems like this type of cheese might be one that's influencing your fear of failure. It's hard to avoid these cheeses when we're dealing with such impactful life changes. However, recognizing and understanding them can help us see more clearly, show ourselves more compassion, and eventually support us in our growth.\n",
+            "time": "Wed Nov 15 2023 22:41:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this idea of 'black and white thinking' resonate with your feelings of fearing adulthood and failure? It's okay if it doesn't\u2014I'm here to help navigate this with you.",
+            "time": "Wed Nov 15 2023 22:42:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That is spot on",
+            "time": "Wed Nov 15 2023 22:42:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Especially with the change thats going on",
+            "time": "Wed Nov 15 2023 22:42:22 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I do this to prepare my self of what might happen in the future\n\n",
+            "time": "Wed Nov 15 2023 22:43:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm happy to hear that it makes sense to you. It's a big realization to understand that sometimes our fears and anxieties can be shaped by these ways of thinking. And even though it absolutely makes sense to worry about \"messing up\" when you're dealing with so many significant changes in your life, the 'black and white' cheese might be amplifying that fear.\n",
+            "time": "Wed Nov 15 2023 22:43:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This 'cheese' can paint your situation in the most extreme colors -- if you don't get every single thing right, it views it as a failure. But life, as you know, is filled with shades of grey. Nobody gets everything right all the time. Just like we learn from our successes, we also grow and learn so much from our mistakes and the moments we don't quite hit the mark. \n",
+            "time": "Wed Nov 15 2023 22:43:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ok",
+            "time": "Wed Nov 15 2023 22:43:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's the limitation of the 'black and white thinking' cheese. It doesn't allow room for forgiveness, growth, and understanding that everyone makes mistakes and that it's okay to not be perfect.\n",
+            "time": "Wed Nov 15 2023 22:43:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah like go all in or out",
+            "time": "Wed Nov 15 2023 22:43:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Exactly!",
+            "time": "Wed Nov 15 2023 22:43:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's imagine, for a moment, if we adjust the lens from 'black and white' to allowing for these shades of grey. In a situation where you fear of failing because of new responsibilities or in moving forward, might there be room for growth, learning or even success",
+            "time": "Wed Nov 15 2023 22:43:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "from every experience\u2014even the ones that don't go exactly as planned? How do you think that perspective might feel compared to fearing failure?",
+            "time": "Wed Nov 15 2023 22:43:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I guess it makes me feel like less of a disaster and a failure, and I don't need to get it right on the first try. ",
+            "time": "Wed Nov 15 2023 22:44:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a wonderful insight! It sounds like you're beginning to see that it's absolutely okay not to get everything right on the first try. Life is a process of learning, and every experience, whether we initially view it as success or failure, brings us valuable lessons. The idea of not being a 'disaster' or a 'failure' if things don't go perfectly can indeed be liberating. \n",
+            "time": "Wed Nov 15 2023 22:44:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes its so much better than thinking the worst outcome\n\n",
+            "time": "Wed Nov 15 2023 22:45:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And you're absolutely right - you don't need to get everything right on the first try. Given what you've experienced and accomplished so far, it's clear that you're resilient and adaptable. Now, considering that you don't have to get everything right, what might be a new thought you could have when dealing with the responsibilities of moving into your new apartment or tackling your new job? What would embody the spirit of growth, learning, and remembering your resilience without the pressure of 'black or white' thinking?",
+            "time": "Wed Nov 15 2023 22:45:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i'm not really sure what new thought i can have here ;/",
+            "time": "Wed Nov 15 2023 22:46:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's okay! It's not always easy to come up with a new thought on the spot, especially when the emotions tied to it are strong. How about if we work on it together? Considering what we've talked about, especially about releasing this 'black and white thinking', maybe a new thought you could try might be something like \"I am learning and growing in my journey, regardless of the outcome.\" This mindset honors your resilience, accepts that learning is a process, and lets go of the idea of 'perfect' success or failure. \n",
+            "time": "Wed Nov 15 2023 22:46:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How would this thought resonate with you in the context of moving into your new apartment and building connections with other people?",
+            "time": "Wed Nov 15 2023 22:46:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Sounds good!!!!",
+            "time": "Wed Nov 15 2023 22:47:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad to hear that you think it sounds good! This new thought, \"I am learning and growing in my journey, regardless of the outcome,\" really captures the spirit of resilience and growth that come from navigating changes and challenges in life.\n",
+            "time": "Wed Nov 15 2023 22:47:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes it does",
+            "time": "Wed Nov 15 2023 22:47:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, imagine yourself encountering the responsibilities of your new apartment or building new relationships. As you face these situations, imagine telling yourself \"I am learning and growing in my journey, regardless of the outcome.\" \n",
+            "time": "Wed Nov 15 2023 22:47:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In this scenario, how do you think this new thought might make you feel?",
+            "time": "Wed Nov 15 2023 22:48:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That even if I move out of my cousin's house, I can still rely on her for support or have a place to return to. I may have a job, but I am still learning how to be an adult and that's okay. ",
+            "time": "Wed Nov 15 2023 22:48:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Exactly, my friend! Your thoughts beautifully capture the grace of growth and change. Through \"I am learning and growing in my journey, regardless of the outcome.\", you're acknowledging that every step you take, whether it feels like you've succeeded or faltered, is a part of your journey. In saying \"I am not alone\" you affirm the support you have, including your cousin's, and remind yourself that you always have a place of comfort to return to.\n",
+            "time": "Wed Nov 15 2023 22:48:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These new thoughts seem much more comforting and supportive, compared to the fear of failing in adulthood. They bring a sense of calm and acceptance of your journey, recognizing that it's absolutely okay to be learning and figuring out things. \n",
+            "time": "Wed Nov 15 2023 22:48:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What do you see yourself doing differently with these reassuring thoughts as your guides?",
+            "time": "Wed Nov 15 2023 22:49:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Maybe be a bit more brave about facing the world and my feelings. ",
+            "time": "Wed Nov 15 2023 22:49:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a fantastic perspective!",
+            "time": "Wed Nov 15 2023 22:49:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Hopefully, with time and practice invoking these new thoughts, you will be less critical of yourself and more accepting of the process, even if it includes ups and downs.\n",
+            "time": "Wed Nov 15 2023 22:49:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Before we close, I wanted to check in with you again - how do you feel now compared to when we started our conversation?",
+            "time": "Wed Nov 15 2023 22:49:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Excited and appreciated\ud83e\udd70\n\n",
+            "time": "Wed Nov 15 2023 22:49:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm so glad to hear that! Your open-mindedness and willingness to explore these difficult feelings and work through them is really commendable. \n",
+            "time": "Wed Nov 15 2023 22:50:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Moving towards the future might seem daunting at times, but remember, you have your new thoughts - \"I am learning and growing in my journey, regardless of the outcome\" and \"I am not alone\" with you. They are empowering and remind you of your strength, your support system and your ability to accept and grow with change.\n",
+            "time": "Wed Nov 15 2023 22:50:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you so much Nathan!!!",
+            "time": "Wed Nov 15 2023 22:50:29 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "notes": {
+        "thought": "\"I won't be able to cover it all, and I'm always behind\".",
+        "event": "You have to cover a lot of study material in a limited time.",
+        "feelings_behaviors": "helpless, overwhelmed",
+        "labels": {
+            "labeling": true
+        },
+        "new_thought": "Getting something done is better than nothing"
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I have class in the morning and work from 2-6pm and I come home cook & eat. By the time I am done, I feel like there is not enough time to study and it stresses me out. And then I sleep super late without being actively productive and I get super tired and nap after class before work instead of taking time to maybe review there.",
+            "time": "Wed Nov 15 2023 23:03:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for reaching out, I'm here to support you. It sounds like you have a packed schedule that's causing you stress and leaving you feeling overwhelmed. It can be really tough to manage everything when you have limited time. I can see that your value of being productive and efficient is being threatened by the lack of time for studying and feeling tired due to late nights and napping. \n",
+            "time": "Wed Nov 15 2023 23:03:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "tell me more about what is most troubling for you about this schedule. What seems to be the main issue you're facing?",
+            "time": "Wed Nov 15 2023 23:04:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well I have 3 weeks of material to go over in a only like 3 days in a half and I just feel extremely behind. I feel like I won't be able to cover it all and that very overwhelming.",
+            "time": "Wed Nov 15 2023 23:04:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand why you would feel overwhelmed in that situation. It's a lot of material to cover in a short amount of time. The feeling of being behind and the pressure to catch up can be really stressful. I can see that your value of being prepared and knowledgeable is important to you, and it feels threatened by the amount of material you need to cover. \n",
+            "time": "Wed Nov 15 2023 23:04:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes exactly",
+            "time": "Wed Nov 15 2023 23:04:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you think about having to cover three weeks of material in just a few days, what feelings come up for you? And when you're feeling those emotions, how does it affect your actions or behaviors? Let's take a moment to explore this a bit deeper.",
+            "time": "Wed Nov 15 2023 23:04:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I mostly just feel helpless",
+            "time": "Wed Nov 15 2023 23:04:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I usually try to find other things that will keep me doing things like cleaning or exercising trying to get motivated but also distract myself, but it doesn't take away what I still have to do eventually",
+            "time": "Wed Nov 15 2023 23:05:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "The night just gets closer and I lose more time and that's how I sleep late cause ",
+            "time": "Wed Nov 15 2023 23:05:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'll try to start studying towards the end and end up going past my bedtime but I also don't do a lot towards the end.",
+            "time": "Wed Nov 15 2023 23:05:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can sense the feeling of helplessness you're experiencing. It must be frustrating to find yourself getting distracted by other tasks, like cleaning or exercising, as a way to both motivate yourself and take your mind off the overwhelming amount of material you need to cover. It sounds like this distraction contributes to running out of time and ultimately sleeping late, which adds to the cycle of feeling behind.\n",
+            "time": "Wed Nov 15 2023 23:05:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's natural to want to find motivation and avoid the overwhelming feelings, but it seems like the distractions might be hindering your progress rather than helping. The pressure and stress you feel might be impacting your ability to focus and prioritize your studying.\n",
+            "time": "Wed Nov 15 2023 23:05:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes thats so true",
+            "time": "Wed Nov 15 2023 23:05:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's take a step back and look at the bigger picture. What would you say is the most troubling thought for you in all of this? What is the thought that seems to capture the essence of the overwhelm and helplessness you're feeling?",
+            "time": "Wed Nov 15 2023 23:05:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "What I see is that I am trying to balance between trying to feel good and motivated and productive by doing other things, but end up not doing what I need to do which makes me more stressed",
+            "time": "Wed Nov 15 2023 23:05:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Then it is a whole cycle because I try to feel good again. ",
+            "time": "Wed Nov 15 2023 23:05:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I appreciate you sharing the details of your struggle. This balancing act you're trying to maintain, between trying to be productive by doing activities you enjoy, and feeling stressed because you're not being \"productive\" in the way you feel you should be, sounds like a very exhausting cycle. It's clear from your words how much you value being productive and fulfilling your responsibilities. \n",
+            "time": "Wed Nov 15 2023 23:05:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's outline the course of events and explore this deeper:\n",
+            "time": "Wed Nov 15 2023 23:05:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "ok lets",
+            "time": "Wed Nov 15 2023 23:06:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "1. Event: You have to cover a lot of study material in a limited time.\n2. Thought: \"I won't be able to cover it all, and I'm always behind\".\n3. Feeling: You feel helpless and overwhelmed.\n4. Behavior: Instead of studying, you choose other activities that make you feel good and productive, but this eventually leads to more stress because you're not studying. ",
+            "time": "Wed Nov 15 2023 23:06:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does the sequence above accurately portray your experience?",
+            "time": "Wed Nov 15 2023 23:06:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I also think the struggle to do work just makes me feel a sense of loneliness. I have so much support from family and friends ",
+            "time": "Wed Nov 15 2023 23:06:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "but I still feel alone and I think it might be that I have that emptiness in terms of not accomplishing what I know I should be and what I want. ",
+            "time": "Wed Nov 15 2023 23:06:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like despite the support system you have from your family and friends, the personal struggle you're battling against procrastination and stress brings about a feeling of loneliness. This makes a lot of sense - it's your study, your personal obstacle to overcome, and that can indeed feel isolating. ",
+            "time": "Wed Nov 15 2023 23:07:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've outlined your story, let's dive in a little more with a narrative twist. \n",
+            "time": "Wed Nov 15 2023 23:07:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "ok ",
+            "time": "Wed Nov 15 2023 23:07:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Imagine, you're there, faced with a huge mountain of study materials which seems impossible to cover in the restricted time you have. You're not just facing a challenging situation but battling the thoughts in your head too - \"I won't make it\", \"I'm trapped\", and \"I'm alone in this fight\", echoing in your mind. These thoughts weigh heavily on you, stirring feelings of helplessness, overwhelm and loneliness within you. In an attempt to uplift your spirits, you turn to activities that bring you a sense of joy and productivity. For a while, you feel good. But as you glance at the clock and see the hands ticking away, the mountain of untouched study materials haunts you. Your heart races, your stress levels spike, and you go to bed late, hoping to chip away at the mountain of work, only to wake up tired and unaccomplished. It\u2019s like being caught in a never-ending cycle of stress and unproductivity.\n",
+            "time": "Wed Nov 15 2023 23:07:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this narrative portray your situation accurately?",
+            "time": "Wed Nov 15 2023 23:07:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It feels very true to me.",
+            "time": "Wed Nov 15 2023 23:07:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that's a pretty good depiction of what's running through my head. ",
+            "time": "Wed Nov 15 2023 23:07:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I appreciate your feedback. It's not easy dealing with such a demanding cycle, and I applaud you for the resilience you've shown under these circumstances.\n",
+            "time": "Wed Nov 15 2023 23:08:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "its really not",
+            "time": "Wed Nov 15 2023 23:08:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "One thing I noticed in our conversation is a pattern that is often called a \"Treadmill Cheese.\" It starts with the thought that you're always behind, which leads to feelings of helplessness and overwhelm. To cope, you engage in activities that give you a sense of productivity and well-being. ",
+            "time": "Wed Nov 15 2023 23:08:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "While these activities in themselves are good, if they're used as a way to escape from the pressing task of studying, they become counterproductive. By the time you start studying, you're tired and you work late into the night which affects your rest. So the next day, you're less productive and the cycle continues.\n",
+            "time": "Wed Nov 15 2023 23:08:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The key to breaking this cycle involves changing the initial thought. This is called cutting the cheese. If we can reshape the thought \"I'm always behind,\" into something more positive and realistic, we might be able to disrupt the cycle and create a new, healthier routine. \n",
+            "time": "Wed Nov 15 2023 23:08:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What are your thoughts on this?",
+            "time": "Wed Nov 15 2023 23:08:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "that is me",
+            "time": "Wed Nov 15 2023 23:08:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i do have such strong thoughts",
+            "time": "Wed Nov 15 2023 23:09:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "how do we reshape the thought?",
+            "time": "Wed Nov 15 2023 23:09:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Great, I'm glad to hear you're open to this approach. The aim is to come up with a new, positive, and realistic thought that can replace the old thought. This new thought should be a positive affirmation that is true to your experience and which aligns with your values. \n",
+            "time": "Wed Nov 15 2023 23:09:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Absolutely!",
+            "time": "Wed Nov 15 2023 23:09:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Given that you value productivity, perhaps a new thought could be something like, \"I'm in control of my study schedule and I can plan my time effectively.\" or, \"I\u2019m capable of completing my tasks efficiently, one at a time.\"\n",
+            "time": "Wed Nov 15 2023 23:09:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These thoughts help support your value of productivity, while also shifting the narrative away from being \u2018always behind\u2019 to one of ownership and capability. \n",
+            "time": "Wed Nov 15 2023 23:09:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What are your thoughts on these suggestions? Or do you have a different positive thought in mind?",
+            "time": "Wed Nov 15 2023 23:09:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes definitely! I like these new thoughts",
+            "time": "Wed Nov 15 2023 23:10:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But I think a thought along the lines of \"getting something done is better than nothing\" would be helpful. I don't know if I can confidently say that \"I'm in control of my study schedule and I can plan my time effectively.\"",
+            "time": "Wed Nov 15 2023 23:10:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a great thought! \"Getting something done is better than nothing.\" This affirmation puts the emphasis on progress rather than perfection. It's definitely more compassionate and forgiving, reducing the pressure to do everything at once, and recognizing that every bit of progress counts.\n",
+            "time": "Wed Nov 15 2023 23:11:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let\u2019s now envision how this new thought can reshape your experience. You're faced with a pile of study materials. Instead of thinking, \"I won't be able to cover it all, I'm always behind,\" you tell yourself, \"Getting something done is better than nothing.\" Immediately, the task becomes less daunting. \n",
+            "time": "Wed Nov 15 2023 23:11:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let\u2019s now envision how this new thought can reshape your experience. You're faced with a pile of study materials. Instead of thinking, \"I won't be able to cover it all, I'm always behind,\" you tell yourself, \"Getting something done is better than nothing.\" Immediately, the task becomes less daunting. You feel motivated, confident, and less overwhelmed. Your behavior changes: instead of turning to distractions, you start with small, manageable chunks of your study materials. You notice progress, your stress reduces, and you go to bed feeling accomplished, leading to better rest, increased productivity the next day, and thus, disrupting the previous negative cycle. \n",
+            "time": "Wed Nov 15 2023 23:11:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How do you feel imagining this new scenario?",
+            "time": "Wed Nov 15 2023 23:11:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that makes me feel like my work is more manageable",
+            "time": "Wed Nov 15 2023 23:11:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I\u2019d like to be kinder to myself when I get back to work",
+            "time": "Wed Nov 15 2023 23:11:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I am looking forward to studying and connecting some of the lecture material that overlaps and finds the patterns to help me retain the material.",
+            "time": "Wed Nov 15 2023 23:11:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear that! Thinking in a way that's kinder to yourself will allow you to approach your work sustainably, rather than becoming too overwhelmed. Recognizing the importance of progress, no matter how small, can indeed make work seem more manageable. \n",
+            "time": "Wed Nov 15 2023 23:11:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's imagine now, you are in one of those precise moments where you have a lot of material to go over. You pause, breathe, and tell yourself \"Getting something done is better than nothing.\" How does that make you feel? And, should these feelings come to you, do you picture any motivated actions arising from these feelings?",
+            "time": "Wed Nov 15 2023 23:11:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can see myself feeling a little more relaxed and calm, that I can just take one step at a time. ",
+            "time": "Wed Nov 15 2023 23:11:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Taking things one step at a time can indeed bring a sense of calm and control over the situation. By focusing on the task at hand and reminding yourself that \"Getting something done is better than nothing\", you might find yourself less overwhelmed and more able to concentrate on your studies.\n",
+            "time": "Wed Nov 15 2023 23:12:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How do you feel now as compared to when we started this conversation? Are there any other thoughts or concerns you would like to explore?",
+            "time": "Wed Nov 15 2023 23:12:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel more relaxed! I don't think I have any other specific concerns at the time. \n",
+            "time": "Wed Nov 15 2023 23:12:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you. I really appreciate your time. This was very helpful. I needed it.",
+            "time": "Wed Nov 15 2023 23:12:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can see where I was struggling and how I was a little blind but now I can see myself and what I was doing that could have been contributing to this cycle",
+            "time": "Wed Nov 15 2023 23:12:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're very welcome! I'm glad to hear that you found our conversation helpful and that you're feeling more relaxed. Remember, progress, no matter how small, is still progress, and it's better than doing nothing. Keep practicing this new thought in the future when facing similar situations. \n",
+            "time": "Wed Nov 15 2023 23:13:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you! Have a nice day. Until next time.",
+            "time": "Wed Nov 15 2023 23:13:28 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

@@ -1,0 +1,323 @@
+{
+    "notes": {
+        "thought": "I might regret this decision and be dissatisfied",
+        "event": "Discovering an interest in a specialty job that requires 3 more years of training than expected ",
+        "feelings_behaviors": "Anxiety and worry about making the right decision",
+        "labels": {
+            "fortune-telling": true
+        },
+        "new_thought": "I am interested in this specialty despite the extra years of training and that doesn't necessarily mean delaying my family"
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "hi!",
+            "time": "Mon Nov 13 2023 14:19:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Hello, welcome to Cheese Therapy. What brings you here today?",
+            "time": "Mon Nov 13 2023 14:19:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "hey, I recently found an interest in a specialty job, but the time frame for training is 3 more years than I expected. ",
+            "time": "Mon Nov 13 2023 14:19:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand why that would be troubling. It's frustrating to discover a new interest and then realize that it will take longer to pursue than you initially thought. Can you tell me a bit more about why the extra training time is bothering you?",
+            "time": "Mon Nov 13 2023 14:19:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i just was excited and motivated but then i also started to get scared and worried just thinking about having to go through that and then well also wanting other things",
+            "time": "Mon Nov 13 2023 14:20:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "like a family and wondering about time",
+            "time": "Mon Nov 13 2023 14:20:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I really find it troubling right now that I will be making a decision to pursue that interest and perhaps specialty and also if I am even capable of accomplishing that and just weighing those thoughts with my other goal to have and build a family.",
+            "time": "Mon Nov 13 2023 14:21:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see that making the decision to pursue a specialty job and weighing it against your goal of starting a family is what's most troubling to you right now. It sounds like you have a lot on your plate and that can be overwhelming. ",
+            "time": "Mon Nov 13 2023 14:21:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's dive a bit deeper into these thoughts and feelings. When you think about pursuing the specialty job, what thoughts come up for you? And how does that make you feel?",
+            "time": "Mon Nov 13 2023 14:21:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well, I think I'd be practicing something that is exciting, thrilling, and challenging. On the other hand, I am afraid of sacrificing one or making a decision to prioritize one and wonder if I'll regret it or if I'll be happy with the decision i make",
+            "time": "Mon Nov 13 2023 14:21:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's great to hear that pursuing the specialty job feels exciting, thrilling, and challenging to you. On the other hand, it's completely normal to feel afraid of sacrificing one goal in favor of another, and worrying about potential regrets or unhappiness with the decision you make. It's a tough decision to make, especially when both goals are important to you. \n",
+            "time": "Mon Nov 13 2023 14:21:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you think about the possibility of making the decision to prioritize one goal over the other, what feelings come up for you? And how do these feelings influence your actions or behaviors?",
+            "time": "Mon Nov 13 2023 14:21:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel pretty anxious. I definitely waste time overthinking and creating those future scenarios trying to weigh non-existent matters to make a present decision wasting time doing that causes me to delay and procrastinate on tasks and studying I should be doing",
+            "time": "Mon Nov 13 2023 14:22:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I also end up watching shows to distract myself from overthinking which helps but then I lost time that I require for other important tasks",
+            "time": "Mon Nov 13 2023 14:22:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand how the anxiety you feel about making this decision can lead to overthinking and procrastination. It's a common response to feeling overwhelmed. And it's also understandable that you would seek out distractions, like watching shows, to help alleviate some of that anxiety. However, it sounds like this ultimately leads to a loss of time that could have been dedicated to other important tasks.\n",
+            "time": "Mon Nov 13 2023 14:22:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The cycle you've described - overthinking, procrastination, and losing time - can be challenging to break free from. It's important to acknowledge the difficulty and frustration it brings. When you find yourself caught up in this cycle, remind yourself that it's a natural response to feeling anxious. \n",
+            "time": "Mon Nov 13 2023 14:23:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's think about your values. What is most important to you when it comes to making this decision? And what values do your goals of pursuing the specialty job and starting a family align with?",
+            "time": "Mon Nov 13 2023 14:23:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well I grew up with the value of family and that I do want, independently of the cultural pressure. But I still wonder if the cultural pressure was never there, would I think differently? I also value having interesting and meaningful work -which is why I am interested in the job. ",
+            "time": "Mon Nov 13 2023 14:23:22 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see your value of family and how it has been instilled in you from a young age. It's important to recognize that this is a value that comes from within you and not solely based on external cultural pressure. It's natural to question how your thoughts may be influenced by cultural expectations, but it's valuable to remember that your values are personal and unique to you.\n",
+            "time": "Mon Nov 13 2023 14:23:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Additionally, it's clear that you value having interesting and meaningful work. Pursuing the specialty job aligns with this value, as it offers excitement, challenge, and fulfillment. \n",
+            "time": "Mon Nov 13 2023 14:23:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's perfectly normal to have values that can sometimes conflict with each other or leave you feeling torn. In this situation, it's important to reflect on what matters most to you and consider the long-term impact of your decisions on your values. In the end, it's about finding a balance between your personal aspirations and your desire for a fulfilling family life.\n",
+            "time": "Mon Nov 13 2023 14:23:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "exactly, i can't really compare them which makes it harder to weigh them on a scale",
+            "time": "Mon Nov 13 2023 14:24:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "you nailed it right in the spot",
+            "time": "Mon Nov 13 2023 14:24:22 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's take a moment to see if we have a well-rounded understanding. Here's what we have so far:\n- Event: Discovering an interest in a specialty job that requires 3 more years of training than expected\n- Troubling Thoughts: Feeling torn between pursuing the specialty job and building a family, delaying one for the other might lead to regrets.\n- Feelings: Anxiety and worry about making the right decision.\n- Behaviors: Overthinking, procrastination, and losing time by watching shows to distract from the anxiety.",
+            "time": "Mon Nov 13 2023 14:25:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this resonate with your experience? Is there anything missing or that needs to be further elaborated on?",
+            "time": "Mon Nov 13 2023 14:25:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yessss exactly hehe ...",
+            "time": "Mon Nov 13 2023 14:26:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that is very accurate!",
+            "time": "Mon Nov 13 2023 14:26:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Great! I'm glad we're on the same page. Let's piece your experience together as a story.\n",
+            "time": "Mon Nov 13 2023 14:26:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Upon discovering an interest in a certain specialty job, you found out that the training period is three years longer than you initially expected. This sparked a challenging internal dialogue within you as you grappled with the possibility of prioritizing one life path over another - pursuing the specialty job versus starting and building a family. Weaved into this dialogue were thoughts and fears about potential regret and dissatisfaction with whichever decision you might make. These thoughts heightened your anxiety, leading you to a cycle of overthinking and procrastination. It's like being on a hamster wheel, with the pursuit of distractions like watching shows becoming an escape from the intense whirl of thoughts. This, in turn, results in a loss of valuable time you could have dedicated to either pursuit - heightening your anxiety and pulling you back into the cycle.\n",
+            "time": "Mon Nov 13 2023 14:26:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The interesting thing about this cycle is that it seems to be perpetuating your anxiety and inaction, putting you farther from the future career you want and the family you desire to build. How does this summary feel to you? Does this added perspective give you any new insights about your situation?",
+            "time": "Mon Nov 13 2023 14:26:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "aaaa i hadn't seen it like that",
+            "time": "Mon Nov 13 2023 14:27:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thats a good story",
+            "time": "Mon Nov 13 2023 14:27:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm pleased to hear that the summary resonated with you. It's a complex decision you're facing, and it's okay to feel the weight of it. Let's explore a bit further, shall we?\n",
+            "time": "Mon Nov 13 2023 14:27:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In Cognitive Behavioral Therapy, we have a term called \"Cheeses\" (which is a more appealing term for Cognitive Distortions). Cheeses are basically the ways we twist or distort reality in our minds, and they can contribute to emotional distress.\n",
+            "time": "Mon Nov 13 2023 14:27:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Imagine this: when faced with the decision of pursuing the specialty job (the event), you have the thought \"I might regret this decision and be dissatisfied.\" This is a form of Fortune Telling cheese - you're predicting a negative future outcome. This thought, in turn, leads to feelings of anxiety, which then leads to overthinking, procrastination, and time-wasting behaviors. You can see how this Cheese of predicting a negative future is fueling your anxiety and feeding into the very cycle that's keeping you stuck.\n",
+            "time": "Mon Nov 13 2023 14:27:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "But what if we challenge this Cheese? It's important to remember that no one can truly predict the future. While it",
+            "time": "Mon Nov 13 2023 14:27:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "'s natural to try to anticipate and plan for potential outcomes, remember that these are just that - potential outcomes. They are not guaranteed, and focusing on negative predictions can create unnecessary anxiety and stress. \n",
+            "time": "Mon Nov 13 2023 14:27:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, let's begin with the thought of \"I might regret this decision and be dissatisfied.\" While it's possible that any decision we make could lead to regret, it's also equally possible that it could lead to satisfaction, fulfillment, and happiness. It's also possible that you might find a way to balance your career and family goals. The truth is, life has a way of being surprising and unpredictable. What's important is to make a decision that aligns with your values and to continually strive to adjust and adapt as you move forward.\n",
+            "time": "Mon Nov 13 2023 14:27:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does that resonate with you? Are there other thoughts that are contributing to your anxiety which we could explore with different cheeses?",
+            "time": "Mon Nov 13 2023 14:27:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I really like that and the way you put it together for me! ",
+            "time": "Mon Nov 13 2023 14:28:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I guess I see the now endless positive possibilities which cancel out the negatives! ",
+            "time": "Mon Nov 13 2023 14:28:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I understand myself a little bit more and that both values are important and I don't have to choose between them",
+            "time": "Mon Nov 13 2023 14:28:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad to hear that! Recognizing the effect of the \"Fortune Telling\" cheese on your thoughts is a big step toward addressing your anxieties. It's wonderful that you're now seeing the positive possibilities and understanding that it's not an 'either-or' situation with your values. You're absolutely right, both of these values - having a fulfilling career and nurturing a family - are important.\n",
+            "time": "Mon Nov 13 2023 14:28:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i agree...it's very subtle but when you point it out i understand it",
+            "time": "Mon Nov 13 2023 14:29:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "whether i choose one or both i'm only seeing the troubling aspects of it all",
+            "time": "Mon Nov 13 2023 14:29:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "but it doesn't have to be",
+            "time": "Mon Nov 13 2023 14:29:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, with that Cheese in mind and having debunked its influence, let's attempt to come up with a new thought. Imagine yourself back in the situation of deciding whether to pursue the specialty job, what is a more compassionate, balanced, and helpful thought that you can have?",
+            "time": "Mon Nov 13 2023 14:29:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i guess i can firmly say and accept that i am interested in this specialty despite the extra years of training and that hesitancy to confront that came in thinking i would pospone my value of family that's 3 extra years in training not necessarily 3 years delaying my other value per say soo.....",
+            "time": "Mon Nov 13 2023 14:29:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a wonderful new thought! It's a positive step forward in recognizing that pursuing the specialty job doesn't necessarily mean a delay in starting a family. By reframing your thought in this way, it aligns with your values of having both an enriching career and a supportive family. \n",
+            "time": "Mon Nov 13 2023 14:29:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's take that thought, \"I am interested in this specialty despite the extra years of training and that doesn't necessarily mean delaying my family,\" and imagine how it might change the feelings associated with your decision. If you find yourself in a situation where you're making this decision again, and you have this new thought, how do you imagine you might feel?",
+            "time": "Mon Nov 13 2023 14:29:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes yes yes!!!",
+            "time": "Mon Nov 13 2023 14:30:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i do feel a little more powerful now than at first",
+            "time": "Mon Nov 13 2023 14:30:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "more in control of what is in my hands verses thinking about the future",
+            "time": "Mon Nov 13 2023 14:30:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a powerful feeling! Being in control of your future can bring a sense of peace and confidence. It's a testament to your resilience and adaptability.\n",
+            "time": "Mon Nov 13 2023 14:30:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, imagine you're in a similar situation deciding whether to pursue a specialty profession, carrying this new thought \"I am interested in this specialty despite the extra years of training and that doesn't necessarily mean delaying my family.\" Feeling more in control of your future, what actions or behaviors might come naturally to you in this state?",
+            "time": "Mon Nov 13 2023 14:30:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I will try to approach decisions less fearfully and consider all sides. ",
+            "time": "Mon Nov 13 2023 14:30:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "having that clarity eliminates those infectious thoughts",
+            "time": "Mon Nov 13 2023 14:30:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a great plan! Approaching decisions with less fear and considering all sides is a balanced and informed way to handle life's dilemmas. It shows that you're taking control and making choices that align with your values and interests. \n",
+            "time": "Mon Nov 13 2023 14:30:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Remember, it's okay if this feels challenging or unfamiliar at first. Change is a process and it takes time. Take small steps and celebrate each accomplishment, no matter how small it seems. \n",
+            "time": "Mon Nov 13 2023 14:31:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I will, thank you so much!!!",
+            "time": "Mon Nov 13 2023 14:31:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " you helped me through this",
+            "time": "Mon Nov 13 2023 14:31:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm happy to hear that you're feeling a lot better! It was a pleasure being able to walk this journey with you. It's important to embrace your values, and you've shown great courage and openness in doing so. Remember to practice this new thought: \"I am interested in this specialty despite the extra years of training and that doesn't necessarily mean delaying my family\" whenever you're faced with similar situations. You're more than welcome to return anytime you want to discuss this further or if there's anything else troubling you. Take care!",
+            "time": "Mon Nov 13 2023 14:31:32 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

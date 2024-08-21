@@ -1,0 +1,488 @@
+{
+    "notes": {
+        "thought": "\"I am a burden\"\n\"They don't want me to have been born\"",
+        "event": "Argument with father and his wife after asking to bring daughters to their house to do laundry. ",
+        "feelings_behaviors": "Anger",
+        "labels": {
+            "mind-reading": true
+        },
+        "new_thought": "I am a detective and I have to solve the case and must not create more crime or muddy the crime scene to make sure the truth and safety are preserved and valued"
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I had an argument with my father and his wife this past Sunday. this doesn't happen often, however, now I see a pattern of behavior with them that is unhealthy for me. And the argument is disturbing my peace of mind, I am angry and upset days later.",
+            "time": "Wed Nov 08 2023 17:08:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm sorry to hear that you're feeling upset following your recent argument with your father and his wife. That sounds really tough. It can be quite challenging when we see patterns of behavior in our close relations that we feel are unhealthy for us. It's especially difficult when these situations disrupt our peace of mind and leave us feeling disturbed even days later. \n",
+            "time": "Wed Nov 08 2023 17:11:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I want to explore this issue with you so that we can better understand what's going on here. Could you share a bit more about what occurred during the argument? Specifically, what topics or issues led to this argument and how did the conversation escalate into an argument?",
+            "time": "Wed Nov 08 2023 17:11:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "We had a conversation last wednesday, a week ago. I asked if I could bring my daughters (2 ages 20 and 27) to his house to do laundry, and spend time together the coming Sunday( this just past). At first he said no. it was akward. I thought maybe it was because his wife didn't want us to come. i couldn't tell as it was a phone call with me on speaker with his wife there. they seemed to be having a conversation in the back ground but non verbal perhaps. hard to tell as it was just awkard. He said no, that wouldnt be a good idea. I said ok, no worries, I would bring the girls to the laundrymat by there house. and we can visit another time.",
+            "time": "Wed Nov 08 2023 17:12:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and then he changed his mind.",
+            "time": "Wed Nov 08 2023 17:12:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "so we agreed i would bring the girls and we concluded our phone call. then on sunday when we got there, he was acting strangely and before long my elder daughter said - grandad, what's wrong - are you ok?",
+            "time": "Wed Nov 08 2023 17:12:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and he said no, im not ok. im upset. and we said what's going on? and he said he felt taken advantage of by my girls and I. and I asked in what capacity did he feel taken advantage of? and he said because we had come to do the laundry there.",
+            "time": "Wed Nov 08 2023 17:12:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i got upset, angry, confused. I said dad - you said it was ok for us to come.",
+            "time": "Wed Nov 08 2023 17:12:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Why are you ambushing us with this now? We were stuck in traffic for 2 hours to get here - we could have gone somewhere close to home. this is not acceptable to me.",
+            "time": "Wed Nov 08 2023 17:12:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "my elder daughter was also taken aback. we argued about it for about 25-30 minutes, culminating with my daughter in tears, me in a very angry mood and no explanation. he then apologized.",
+            "time": "Wed Nov 08 2023 17:12:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "but did not offer an explanation. his wife muddy",
+            "time": "Wed Nov 08 2023 17:12:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "'d the waters a bit by trying to change the subject -which made me feel more hyper vigilant and more angry - i thought that she had unwillingly put him up to this - and that he couldn't explain why he felt taken advantage of because she had put that thought in his head.",
+            "time": "Wed Nov 08 2023 17:12:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "or he was having a neurological break due to old age and ongoing issues with bladder infection and onset dementia",
+            "time": "Wed Nov 08 2023 17:12:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "or he was testing me to see if I would get angry if he inexplicably and chaotically changed direction and plans. suffice to say - it's very confusing and hurtful to be accused of a betrayal in this way - my daughters and me both - by a beloved parent and grandparent",
+            "time": "Wed Nov 08 2023 17:12:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really sorry to hear you're going through this. It does sound like a difficult and confusing situation with your father and his wife. You did your best to have a peaceful day doing laundry and spending quality time with your family, and instead you ended up in an unexpected and distressing argument where you and your daughters felt accused and taken for granted. \n",
+            "time": "Wed Nov 08 2023 17:14:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This feeling of betrayal coming from a parent and grandparent is deeply hurtful and confusing. I can see how this experience has left you feeling angry and upset days later.",
+            "time": "Wed Nov 08 2023 17:14:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It seems to me that during the conversation you valued openness about plans and expectations, and also a loving relationship with your father. However, when your father unexpectedly expressed his feeling of being taken advantage of while not providing a clear explanation, it might have felt to you like a breach of trust or openness.\n",
+            "time": "Wed Nov 08 2023 17:14:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "At the same time, his wife's attempt to change the subject when you were already feeling upset might have heightened your sense of confusion and frustration, which is very understandable.",
+            "time": "Wed Nov 08 2023 17:14:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Moreover, it leaves you with troubling thoughts such as \"what if his wife had unwillingly put him up to this\" and \"what if he was testing me to see if I would get angry if he inexplicably and chaotically changed direction and plans\". Such thoughts are stirring",
+            "time": "Wed Nov 08 2023 17:14:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "up strong feelings within you. \n",
+            "time": "Wed Nov 08 2023 17:14:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Tell me if I've understood your feelings correctly: you might be feeling betrayed, confused and angry, is that right? And these feelings became even stronger when you saw your daughter in tears and when you couldn't really get a clear explanation from your father? Let's spend a bit more time understanding your emotions around this unfortunate event. Would you like to share more about how you're feeling right now?",
+            "time": "Wed Nov 08 2023 17:15:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, I am still fuming. I feel there is a pattern of behavior here where the final reckoning of his behavior, in conjunction with his 2nd wife, after leaving my mother, sister, and me, shows a design on his part towards wishing I would not have been born - that I am a burden. I do not think these types of thoughts on my own, but only in the wake of his behavior in moments like the one described above, which to be fair, happen infrequently. which only makes them stand out more and triggers my hypervigilent behavior.",
+            "time": "Wed Nov 08 2023 17:15:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can hear how deeply hurt and angry you are after this recent experience and how it's adding to the existing pain you've been holding. Facing the idea that a parent may see you in such a negative light is incredibly painful. You are expressing a profound level of emotional turmoil. According to you, such occurrences might be infrequent, but when they do happen, it's like a shockwave - bringing up strong emotions and troubling thoughts. Being in a state of hypervigilance after such experiences is a natural protective reaction. \n",
+            "time": "Wed Nov 08 2023 17:16:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You've shared a very significant pain - the feeling that your father might wish you'd not been born, that you're seen as a burden. That's quite a heavy burden for you to bear yourself. It's understandable that you're experiencing such strong emotional reactions after these incidents. \n",
+            "time": "Wed Nov 08 2023 17:16:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you consider that thought about being a burden, how does it make you feel? Are there certain emotions that come up for you more than others? I'm asking because life is complicated and I want to understand the depth of your emotional reaction as accurately as possible.",
+            "time": "Wed Nov 08 2023 17:16:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I am just so angry, it's been days",
+            "time": "Wed Nov 08 2023 17:17:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand that feeling, and it's more than okay to feel this way. Having these types of confrontations, especially with people so close to us, can leave us feeling emotionally charged and frustrated. It's a difficult situation to go through, and it's completely natural to still be feeling this way even days after the incident. Human emotions aren't something we can switch on and off instantly\u2014they require time and self-care. \n",
+            "time": "Wed Nov 08 2023 17:18:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm curious about your actions when you are consumed by this anger. When you think, \"I am a burden,\" and you're full of anger, what actions do you find yourself doing or not doing? It's often these actions that can shed more light on the impacts these feelings are having on us.",
+            "time": "Wed Nov 08 2023 17:18:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I get hyper-defensive and lash out sometimes. I just feel paralyzed. It's hard to get motivated to do things I used to enjoy and maybe took for granted in hindsight, like I used to go to a yoga class every day, sometimes twice a day. It made every problem like this much more manageable looking back now.",
+            "time": "Wed Nov 08 2023 17:18:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see that you're going through a tough time. It really seems like this situation with your father has affected you deeply. You get defensive and even \"lash out\" at times, which are natural reactions when someone is feeling attacked or misunderstood. Additionally, the paralyzing feeling and lack of motivation to do the things you once enjoyed like attending yoga classes indicate how much this situation has affected your overall well-being. It's very understandable that you're experiencing these reactions. Yoga is such a healthy and meaningful practice that offers balance and peace, but when life gets tough, it can sometimes affect even the most valuable and enjoyable parts of our routine.\n",
+            "time": "Wed Nov 08 2023 17:20:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Taking into consideration what we've discussed so far, here's what I understand: \n",
+            "time": "Wed Nov 08 2023 17:20:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You had an argument with your father and his wife after asking to bring your daughters to their house to do laundry. You had a peaceful intention but ended up in an intense argument where you and your daughters were accused and felt taken for granted.",
+            "time": "Wed Nov 08 2023 17:20:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're having thoughts like \"I am a burden.\" and \"They don't want me to have been born.\" These are deeply troubling thoughts that challenge your self-perception and relationship with your father. ",
+            "time": "Wed Nov 08 2023 17:21:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These thoughts bring up strong emotions in you, where anger seems predominant right now.\n",
+            "time": "Wed Nov 08 2023 17:21:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You feel paralyzed, it's hard for you to get motivated, and you have lashed out or become hyper-defensive sometimes.",
+            "time": "Wed Nov 08 2023 17:21:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "that is right on track yes",
+            "time": "Wed Nov 08 2023 17:22:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "like i wonder if he is thinking we are taking advantage of them - is it because she thinks that. reason i suspect this is because here sons, both grown, have not had children. and seem unlikely to, and she laments and grieves not becoming a grandmother. and she compensates for my father leaving my mother and my sister and me 40 years ago for her - saying things like - your father did not pay for my sons college education. as if that could make up for the time i lost when he left. and i see this possible projection on her part, of her taking advantage, stealing my father away for her sons, then in the lonlieness of denied grandparentage she projects that guilt onto my fathers relatoinship with me and my kids.",
+            "time": "Wed Nov 08 2023 17:23:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "or - he doesn't want us to use his washer and dryer. or she doesn't, or they both don't and yet they feel guilty becasuse they know that is selfish and alienating.",
+            "time": "Wed Nov 08 2023 17:23:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "in any case - i am feeling way too open hearted and willing to try and understand, make excuses for bad behavior, and i would like to close down my empathic / compassionate ways and disengage from the relationship - if any friend or acquaintance did this - i would not be so confused - i'd of thought - wow - this person is fucked up in the head and i would do well to stay away from them - it's like dealing with a paranoid drug addict type.",
+            "time": "Wed Nov 08 2023 17:23:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yet i am sickeningly loyal because it's my father i guess.",
+            "time": "Wed Nov 08 2023 17:23:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And it seems like all of this is tied to a value of yours which feels threatened, a value of balanced and respectful relationships with your family that are conducted with understanding, open communication, and consideration of each other's feelings. \n",
+            "time": "Wed Nov 08 2023 17:23:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this summary accurately represent what you're experiencing, or is there anything you'd like to add or clarify?\n",
+            "time": "Wed Nov 08 2023 17:23:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes i think this really gets towards the center of the issues I am experiencing right now.",
+            "time": "Wed Nov 08 2023 17:23:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "this is all very accurate btw.",
+            "time": "Wed Nov 08 2023 17:24:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for confirming that the summary feels accurate. It's really quite a challenging situation and I can see how it's been affecting you. You planned a simple, pleasant day of laundry and bonding at your father's house and instead, it turned into a painful confrontation, leaving lingering feelings of anger and disruptive thoughts that have shaken your peace of mind.\n",
+            "time": "Wed Nov 08 2023 17:24:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Imagine being excited for a family day with your daughters, looking forward to sharing some time together at your father's place, an environment that you suppose to be warm and welcoming. The trip over, some casual chit-chat, maybe a bit of laughter on the way. Then, once you finally arrive, the atmosphere instantly changes. Your father makes the shocking statement that he feels taken advantage of. It was completely unexpected and confusing, especially after you spent effort and time just to get there. What you\u2019d hoped would be a pleasant day became a day filled with tension. \n",
+            "time": "Wed Nov 08 2023 17:24:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Caught off guard and hurt, you find yourself thrown into a defensive position, trying to understand his surprising claim. In the midst of it all, your heart sinks as you see your daughter in tears. Feelings of anger and confusion surge within you, even overwhelming your once eagerly anticipated day. Your father's wife attempts to distract from the conversation, which only",
+            "time": "Wed Nov 08 2023 17:25:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "adds to your heightened sense of frustration and confusion. \n",
+            "time": "Wed Nov 08 2023 17:25:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These events trigger troubling thoughts: \"I am a burden,\" \"They don't want me to have been born.\" A heavy notion that makes you feel deeply wounded. It provokes strong feelings of anger that linger and consume you, even days after the incident. This tempest within you causes you to sometimes lash out, and it drains you, leaving you paralysed and unmotivated to engage in activities you used to enjoy, like yoga.\n",
+            "time": "Wed Nov 08 2023 17:25:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This cycle takes a serious toll. Instead of an open, honest dialogue about expectations and feelings, you feel accused, judged, even cornered. In reaction, a defensive wall goes up, sometimes leading to lashing out. Often, it leads to a sense of paralysis that affects the joys of your everyday life.\n",
+            "time": "Wed Nov 08 2023 17:25:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does this narrative resonate with you? Is anything missing or needs adjustments to be more accurate?",
+            "time": "Wed Nov 08 2023 17:25:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "unfortunately i did just this - acted more outraged than my dad was in order to win the argument.",
+            "time": "Wed Nov 08 2023 17:26:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": " It's a challenging cycle to be in, and I appreciate your openness in sharing this with me. ",
+            "time": "Wed Nov 08 2023 17:26:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah",
+            "time": "Wed Nov 08 2023 17:26:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's look at this situation through the lens of what we in Cheeseburger Therapy call \"Cheeses,\" or cognitive distortions. These are ways that our mind convinces us of something that isn't really true. These distortions are usually used to reinforce negative thinking or emotions and can lead to a negative cycle, such as the one you're experiencing.\n",
+            "time": "Wed Nov 08 2023 17:26:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The cheese, or distortion, that comes to mind in your case is \"Mind Reading.\" This happens when you interpret the thoughts and intentions of your father without any real evidence or confirmation - for example, the thought, \"They don't want me to have been born.\"\n",
+            "time": "Wed Nov 08 2023 17:26:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's completely natural and common to try and infer others' thoughts and motivations, especially when their actions are hurtful to us. However, doing so can lead to misunderstanding and false perceptions, creating unnecessary pain and conflict.\n",
+            "time": "Wed Nov 08 2023 17:27:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I understand that it might feel true that your father wishes you hadn't been born because of the way he's behaved. But the reality is, we can't truly know what's going on in another person's head. By assuming these thoughts, it's causing strong",
+            "time": "Wed Nov 08 2023 17:27:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "emotions of anger and feelings of betrayal.\n",
+            "time": "Wed Nov 08 2023 17:27:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "We also know that there can be numerous factors influencing your father's behavior: your stepmother's input, his medical conditions, and more. Acknowledging these variables might offer a broader perspective and understanding. These potential influences don't excuse his behavior, but understanding them could provide alternative explanations for his actions that aren't based on you being a burden.\n",
+            "time": "Wed Nov 08 2023 17:27:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Can you see how this cheese, or mind reading, might be applying to your thoughts? And how it might be leading to feelings of anger and defensive behaviors?",
+            "time": "Wed Nov 08 2023 17:28:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Mind reading - oh wow - yes - it is impossible but I guess we try to infer based on evidence.\n",
+            "time": "Wed Nov 08 2023 17:28:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i wish i had not gotten so upset. but regret won't help. i guess i am going to control my thoughts as much as possible, and see them as people doing their best, sometimes afraid just like me.",
+            "time": "Wed Nov 08 2023 17:28:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Absolutely, your observation is spot on. As humans, we often try to make sense of situations by making assumptions or inferring thoughts based on the evidence we have. This is quite natural and helps us understand the world around us. However, when we're dealing with complex human emotions, our assumptions\u2014like believing your father thinks you're a burden\u2014can sometimes lead us astray and even cause emotional distress.\n",
+            "time": "Wed Nov 08 2023 17:28:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The truth is that we can't read minds and therefore can't be sure about other people's thoughts or motivations. When we act on the assumption that our interpretations are correct, it can lead to negative consequences, as it did in your case\u2014it created anger, frustration, and upset feelings, which led you to react defensively.\n",
+            "time": "Wed Nov 08 2023 17:28:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Understanding that these are assumptions, not facts, might help in managing your feelings and reactions. Instead of taking his behavior as an indication that he sees you as a burden, consider handling it as it is\u2014his behavior\u2014and understanding that it might be influenced by many factors.\n",
+            "time": "Wed Nov 08 2023 17:28:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "good advice. ",
+            "time": "Wed Nov 08 2023 17:29:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I wonder if you can see how adopting this perspective can potentially lead to different feelings in similar future situations? How would it feel to bring this new perspective to the situation with your father?",
+            "time": "Wed Nov 08 2023 17:29:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I would picture him as a scared little boy and myself as a calm and loving adult and act accordingly. I will imagine that I am a detective and that I have to solve the case and must not create more crime or muddy the crime scene to make sure the truth and safety are preserved and valued.  I wish I had not gotten so upset, but regret won't help. I am going to control my thoughts as much as possible, and see them as people doing their best, sometimes afraid just like me.",
+            "time": "Wed Nov 08 2023 17:29:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I love the detective mindset you've adopted! It's a wonderful strategy for navigating heated situations like the one you experienced. Taking a step back and becoming an observer can help shift perspectives and keep emotions at bay. Imagining your father as a scared little boy, needing support rather than confrontation, is a compassionate way to approach the situation. It shows respect for your value of maintaining a balanced and respectful relationship with your family. And yes, reminding yourself that everyone\u2014including you\u2014are people doing their best can help to promote understanding and empathy. \n",
+            "time": "Wed Nov 08 2023 17:29:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Plus, it's an impressive realization that regret won't help in this situation. It's inherent in our human nature to reflect on past events and sometimes wish we'd done things differently. But you're right. It's much more productive to learn from the past and focus on how we can respond better in the future. \n",
+            "time": "Wed Nov 08 2023 17:29:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Given these changes in your perspective, how do you think you might feel during a similar situation in the future? What emotions might arise instead when you're thinking and acting with this new frame of mind?",
+            "time": "Wed Nov 08 2023 17:29:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I will still feel a little angry, but also feel more compassion and less quick to jump to conclusions. Hopefully, this will help me lash out less. ",
+            "time": "Wed Nov 08 2023 17:30:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a thoughtful response! Even when adopting a new perspective, it's natural to still feel some anger when faced with difficult situations. The aim isn't necessarily to eliminate negative emotions completely\u2014they're an important part of our human experience\u2014but to manage them in a way that they don't overwhelm us or dictate our actions. \n",
+            "time": "Wed Nov 08 2023 17:30:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Combining this anger with compassion for oneself and others can create a healthy balance. It enables us to both empathize with the challenges others may be facing while also acknowledging our right to feel upset when our values are encroached upon. \n",
+            "time": "Wed Nov 08 2023 17:30:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're in a similar situation in the future, when you find that you're telling yourself, \"I am a detective and I have to solve the case and must not create more crime or muddy the crime scene to make sure the truth and safety are preserved and valued,\" how might this change your actions or behaviors?",
+            "time": "Wed Nov 08 2023 17:30:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Haha, I think the analogy will help with me being more calm and for me to be more objective. ",
+            "time": "Wed Nov 08 2023 17:31:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a great approach! Imagining yourself as a detective during potentially difficult situations encourages you to maintain a calm demeanor and assess the situation objectively. It's a fantastic method to help keep emotions from escalating and to combat those negative thoughts that can cause feelings of anger and frustration to flare up. \n",
+            "time": "Wed Nov 08 2023 17:31:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Think about a situation where you're at your father's house again and something similar occurs. In your mind, you become the detective: observant, calm, analytical, looking to solve the puzzle but not exacerbate the situation. You remind yourself, \"I am a detective, seeking to preserve truth and safety.\" \n",
+            "time": "Wed Nov 08 2023 17:31:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This new thought can shift your emotional response from those feelings of intense anger to a state of calmness and control, perhaps even a bit of curiosity or intrigue about the situation. Instead of lashing out or getting defensive, you might find yourself pausing, taking a breath, and approaching the situation with understanding and patience. \n",
+            "time": "Wed Nov 08 2023 17:31:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does this feel compared to your usual response? And when you imagine yourself behaving this way, do you see any potential new actions you might take?",
+            "time": "Wed Nov 08 2023 17:31:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think this response feels more centered. Maybe I'll ask questions more calmly. ",
+            "time": "Wed Nov 08 2023 17:32:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a wonderful shift. Being able to remain centered and communicate more calmly even in the face of conflict holds tremendous potential for de-escalating situations and fostering understanding. \n",
+            "time": "Wed Nov 08 2023 17:32:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes it really helps to reframe things this way",
+            "time": "Wed Nov 08 2023 17:32:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Asking questions calmly, from a place of genuine curiosity and care rather than defensiveness, can often lead to more productive conversations and better outcomes. This approach aligns well with the detective mindset \u2013 seeking the truth and clarity over judgments.\n",
+            "time": "Wed Nov 08 2023 17:35:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thinking about the future, can you imagine how this new response may change the overall emotional outcome? For example, when you return home after these interactions, how might you feel as compared to before?",
+            "time": "Wed Nov 08 2023 17:35:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I will feel less angry, and in turn, less paralyzed. ",
+            "time": "Wed Nov 08 2023 17:35:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That\u2019s a fantastic outlook to have. By changing the way you approach these situations, you're not only potentially altering the outcome of the interactions, but also changing the way they affect you emotionally. Reducing anger and breaking free of that paralyzing feeling is such a significant change. It's a step toward regaining your peace of mind and possibly even restoring some of the joy in activities you've missed, like your yoga classes. \n",
+            "time": "Wed Nov 08 2023 17:35:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "With these changes in perception, thought, emotion, and behavior, you might also find a change in your relationship dynamic over time, bringing you a step closer to the balanced, respectful family relationships you value. \n",
+            "time": "Wed Nov 08 2023 17:35:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, after our discussion, how do you feel compared to when you first came? I know this is a lot to take in, especially when dealing with something so personal and significant as family relationships.",
+            "time": "Wed Nov 08 2023 17:35:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Much better thank you",
+            "time": "Wed Nov 08 2023 17:35:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Great to hear! I'm glad to know you're feeling better than when we started. What we discussed today is a considerable shift in perception and it's commendable how open you've been to understanding and working through this. Please remember to be patient with yourself, as these changes can take time and practice. \n",
+            "time": "Wed Nov 08 2023 17:36:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It was an honor to work with you on this. Remember this new perspective and your detective hat when you are in situations like these again. Try to hold on to that thought: \"I am a detective and I have to solve the case and must not create more crime or muddy the crime scene to make sure the truth and safety are preserved and valued.\" See how it changes your feelings and behaviors in real-life situations.\n",
+            "time": "Wed Nov 08 2023 17:36:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Feel free to come back anytime if you want to talk more about this or anything else that might be troubling you. Take care!",
+            "time": "Wed Nov 08 2023 17:36:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you!",
+            "time": "Wed Nov 08 2023 17:36:44 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

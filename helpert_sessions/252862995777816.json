@@ -1,0 +1,515 @@
+{
+    "notes": {
+        "thought": "\"He's too controlling\"\n\"I can't communicate with my family\"\n",
+        "event": "dad questioned your bills and managed your finances",
+        "feelings_behaviors": "defensive, regretful, and annoyed",
+        "labels": {
+            "control-fallacy": true,
+            "labeling": true,
+            "mind-reading": true
+        },
+        "new_thought": "My parents want the best for me even if they might not show it in the best way. Instead of lashing out, I should try to understand their point of view and explain mine in a healthy fashion so we can move forward on the same page."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I don't have a great relationship with my family.",
+            "time": "Tue Nov 14 2023 10:52:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really sorry to hear that you're experiencing difficulties in your relationship with your family. It can be tough when there are conflicts or challenges within our closest relationships. Can you tell me a bit more about what specifically is troubling you about your family relationship?",
+            "time": "Tue Nov 14 2023 10:53:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Sure",
+            "time": "Tue Nov 14 2023 10:53:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It wasn't a super big fight",
+            "time": "Tue Nov 14 2023 10:54:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I guess its more of general quarrels",
+            "time": "Tue Nov 14 2023 10:54:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "especially when I'm not feeling great overall",
+            "time": "Tue Nov 14 2023 10:54:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\nI tend to take it out on them",
+            "time": "Tue Nov 14 2023 10:54:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see. ",
+            "time": "Tue Nov 14 2023 10:54:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So it sounds like the main trouble you're facing is that you tend to have quarrels or conflicts with your family, especially when you're not feeling great overall, and you tend to take out your frustrations on them. That can definitely contribute to a strained relationship. It's also understandable that when we're feeling down or stressed, it can affect how we interact with the people closest to us. ",
+            "time": "Tue Nov 14 2023 10:54:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Can you share a little more about what's most troubling for you in these situations with your family?",
+            "time": "Tue Nov 14 2023 10:54:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel like my dad is too controlling sometimes",
+            "time": "Tue Nov 14 2023 10:55:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "He started grilling me on my finances the other day",
+            "time": "Tue Nov 14 2023 10:55:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "even though it's my money",
+            "time": "Tue Nov 14 2023 10:55:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I thought he was being unfair and didn't understand me",
+            "time": "Tue Nov 14 2023 10:55:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think what bothers me is that we both tend to fall into the same unhealthy communication patterns",
+            "time": "Tue Nov 14 2023 10:55:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand how it would be troubling to feel like your dad is being too controlling, especially when it comes to your finances. It's important to have autonomy over our own money. It sounds like you felt he was being unfair and not understanding your perspective. ",
+            "time": "Tue Nov 14 2023 10:55:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "mhm",
+            "time": "Tue Nov 14 2023 10:56:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And it's interesting that you mentioned both of you falling into unhealthy communication patterns. It can be challenging when we find ourselves in repetitive cycles of communication that aren't productive or conducive to building positive relationships.",
+            "time": "Tue Nov 14 2023 10:56:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "mgm",
+            "time": "Tue Nov 14 2023 10:56:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "mhm",
+            "time": "Tue Nov 14 2023 10:56:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Can you tell me a bit more about what you mean by these unhealthy communication patterns and how they impact your relationship with your dad?",
+            "time": "Tue Nov 14 2023 10:56:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hmm, it is the sort of thing where he sorta provokes me and I lash out",
+            "time": "Tue Nov 14 2023 10:56:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I tend to blame my parents and come up with justifications for why I acted the way I did in the moment instead of acknowledging that I had control and could have had a more productive discussion",
+            "time": "Tue Nov 14 2023 10:57:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel frustrated with myself and my communication habits",
+            "time": "Tue Nov 14 2023 10:57:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It leads me to pull the buck from my family as well and to avoid communicating things at times. ",
+            "time": "Tue Nov 14 2023 10:57:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see. It sounds like in these interactions with your dad, he may say something that provokes you, and as a result, you find yourself lashing out. It's understandable that it can be difficult to control our reactions in the moment, especially when we feel provoked or frustrated.",
+            "time": "Tue Nov 14 2023 10:57:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": " And it's interesting that you mentioned blaming your parents and coming up with justifications instead of taking responsibility for your own actions. It's not uncommon for us to fall into these patterns of deflecting blame onto others instead of acknowledging our own role in the situation.",
+            "time": "Tue Nov 14 2023 10:57:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yep",
+            "time": "Tue Nov 14 2023 10:57:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see that this cycle of blaming and avoiding communication is causing frustration and impacting your relationship with your family. Is there anything else about this situation or your communication habits that is particularly troubling to you?",
+            "time": "Tue Nov 14 2023 10:57:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that I don't acknowledge doubts or apologize when I'm wrong\n",
+            "time": "Tue Nov 14 2023 10:58:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and become combative in general. ",
+            "time": "Tue Nov 14 2023 10:58:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing that. It takes self-awareness to recognize these patterns within ourselves. It sounds like not acknowledging doubts or apologizing when you're wrong, and becoming combative in general, are additional challenges that you face in your communication with your family. It can be challenging to admit when we're wrong or to show vulnerability by expressing doubts. And becoming combative can escalate conflicts and strain relationships further. I can see how these patterns may be contributing to the difficulties you're experiencing in your family relationship.",
+            "time": "Tue Nov 14 2023 10:58:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": " Is there anything else you'd like to share about this or any other aspect of your situation that feels most troubling to you?",
+            "time": "Tue Nov 14 2023 10:58:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "nope idk i think that fits",
+            "time": "Tue Nov 14 2023 10:58:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I appreciate your openness in sharing these details, it can be difficult to talk about. I see you value open and healthy communication, but your current communication patterns with your family, particularly your dad, seem to be causing tension and conflict.\n",
+            "time": "Tue Nov 14 2023 10:58:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You mentioned feeling provoked, leading to reactions where you lash out, justify your actions, and sometimes avoid communication altogether. You've also noted a tendency to become combative and not acknowledging when you're wrong. All these, I imagine, must be quite frustrating for you. ",
+            "time": "Tue Nov 14 2023 10:58:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "We can probe a bit deeper if that's okay with you. Could you tell me more about the recent event where your dad was grilling you on your finances? What exactly happened? It would give me a clearer picture of the situation.",
+            "time": "Tue Nov 14 2023 10:59:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "My dad brought up some bills",
+            "time": "Tue Nov 14 2023 10:59:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and was grilling me about it",
+            "time": "Tue Nov 14 2023 10:59:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " even though I spent money from my own account, and I pushed back. ",
+            "time": "Tue Nov 14 2023 10:59:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like a recent incident where your dad scrutinized your bill payments despite you having used your own money was particularly stressful. You felt he was overstepping and into your personal finances, and you responded by pushing back.",
+            "time": "Tue Nov 14 2023 10:59:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": " This seems to be a recurring pattern that increases strain in your relationship. When he started questioning you about your bills, what were you telling yourself in that moment about the situation? Were there any specific thoughts or beliefs that came up for you?",
+            "time": "Tue Nov 14 2023 10:59:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That he was too controlling. ",
+            "time": "Tue Nov 14 2023 11:00:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That I can't communicate with my family",
+            "time": "Tue Nov 14 2023 11:00:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing that. When your dad brought up the issue of the bills and grilled you about them, you were telling yourself, \"He's too controlling.\" or \"I can't communicate with my family\" It seems this thought really caused you some distress. Could you tell me, what is most troubling about the thought, \"He's too controlling\" or \"I can't communicate with my family\"?",
+            "time": "Tue Nov 14 2023 11:00:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah",
+            "time": "Tue Nov 14 2023 11:00:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So it makes me feel like ",
+            "time": "Tue Nov 14 2023 11:01:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That I don't know if I am being unreasonable, or overreact when I think that. ",
+            "time": "Tue Nov 14 2023 11:01:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing. So it seems that what's most troubling about your thought is the uncertainty it brings, not knowing whether your feeling of unease is unreasonable or if you're overreacting. This uncertainty must be really challenging. When you find yourself wrestling with uncertainty about your own reactions, what emotions come up for you?",
+            "time": "Tue Nov 14 2023 11:01:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just feel",
+            "time": "Tue Nov 14 2023 11:02:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Defensiveness",
+            "time": "Tue Nov 14 2023 11:02:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But there's also regret and i'm so annoyed",
+            "time": "Tue Nov 14 2023 11:02:22 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand how you might feel defensive, regretful, and annoyed when this happens. These feelings certainly can make the situation even more difficult. It's really challenging when we feel scrutinized or controlled, and it's normal to react with defensive feelings.  \n",
+            "time": "Tue Nov 14 2023 11:02:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The regret you're experiencing could be stemming from wishing the conversation had gone differently. Likewise, the annoyance likely comes from the repeated pattern of such interactions.",
+            "time": "Tue Nov 14 2023 11:02:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you feel these emotions, defensiveness, regret, and annoyance, what actions do you find yourself doing or not doing?",
+            "time": "Tue Nov 14 2023 11:02:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It leads me to pull buck from my family",
+            "time": "Tue Nov 14 2023 11:03:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and i start avoiding communicating things",
+            "time": "Tue Nov 14 2023 11:03:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "as well",
+            "time": "Tue Nov 14 2023 11:03:22 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It makes sense that when you feel defensive, regretful, and annoyed, you might react by pulling back from your family and avoiding communication. These actions are often taken as self-protection mechanisms. However, it's clear to me that it's not really helping you to feel any better, and it's not improving your relationship with your family either. \n",
+            "time": "Tue Nov 14 2023 11:03:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah",
+            "time": "Tue Nov 14 2023 11:03:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's tough when the way we're trying to handle things is actually leading us away from what we value, like open and healthy communication with our loved ones. I can see your value of meaningful and peaceful connections with your family is not aligned with the current situation. \n",
+            "time": "Tue Nov 14 2023 11:03:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've discussed your issue in detail, let me recap and make sure we have everything right.\n",
+            "time": "Tue Nov 14 2023 11:03:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The recent event where your dad questioned your bills and managed your finances led to you thinking \"He's too controlling\" and \"I can't communicate with my family\". What's most troubling about this thought is your uncertainty -- you're not sure if you're being unreasonable or if you're overreacting.  This thought and uncertainty behind it make you feel defensive, regretful, and annoyed. These feelings then lead you to pull back from your family and avoid communication. ",
+            "time": "Tue Nov 14 2023 11:04:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does that sound accurate to your experience?",
+            "time": "Tue Nov 14 2023 11:04:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yep",
+            "time": "Tue Nov 14 2023 11:04:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's great! Hearing your story in its entirety gives us a clearer picture of what's going on. It appears you've been in a recurring cycle: you have an interaction with your dad (like him grilling you about your finances), this leads to thoughts like \"He's too controlling\", which leaves you feeling defensive, regretful, and annoyed. \n",
+            "time": "Tue Nov 14 2023 11:04:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This then causes a behavior where you pull back and avoid communicating with your family, which might be reinforcing the original event or creating a space for it to happen again, pulling you further away from your value of a healthy family relationship.",
+            "time": "Tue Nov 14 2023 11:04:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This cycle repeats itself, causing you more pain and strain each time it happens. You want to respond differently to your dad. You value open and peaceful discussions but end up being defensive and avoidant when dealing with him. \n",
+            "time": "Tue Nov 14 2023 11:04:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this summary feel like it captures what you've been experiencing? Or is there something missing or needs alteration?",
+            "time": "Tue Nov 14 2023 11:05:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah thats pretty accurate",
+            "time": "Tue Nov 14 2023 11:05:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Good! It's important that we're on the same page with this. Now, we can look at your thoughts and how they might be contributing to this unpleasant experience. \n",
+            "time": "Tue Nov 14 2023 11:05:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In cognitive-behavioral therapy, there are common distortions in thinking we call \"Cheeses.\" Your thought, \"He's too controlling,\" might involve a few of these Cheeses.\n",
+            "time": "Tue Nov 14 2023 11:05:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "One potential Cheese I'm seeing is called \"Mind Reading.\" This occurs when we assume we know why other people do the things they do. So when your dad questions your bills, you immediately tell yourself that \"He's too controlling.\" ",
+            "time": "Tue Nov 14 2023 11:05:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This Cheese might be adding to the distress you're feeling because it presumes certain negative motivations behind your dad's actions.\n",
+            "time": "Tue Nov 14 2023 11:05:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Another possible Cheese here could be \"Labeling.\" Instead of considering that your dad's controlling behavior might be situational or event-specific, you apply a blanket label on him as being \"too controlling,\" which could amplify the negative thoughts and emotions you experience.\n",
+            "time": "Tue Nov 14 2023 11:05:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "A third possible Cheese might be a \"Control Fallacy.\" This is when we feel either completely helpless (external control fallacy) or totally responsible for everyone and everything (internal control fallacy). It could be that when your dad quizzes you on your bills, you feel like you have no control over the situation, reinforcing the idea that \"He's too controlling.\"\n",
+            "time": "Tue Nov 14 2023 11:05:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Okay that makes a lot of sense",
+            "time": "Tue Nov 14 2023 11:06:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The story with these Cheeses in place looks something like this:\n",
+            "time": "Tue Nov 14 2023 11:06:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your dad brings up your financial bills, leading to an immediate assumption or \"Mind Reading\" that \"He's too controlling,\" which leaves you feeling defensive and regretful. To cope with these emotions \u2014because they're difficult to sit with\u2014you pull away from your family and avoid communication, which then creates space for such events to occur again. The general label you've given your dad, \"He's too controlling,\" further magnifies your negative reactions towards him. Moreover, when you feel grilled by your dad on your finances, you might be experiencing a \"Control Fallacy,\" feeling as though you have zero control over your own life, which could further silhouette your dad's controlling demeanor.\n",
+            "time": "Tue Nov 14 2023 11:06:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "However, if we look at it from another angle, it's possible that your dad doesn't know he's coming across as controlling. He might think he's offering help or advice. Mind Reading and Labeling could be adding fuel to the fire of this ongoing struggle, and the Control Fallacy might be locking you into a feeling of victimhood. \n",
+            "time": "Tue Nov 14 2023 11:06:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "By recognizing these Cheeses, we can start to ask if they are serving you well, or if they might be distorting reality and contributing to your unpleasant emotions and actions. What do you think? Does the Cheese explanation resonate with any part of your experience?",
+            "time": "Tue Nov 14 2023 11:06:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah that's really helpful",
+            "time": "Tue Nov 14 2023 11:07:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I definitely need to mull over this more",
+            "time": "Tue Nov 14 2023 11:07:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " and apply it",
+            "time": "Tue Nov 14 2023 11:07:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's great to hear! Recognizing these patterns or \"Cheeses\" as we call them, can be a significant first step towards improving your relationship with your family. It can help to challenge these thought distortions and see the situation from a fresh perspective. \n",
+            "time": "Tue Nov 14 2023 11:07:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, with these insights in mind about the Cheeses, let's imagine the same situation, with your dad asking about your bills. What is a new thought that you could have in response to the situation? This new thought should ideally be free of these Cheeses we discussed, and consider your value of healthy and open communication.",
+            "time": "Tue Nov 14 2023 11:07:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "My parents want the best for me even if they might not show it in the best way. Instead of lashing out, I should try to understand their point of view and explain mine in a healthy fashion so we can move forward on the same page.",
+            "time": "Tue Nov 14 2023 11:07:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I love this new thought! It's focusing on understanding and compassion, both for your parents and for yourself. It acknowledges your parents' intentions, even if their actions may sometimes come across differently. It also emphasizes your commitment to improved communication and moving forward together. This thought indeed aligns well with your value of open and healthy communication.\n",
+            "time": "Tue Nov 14 2023 11:07:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's check in on how this new thought might impact how you feel. Picture yourself in the same situation with your dad questioning your bills, and then imagine yourself having the new thought, \"My parents want the best for me even if they might not show it in the best way. Instead of lashing out, I should try to understand their point of view and explain mine in a healthy fashion so we can move forward on the same page.\" How does this make you feel?",
+            "time": "Tue Nov 14 2023 11:07:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It feels more empowering and gives me more control over my thoughts. ",
+            "time": "Tue Nov 14 2023 11:08:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's fantastic! Having a thought that empowers you and gives you a sense of control is incredibly beneficial. It's wonderful to see how shifting your thoughts can directly impact your emotions, even in the same, challenging situation. \n",
+            "time": "Tue Nov 14 2023 11:08:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, with your new thought and the empowering feeling you've described, imagine yourself in a similar situation with your dad again. Do you see yourself maybe acting differently as a result of this new thought and feeling?",
+            "time": "Tue Nov 14 2023 11:08:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah",
+            "time": "Tue Nov 14 2023 11:08:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel like the relationship is much more manageable than I made it out to be",
+            "time": "Tue Nov 14 2023 11:08:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a really insightful observation and a testament to your ability to reflect and adapt. This new perspective can indeed transform a situation from being overwhelming to something manageable. And with practice, it could potentially lead to significant changes in your relationship with your family. \n",
+            "time": "Tue Nov 14 2023 11:08:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How do you feel now compared to when you started this therapy session?",
+            "time": "Tue Nov 14 2023 11:08:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel so much lighter",
+            "time": "Tue Nov 14 2023 11:09:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm so glad to hear you're feeling lighter! It can be a relief to understand our situations better and discover new ways of thinking that bring us peace. Remember, practice is key. Use your new thought when you find yourself in the same or similar situation with your family. It might feel strange at first, but with time and consistency, it can profoundly impact your relationships and overall wellbeing.\n",
+            "time": "Tue Nov 14 2023 11:09:22 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for participating in this process. And of course, you're always welcome to return if you ever want to discuss this more, or anything else that might be troubling you. Wishing you all the best with your path towards healthier familial communication!",
+            "time": "Tue Nov 14 2023 11:09:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "awesome thankm you so much!",
+            "time": "Tue Nov 14 2023 11:09:37 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

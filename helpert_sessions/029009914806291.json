@@ -1,0 +1,428 @@
+{
+    "notes": {
+        "thought": "\"I will never accomplish anything\"\n\"I'm not enough\"\n\"I will never have a prayer answered in any meaningful way.\"\n\"I will never be loved\"\n",
+        "event": "Seeing a picture that looked like your ex-girlfriend and your friend may have gotten engaged.\n",
+        "feelings_behaviors": "Enormous despair, hopelessness, and discouragement.",
+        "labels": {
+            "blaming": true
+        },
+        "new_thought": "My past relationship and current situation do not determine my self-worth or my future capabilities"
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "Hi, I am feeling down, probably stemming from isolation",
+            "time": "Wed Nov 15 2023 23:19:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really sorry to hear that you're feeling down and isolated. Isolation can certainly be tough to deal with. If you're comfortable with it, would you like to share more about your experience? What's happening that's making you feel isolated?",
+            "time": "Wed Nov 15 2023 23:19:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Recently, someone who was once my friend is dating someone I've cared for a long time about, who is an ex, and I saw a picture of them together which looked like maybe they got engaged? ",
+            "time": "Wed Nov 15 2023 23:19:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "When I look at them, I just think that I'm not enough, never will be, never will accomplish anything, and will never have a prayer answered in any meaningful way.",
+            "time": "Wed Nov 15 2023 23:19:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Seeing someone you've had feelings for in a relationship with someone else can be filled with all kinds of emotions, and it can certainly magnify feelings of isolation. It sounds like seeing that picture has you conceptualizing thoughts like \"I'm not enough\" or \"I will never accomplish anything.\" That must be really challenging to carry on your shoulders. \n",
+            "time": "Wed Nov 15 2023 23:20:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It appears that your fundamental value of love and acceptance is being threatened, leading to these intense emotions you're feeling. I can imagine how seeing that picture may have ignited a deep-seated feeling of not being 'enough' or successful in the way you would want to be. Can you share more about what\u2019s most troubling about this for you? I'm here to listen.",
+            "time": "Wed Nov 15 2023 23:20:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah it's a long story\n",
+            "time": "Wed Nov 15 2023 23:20:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Me and the woman in question, Amber, dated for about 15 months in 2017-18",
+            "time": "Wed Nov 15 2023 23:20:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I moved from Michigan to Florida to be with her. But after a while, it felt like she was always mad at me, and I can understand why",
+            "time": "Wed Nov 15 2023 23:20:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Her family didn't like me, I have a famously short temper (not violent, I just say dumb things), and was always short on cash because I have a hard time holding down jobs",
+            "time": "Wed Nov 15 2023 23:20:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So we split up. I tried going to college, but then that fell through.",
+            "time": "Wed Nov 15 2023 23:20:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "In comparison, my friend is inheriting his father's business, worked the same job for 8 years, makes good money, drives a nice car, and the two hit it off right in front of me",
+            "time": "Wed Nov 15 2023 23:20:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Two weeks later they were dating. I never went off on them",
+            "time": "Wed Nov 15 2023 23:21:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Just told her how I felt, told him I didn't think I could talk to him for a while",
+            "time": "Wed Nov 15 2023 23:21:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " It's been 15 months",
+            "time": "Wed Nov 15 2023 23:21:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So now I'm double dumped, in less than a year, still living with mom, making crap money",
+            "time": "Wed Nov 15 2023 23:21:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I really feel like everything I set out to do just falls apart. I understand that's a lot",
+            "time": "Wed Nov 15 2023 23:21:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad you're sharing all this details with me and I want you to know that I'm here for you. That sounds like an incredibly difficult and complicated situation. You moved and made significant life changes for Amber, but it seems like multiple factors led to you two splitting up. That was already tough, but then seeing her dating someone who seems more successful in many areas must be really hard to digest.\n",
+            "time": "Wed Nov 15 2023 23:21:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Experiencing such a sequence of events can indeed make you feel like everything you try to do just falls apart. It's like a cascade of disappointments and failures, which makes you feel stuck in a cycle of never being enough. To see your efforts not yielding the desired results, and then to see someone close to you seemingly achieving what you've been struggling with, can definitely stimulate thoughts like \"I'm not enough\" or \"I will never accomplish anything\". The weight you're carrying right now must feel really heavy.\n",
+            "time": "Wed Nov 15 2023 23:21:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "However, from what you've shared, it seems like your value of personal growth and self-sufficiency is strong. Despite the setbacks, you strive to improve your situation, like attempting college and maintaining the resolve to express your feelings honestly to Amber and your friend. Now, amidst all these feelings of not being enough and not accomplishing anything",
+            "time": "Wed Nov 15 2023 23:21:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "significant, I want you to rest on the understanding of your life in terms of events, thoughts, feelings, and behaviors. \n",
+            "time": "Wed Nov 15 2023 23:21:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you think these thoughts, \"I will never accomplish anything\" and \"I'm not enough\", what kind of feelings arise within you? How would you describe those emotions?\n",
+            "time": "Wed Nov 15 2023 23:22:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel like everything isn't worth doing. ",
+            "time": "Wed Nov 15 2023 23:22:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just have that thought, \"these things didn't help you before, why would they help you now? this is a waste of time\"",
+            "time": "Wed Nov 15 2023 23:22:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like having these thoughts leads to feelings of despair, hopelessness and discouragement. The idea that past attempts haven't helped creates an inner narrative reinforcing this feeling that trying is futile. That is extremely tough, particularly when faced with the perception of others achieving the very things you yearn for. \n",
+            "time": "Wed Nov 15 2023 23:22:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're feeling this disheartened and hopeless, what tends to be your behavior? What actions do you find yourself doing, or not doing as a result?",
+            "time": "Wed Nov 15 2023 23:22:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "When I'm at work, it's easy to ignore these thoughts, but when I don't have work",
+            "time": "Wed Nov 15 2023 23:22:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I really just fall apart",
+            "time": "Wed Nov 15 2023 23:22:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't feel motivated to do anything. ",
+            "time": "Wed Nov 15 2023 23:22:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds as if when these feelings of hopelessness and despair hit you, your typical response is to retreat inwards, lose motivation and not engage in activities you usually would.",
+            "time": "Wed Nov 15 2023 23:22:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": " Work seems to provide a temporary distraction, but when you're not occupied with it, those feelings surge forward powerfully. This experience of feeling immobilized and unmotivated is a really challenging place to be.\n",
+            "time": "Wed Nov 15 2023 23:22:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "From everything shared throughout our conversation, can you identify the thought that seems most troubling?  Is it \"I'm not enough,\" \"I will never accomplish anything,\" or perhaps something else?",
+            "time": "Wed Nov 15 2023 23:23:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think it is both and \"I will never be loved\"",
+            "time": "Wed Nov 15 2023 23:23:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I just feel like love comes second nowadays",
+            "time": "Wed Nov 15 2023 23:23:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Amber didn't \"love\" mike at first, I don't think",
+            "time": "Wed Nov 15 2023 23:23:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " know mike didn't love her",
+            "time": "Wed Nov 15 2023 23:23:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But she was a good fit for him, and he was well off enough that she'd never have to worry.",
+            "time": "Wed Nov 15 2023 23:23:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds as though there's a deep concern at the heart of your feelings: the fear of \"I will never be loved.\" It must be incredibly painful to hold that thought. It's also reflected in your perception of Amber and Mike's relationship - that it's more about fitting together and security than it is about love. These thoughts can be really excruciating and it's entirely valid for you to feel this way.\n",
+            "time": "Wed Nov 15 2023 23:23:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The thoughts we've outlined:\n- \"I'm not enough\"\n- \"I will never accomplish anything\"\n- \"I will never be loved\"",
+            "time": "Wed Nov 15 2023 23:24:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These are all significantly heavy thoughts that would make anyone feel defeated.\n",
+            "time": "Wed Nov 15 2023 23:24:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, when these thoughts come to mind and you begin feeling this hopelessness and despair, what kind of actions do you find yourself doing, or not doing? It's important to understand how these emotions are affecting your behavior.",
+            "time": "Wed Nov 15 2023 23:24:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I just have no motivation to meet new people or go on dates. I just fall apart when I am alone. ",
+            "time": "Wed Nov 15 2023 23:24:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm truly sorry to hear how much you're struggling. It sounds like these deep-seated thoughts and heavy emotions are leading to behavior such as withdrawing from socializing and dating, and feeling overwhelmed when you're by yourself. \n",
+            "time": "Wed Nov 15 2023 23:24:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So here\u2019s a summary of what we\u2019ve discussed: \n",
+            "time": "Wed Nov 15 2023 23:24:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You moved to Florida for Amber, and despite your efforts, your relationship ended due to a number of reasons, including your temperament, financial situation, and her family's disapproval. A little later, you had to watch as Amber started dating your friend\u2014someone who is in a much better financial situation\u2014and your past struggles made it even harder to stomach. ",
+            "time": "Wed Nov 15 2023 23:25:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes",
+            "time": "Wed Nov 15 2023 23:25:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These events led to thoughts that you're \"not enough,\" that you will \"never accomplish anything,\" and that you will \"never be loved.\" These thoughts are incredibly burdensome and made you feel despair, hopelessness, and discouragement. In response, you started avoiding socializing and dating and found yourself descending into despair when alone. \n",
+            "time": "Wed Nov 15 2023 23:25:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It seems like a negative cycle that you're stuck in\u2014an event triggers a strong emotional response, which leads to unhelpful behaviors, which in turn reinforces those original troubling thoughts.\n",
+            "time": "Wed Nov 15 2023 23:25:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "exactly im just stuck",
+            "time": "Wed Nov 15 2023 23:25:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this all sound close to what you're experiencing? Is any of it off base, or is there anything you'd like to add?",
+            "time": "Wed Nov 15 2023 23:25:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thats a great summary",
+            "time": "Wed Nov 15 2023 23:26:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think you summarized it pretty well.",
+            "time": "Wed Nov 15 2023 23:26:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad we're on the same page about your story. It takes courage to face these difficult thoughts and feelings, so I commend you for that. \n",
+            "time": "Wed Nov 15 2023 23:26:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, at Cheeseburger Therapy, we use this analogy that our troubling thoughts are like cheese. We call the part of Cognitive Behavioral Therapy (CBT) where we dissect our thoughts \"The Cutting of the Cheese\". \n",
+            "time": "Wed Nov 15 2023 23:26:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "If we look at your thought as a type of cheese, \"I'm not enough\" can be seen as a form of \"Blaming Cheese\". This is because instead of looking at the situation as a set of circumstances and decisions, you're pointing fingers at yourself as the problem. \n",
+            "time": "Wed Nov 15 2023 23:26:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "For example, in the case of your breakup or your friend's success, you're assigning blame to yourself for not being good enough or successful enough. While it's normal to look inwards when things go wrong, sometimes these 'cheeses' or distortions can cause us to interpret situations in a way that's both unhelpful and unfair to ourselves.\n",
+            "time": "Wed Nov 15 2023 23:26:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you Nathan. I appreciate you seeing that in me (",
+            "time": "Wed Nov 15 2023 23:27:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "By recognizing the \"Blaming Cheese\" in your thoughts, you can start to see that situations often occur outside of our control or are the result of many factors, not just our 'enough-ness'. \n",
+            "time": "Wed Nov 15 2023 23:27:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does that make sense to you? Can you see how this cheese might apply to your thought, \"I\u2019m not enough\"? And, can you see how this is possibly leading you to the feelings and behaviors you described earlier?",
+            "time": "Wed Nov 15 2023 23:27:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, I can see how I am blaming myself a lot",
+            "time": "Wed Nov 15 2023 23:27:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just want to move on, and some part of me wants to believe it'll all come back together with her and I again.",
+            "time": "Wed Nov 15 2023 23:28:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Acknowledging that you've been blaming yourself is a huge step, and it's completely understandable that you would. Relationships and emotions are complex, and we often look for something to attribute the pain to.\n",
+            "time": "Wed Nov 15 2023 23:28:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Also, holding on to the hope of a reconciliation with Amber is natural. That's a testament to your capacity for love and forgiveness, even in the face of pain and disappointment.",
+            "time": "Wed Nov 15 2023 23:28:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "However, the flip side could be that it keeps the cycle of feeling not enough alive. And these cycles can surprisingly sometimes serve us, like protecting us from getting hurt in new relationships.\n",
+            "time": "Wed Nov 15 2023 23:28:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can see that ",
+            "time": "Wed Nov 15 2023 23:28:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i feel like I need a change somewhere.  I need to pass my senior panel at work, or I need to get started on HVAC school. Maybe just get in shape.  ",
+            "time": "Wed Nov 15 2023 23:28:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's really good to hear. It sounds like you're gaining a fresh perspective, and you're identifying some concrete steps you could take toward growth and positive change. Now, let\u2019s cultivate a new thought that embraces this subtle shift towards self-compassion and self-improvement.\n",
+            "time": "Wed Nov 15 2023 23:28:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Envision yourself back in the situation where you saw the picture of Amber and your friend. Knowing what you know now, what's a new thought you might have in that situation? It should be something that acknowledges your value of personal growth and self-sufficiency.\n",
+            "time": "Wed Nov 15 2023 23:28:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Here's an example to get the gears turning: \"My past relationship and current situation do not determine my self-worth or my future capabilities.\" Your new thought might look something like this. Take your time on this. The goal is to create a thought that feels both true and helpful to you.\n",
+            "time": "Wed Nov 15 2023 23:28:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "you actually wrote a good thought tbh",
+            "time": "Wed Nov 15 2023 23:29:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i like that",
+            "time": "Wed Nov 15 2023 23:29:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm happy to hear it resonated with you! Now, let's imagine how this might change your feelings and behavior. Picture yourself in the situation again, seeing that picture. But this time, instead of thinking \"I'm not enough,\" you're thinking \"My past relationship and current situation do not determine my self-worth or my future capabilities\" How does that make you feel?",
+            "time": "Wed Nov 15 2023 23:30:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It makes me feel a little more motivated and hopeful. ",
+            "time": "Wed Nov 15 2023 23:30:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "like a breath of fresh air huhu",
+            "time": "Wed Nov 15 2023 23:30:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That\u2019s wonderful to hear! This new thought, \"My past relationship and current situation do not determine my self-worth or my future capabilities,\" is cultivating feelings of motivation and hope in you, giving you energy to move forward. \n",
+            "time": "Wed Nov 15 2023 23:30:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, with this newfound hope and motivation, can you imagine any actions you might be inspired to take when you're feeling this way? Maybe actions that previously felt difficult, but could feel within reach now?",
+            "time": "Wed Nov 15 2023 23:30:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I'll try to do some new things, get a coach, look into certifications",
+            "time": "Wed Nov 15 2023 23:31:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I'll try to do some new things, get a coach, look into certifications. Maybe eventually makeup with Amber and Mike. ",
+            "time": "Wed Nov 15 2023 23:31:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's incredible to see. Armed with the thought \"My past relationship and current situation do not determine my self-worth or my future capabilities,\" you're feeling motivated and hopeful to pursue fulfilling actions\n",
+            "time": "Wed Nov 15 2023 23:31:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": " for personal and professional growth, like hiring a coach and looking into certifications. Even the idea of moving towards mending the relationship with Amber and Mike shows huge potential change.",
+            "time": "Wed Nov 15 2023 23:31:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's truly beautiful to witness this shift, from a place of self-doubt and despair to planning constructive steps forward. I'd encourage you to embrace and practice this new thought, especially when you're in similar situations as before.\n",
+            "time": "Wed Nov 15 2023 23:31:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Lastly, I'd love to check in with you about how you're feeling now, compared to when we began this conversation. Can you share any differences or changes you've noticed?",
+            "time": "Wed Nov 15 2023 23:31:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I feel less alone -thank you for talking me through this. ",
+            "time": "Wed Nov 15 2023 23:31:33 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

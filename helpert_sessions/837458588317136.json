@@ -1,0 +1,398 @@
+{
+    "notes": {
+        "thought": "He's abandoning me\nI can't handle this.\n",
+        "event": "argument or feeling of disconnection from your partner.",
+        "feelings_behaviors": "hurt, anger, emptiness, and sadness.",
+        "labels": {
+            "black-or-white-thinking": true
+        },
+        "new_thought": "Even though I'm feeling upset or misunderstood, it's safe to express my feelings. I can make myself heard."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I really think I have BPD and its really affecting my life.",
+            "time": "Sat Oct 28 2023 21:20:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I hear you saying that you believe you have Borderline Personality Disorder (BPD) and that it's having a significant impact on your life. It sounds like you're feeling troubled and want to explore this further. ",
+            "time": "Sat Oct 28 2023 21:20:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "yeah so throughout my life, ive always have unstable relationships with people, until recently i was really struggling and was trying to do research on what it might be\n",
+            "time": "Sat Oct 28 2023 21:20:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "(ugh sorry for the copy paste of this site, its been an issue)",
+            "time": "Sat Oct 28 2023 21:20:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "no worries",
+            "time": "Sat Oct 28 2023 21:20:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah so throughout my life, ive always have unstable relationships with people, until recently i was really struggling and was trying to do research on what it might be",
+            "time": "Sat Oct 28 2023 21:20:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i found out that people with bpd have this thing called \u201cblack and white thinking\u201d and you are probably familiar with that term but it really applies to me\n",
+            "time": "Sat Oct 28 2023 21:21:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see that you've been experiencing unstable relationships and have come across the concept of \"black and white thinking\" in your research on BPD. This way of thinking can indeed have a significant impact on your mood, relationships, and communication. It can feel overwhelming to experience intense emotions and have conflicting feelings towards others.\n",
+            "time": "Sat Oct 28 2023 21:21:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i am :(",
+            "time": "Sat Oct 28 2023 21:21:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you say that you sometimes feel like you hate others but don't actually want to hurt them, it sounds like there's a lot of internal struggle happening within you. This can make it challenging to navigate your relationships and communicate effectively. Can you tell me a recent event that started it?",
+            "time": "Sat Oct 28 2023 21:21:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "me and my partner got into an argument and i felt him almost like avoid me or disconnect from me and i think in a way it like triggered me. i ended up barley talking to him, avoiding him, and giving him almost like my back",
+            "time": "Sat Oct 28 2023 21:21:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I understand that an argument with your partner triggered some intense emotions for you, and it led you to withdraw and avoid him. It can be really tough when we feel like our partner is distancing themselves from us, and it's natural to have a strong reaction to that.\n",
+            "time": "Sat Oct 28 2023 21:21:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes :(",
+            "time": "Sat Oct 28 2023 21:22:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you say you gave him your back and barely talked to him, it seems like you were trying to protect yourself from further hurt or rejection. This is a common response when we feel hurt or misunderstood. Can you share with me how these actions made you feel?",
+            "time": "Sat Oct 28 2023 21:22:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i felt hurt. it was a mix of everything, sometimes its anger, most of the time its just emptyness and just trying to avoid it, sadness, just being overall unconfrontational",
+            "time": "Sat Oct 28 2023 21:22:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like when you withdraw and avoid confrontation, you experience a range of emotions such as anger, emptiness, sadness, and a general desire to avoid conflict. These feelings are understandable given the situation and your desire to protect yourself and avoid further pain.\n",
+            "time": "Sat Oct 28 2023 21:22:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you experience these emotions, how do you find yourself behaving or responding to the situation with your partner? Are there any specific behaviors or actions that you engage in as a result of these emotions?\n",
+            "time": "Sat Oct 28 2023 21:22:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "it just feels like i cant cope with it. like i literally cant, i go quiet, no thoughts are coming through its just like i have to avoid it at all costs which makes it so much harder to communicate\n",
+            "time": "Sat Oct 28 2023 21:22:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i usually just want to back up and just keep it to myself and i end up completely avoiding the situation",
+            "time": "Sat Oct 28 2023 21:22:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I hear you saying that when you're overwhelmed by your emotions, it feels like you can't cope with the situation. This leads you to go quiet and avoid the conversation altogether, making it difficult to communicate effectively with your partner.\n",
+            "time": "Sat Oct 28 2023 21:23:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's completely normal to feel overwhelmed and have the urge to withdraw when we're facing intense emotions. Sometimes, taking a step back to collect ourselves can be helpful. However, it's important to find a balance between self-care and maintaining open communication with your partner. \n",
+            "time": "Sat Oct 28 2023 21:23:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see that avoiding the situation entirely is causing frustration and potentially perpetuating the cycle of miscommunication. ",
+            "time": "Sat Oct 28 2023 21:23:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes i feel like when it happens my emotions are so powerful and i don't know wha to do then",
+            "time": "Sat Oct 28 2023 21:23:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So it appears that there's a pattern occurring here. An event happens, like an argument or feeling of disconnection from your partner. this triggers a thought, perhaps something like \"He's abandoning me\" or \"I can't handle this.\" These thoughts bring about emotions of anger, emptiness, and sadness. And these feelings lead you to behave by becoming quiet, avoiding the conflict, and distancing yourself from the situation.",
+            "time": "Sat Oct 28 2023 21:24:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "does this sequence of events, thoughts, feelings, and behaviors resonate with how you've been experiencing things?",
+            "time": "Sat Oct 28 2023 21:24:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i can see a pattern but",
+            "time": "Sat Oct 28 2023 21:24:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i mean, i honestly think it ties or coincides with my relationship with my parents. i was taught that its better to stay quiet and that i didnt feel heard. i didn\u2019t communicate my feelings with my parents ever so honestly i think it taught me that i shouldnt share my feelings and now, even if i want to, i cant because thats how i learned",
+            "time": "Sat Oct 28 2023 21:24:46 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see, it sounds like your past experiences, particularly with your parents, have influenced your current way of handling conflicts. You learned to stay quiet and keep your feelings to yourself because you felt unheard. This pattern seems to be repeating in your relationships now where you're reverting to silence and avoidance, even when you wish to express your feelings. \n",
+            "time": "Sat Oct 28 2023 21:24:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's understandable why you'd resort to these behaviours: If we felt unheard or invalidated in the past, we might instinctively protect ourselves from that pain in the present. Your value of open communication is challenged in these instances. It can be really tough to break these patterns, especially when they're deeply rooted in our early life experiences. \n",
+            "time": "Sat Oct 28 2023 21:25:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you for opening this space for me",
+            "time": "Sat Oct 28 2023 21:25:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "By acknowledging this, you're taking an important step towards understanding your feelings and behaviors. So when thinking about your relationship with your partner and applying the idea of black and white thinking, what would you say is most troubling? ",
+            "time": "Sat Oct 28 2023 21:25:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i mean i think the most troubling part for me was just facing my emotions because i couldnt. it was like almost a defense mechanism to just avoid him.\n",
+            "time": "Sat Oct 28 2023 21:25:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Feeling unable to face your emotions and resorting to avoidance as your defense mechanism seems to be most troubling for you. That's a very profound and important realization. It's understandable that emotions can feel overwhelming, especially when they're linked to deep-seated patterns from past experiences. \n",
+            "time": "Sat Oct 28 2023 21:25:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you think \"I can't face my emotions,\" and you act by withdrawing to protect yourself, it brings up feelings like sadness, emptiness, and anger for you, is that right? \nAnd when you feel these emotions, you find yourself not communicating and avoiding confrontation, does this sound accurate to you?",
+            "time": "Sat Oct 28 2023 21:26:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes its too mcuh for me, i withdraw myself",
+            "time": "Sat Oct 28 2023 21:26:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and i feel like that is what i struggle with\n",
+            "time": "Sat Oct 28 2023 21:27:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I really appreciate your trust in sharing this with me. It sounds like you're self-aware and have a deep understanding of your patterns, which is truly valuable.\n",
+            "time": "Sat Oct 28 2023 21:27:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "A cycle has been established where a sense of disconnection or argument leads to the thought, \"I can't face my emotions.\" This triggers feelings of sadness, emptiness, and anger within you. In response, you go quiet, keep your feelings to yourself, and avoid confrontation - shrinking back into your own shell. This, unfortunately, leads to a distance in communication, which is something you value in your relationships. It must be challenging to have this cycle occur on repeat in your life.\n",
+            "time": "Sat Oct 28 2023 21:27:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, as you've identified, your thought, \"I can't face my emotions,\" is something we refer to as a 'Cheese'. It's a cognitive distortion, or what most people often refer to as black and white thinking. Essentially, you have set these two polar opposites for yourself: either you face all these overwhelming emotions head-on, or you don't face them at all. And since facing all these emotions seems intimidating and painful, you resort to the other end of the spectrum - avoidance - as your defense mechanism.",
+            "time": "Sat Oct 28 2023 21:28:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Go on",
+            "time": "Sat Oct 28 2023 21:28:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes it feels like a connection",
+            "time": "Sat Oct 28 2023 21:28:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i notice that on the outside, i look angry, upset, numb even. but really like deeply inside im hurting and i feel like i need someone to trust\n",
+            "time": "Sat Oct 28 2023 21:28:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "because i feel so misunderstood and i dont know what to do about it\n",
+            "time": "Sat Oct 28 2023 21:28:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and its not like i dont trust my partner or whoever im having a conflict with, its just during a conflict, i dont feel understood at all which makes the trust bond almost a little unstable",
+            "time": "Sat Oct 28 2023 21:28:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Absolutely. Your cheese or distortion lies in the black and white thinking that you either don't face your emotions or you face them head-on. This kind of thinking can be really limiting, especially when you are in challenging situations. It's kind of like you're putting on an armor to protect yourself, appearing numb or angry, but inside you're working really hard to keep everything together.\n",
+            "time": "Sat Oct 28 2023 21:28:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's completely valid for you to want to feel understood and to have a stable bond of trust, particularly in times of conflict. Can you see how this cheese of \"not facing emotions\" might be contributing to you feeling misunderstood and affecting your ability to trust and feel trusted during conflict?",
+            "time": "Sat Oct 28 2023 21:28:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "it does",
+            "time": "Sat Oct 28 2023 21:28:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "because that's my biggest struggle",
+            "time": "Sat Oct 28 2023 21:28:57 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Yes, it truly does sound like you're grappling with this cycle. The fact that you're able to recognize it so clearly is a big step forward. \n",
+            "time": "Sat Oct 28 2023 21:29:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your cheese or black and white thinking appears to be centered on either suppressing or fully facing your emotions. This way of thinking might have its roots in your past where you felt unheard and found solace in silence. Now, it seems to take the form of an automatic defense mechanism during conflicts, leading you to avoid your emotions altogether which consequently results in you not expressing your feelings or needs during such times.\n",
+            "time": "Sat Oct 28 2023 21:29:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This must be particularly tough as your defense mechanism seems to block the very thing you yearn for, which is open communication and mutual understanding. Is there anything else you would like to discuss about this cheese or are you ready to explore other thoughts or potential cheeses further?",
+            "time": "Sat Oct 28 2023 21:29:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you so much for creating this space. i feel heard and trust and understand",
+            "time": "Sat Oct 28 2023 21:29:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear that you feel heard, trusted and understood. That's meaningful progress right there and I want to acknowledge your courage and openness in exploring the depths of your feelings and experiences.\n",
+            "time": "Sat Oct 28 2023 21:29:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, I would like to explore the possibility of developing a new approach to managing your emotions. How about we try to think of some new thoughts to replace \"I can't face my emotions\"? This new thought will aim to encourage you to be more open with your feelings, so as to improve communication and understanding with your partner. \n",
+            "time": "Sat Oct 28 2023 21:29:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What's a new thought you could have when you find yourself in a disagreement with your partner, that incorporates your value of open communication and understanding?",
+            "time": "Sat Oct 28 2023 21:29:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "like the part of me where i close up?\n",
+            "time": "Sat Oct 28 2023 21:29:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i dont know how to direct it to a new thought\n",
+            "time": "Sat Oct 28 2023 21:29:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "but maybe i would want to think that its okay and that this is a safe space where i can talk about my feelings and whats bothering me, i\u2019m going to feel heard",
+            "time": "Sat Oct 28 2023 21:29:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Absolutely, you're on the right track. How does this make you feel?",
+            "time": "Sat Oct 28 2023 21:29:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i think that at first, i would still feel a little skeptical because that is a very new thought being introduced to me. but i feel like with time, that would definitely help with my communication skills and how to cope with those feelings\n",
+            "time": "Sat Oct 28 2023 21:29:46 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "A possible new thought could be \"Even though I'm feeling upset or misunderstood, it's safe to express my feelings. I can make myself heard.\" This reframing can help you foster open communication, which is a value you hold dear.\n",
+            "time": "Sat Oct 28 2023 21:29:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i feel like that is a lot better and a lot more \u201cbeginner friendly\u201d i feel like the statement i made before is just going to go through one ear and out the other\n",
+            "time": "Sat Oct 28 2023 21:30:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Imagine yourself in a situation where you're having a disagreement with your partner. How would it feel to think this new thought \"Even though I'm feeling upset or misunderstood, it's safe to express my feelings. I can make myself heard.\" as compared to your previous thought pattern?",
+            "time": "Sat Oct 28 2023 21:30:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "it makes me feel more opened up and that the closed part of me has just been alone and that thats all its ever known, that part of me should be communicating and that it would be safe for me",
+            "time": "Sat Oct 28 2023 21:30:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's wonderful to see that this new thought is encouraging a feeling of safe and open communication. You're right, introducing this thought is like shedding light on a part of you that may have felt overlooked or misunderstood for such a long time. \n",
+            "time": "Sat Oct 28 2023 21:30:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So when imagining yourself in an argument with your partner, thinking \"Even though I'm feeling upset or misunderstood, it's safe to express my feelings. I can make myself heard\", how do you see yourself behaving compared to before? Would there be any new actions you'd feel compelled to take?",
+            "time": "Sat Oct 28 2023 21:30:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thats the thing i don't know what to do",
+            "time": "Sat Oct 28 2023 21:30:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm hearing you say that you're unsure about what new actions you might take in response to this new thought. That's completely okay and a normal part of this process. \n",
+            "time": "Sat Oct 28 2023 21:30:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "A first step could simply be to pause and take a few deep breaths, reminding yourself internally that it's safe to express your feelings. Then, you might attempt to express what you're feeling rather than closing off. For example, instead of going quiet, you might say to your partner, \"I'm feeling really upset right now, can we take a moment before we continue this conversation?\" How does that sound? How might you feel doing something like this?",
+            "time": "Sat Oct 28 2023 21:30:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i feel like i can definitely try saying that rather than just full sending myself and rushing myself into communication",
+            "time": "Sat Oct 28 2023 21:30:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Absolutely, taking a moment to pause and breathe before rushing into a conversation can help in establishing a safer space for communication. By expressing your need for a moment to your partner, you\u2019re not only giving yourself time to process your emotions on your own terms, but also setting a more balanced tone for the conversation.\n",
+            "time": "Sat Oct 28 2023 21:30:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we are close to the end of this conversation, I hope this new thought and potential new behavior could serve you well in your journey ahead. Feel free to return to check in or discuss anything else you might need help with. \n",
+            "time": "Sat Oct 28 2023 21:30:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Just remember, when you find yourself in a situation where you're feeling overwhelmed, take a pause and remind yourself of this new thought, \"Even though I'm feeling upset or misunderstood, it's safe to express my feelings. I can make myself heard.\" ",
+            "time": "Sat Oct 28 2023 21:30:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "no, i should be thanking you, i feel like you really made me see a different perspective of myself. you made me realize that i actually dont have to feel or be alone so thank you :)",
+            "time": "Sat Oct 28 2023 21:31:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear that our conversation was helpful and brought you a new perspective. Remember, you're not alone in your experiences and it's okay to reach out, express yourself, and connect with others. Continue to lean on this new thought and apply it in your life. \n",
+            "time": "Sat Oct 28 2023 21:31:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're always welcome to return if you need to talk or want further guidance. Take care of yourself and remember to be patient and compassionate with yourself on your journey towards better understanding and managing your emotions. Thank you for your trust and openness in our session. You're doing great work! :)",
+            "time": "Sat Oct 28 2023 21:31:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you again :)",
+            "time": "Sat Oct 28 2023 21:31:29 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

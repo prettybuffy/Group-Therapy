@@ -1,0 +1,423 @@
+{
+    "notes": {
+        "thought": "\"I'm asking her to trade career growth for my dream\"\n\"I'm worried about stressing her out.\"",
+        "event": "Partner started looking for new roles, which opened up the possibility of moving. Yet, you realized that moving to NYC, your dream, didn't seem to be a big factor in your partner's considerations",
+        "feelings_behaviors": "Conflict, worry",
+        "labels": {
+            "should-statement": true
+        },
+        "new_thought": "Even if it\u2019s not explicitly a win-win, we will have gotten there through an understanding of how we both feel"
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I wanted to talk through something I feel conflicted about regarding my partner and moving",
+            "time": "Mon Nov 13 2023 13:57:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Of course, I'm here to listen and help you work through your thoughts and feelings. Can you tell me a bit more about what's been going on with your partner and the decision to move? What's been on your mind?",
+            "time": "Mon Nov 13 2023 13:58:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well after college I was planning on moving to New York, which was something I was really looking forward to, but my partner end up choosing to take a job somewhere else, so we ended up deciding to live in the same spot",
+            "time": "Mon Nov 13 2023 13:58:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I ended up changing roles to make this happen, and I struggled a lot to adjust to the new role, and also didn\u2019t have a ton of friends where we ended up.",
+            "time": "Mon Nov 13 2023 13:59:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Recently my partner had started to look for new roles, so there is an opportunity for us to potentially move",
+            "time": "Mon Nov 13 2023 13:59:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "We had spent some time out in NY over the summer, and my partner ended up enjoying it, so I was hopeful that she would be intrested in perusing a role out there",
+            "time": "Mon Nov 13 2023 13:59:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But it seems that while she\u2019s intrested, it\u2019s not a big consideration",
+            "time": "Mon Nov 13 2023 13:59:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I know i should be supportive in her persuit to find a good fit, and don\u2019t want to pressure them to do anythin",
+            "time": "Mon Nov 13 2023 13:59:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "but at the same time it is one of my dreams to live out there for a bit, and it reminds me of the time when I was really unhappy",
+            "time": "Mon Nov 13 2023 14:00:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I felt that my partner didn\u2019t recognize what I was sacrificing to make the move. All my close friends ended up in NYC, and I had to leave them behind. ",
+            "time": "Mon Nov 13 2023 14:00:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you've been through a lot of changes and adjustments in your life for the sake of your relationship. It can be tough when our own dreams and desires clash with the realities of our partnerships. It's completely understandable that you're feeling conflicted and that you're struggling to find the right balance between supporting your partner and honoring your own dreams.\n",
+            "time": "Mon Nov 13 2023 14:00:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like your main value that may be threatened here is your sense of fulfillment and happiness, as well as your need for support and understanding from your partner. I can see that moving to NYC was a dream of yours, and leaving your close friends behind and adjusting to a new role has been challenging. It's important for your partner to recognize and acknowledge the sacrifices you've made in order to make the move work.\n",
+            "time": "Mon Nov 13 2023 14:00:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you think about your partner not considering NYC as a big consideration, how does that make you feel? And in terms of your actions, have you noticed any particular behaviors or patterns that have emerged as a result of these feelings?",
+            "time": "Mon Nov 13 2023 14:01:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It makes me feel conflicted. I\u2019ve talked with them about how it\u2019s something I\u2019ve wanted to do, and they understand that. ",
+            "time": "Mon Nov 13 2023 14:01:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But it ultimately feels like I\u2019m asking her to potentially trade career growth for something I would like to have. I just try to avoid that point of conversation. ",
+            "time": "Mon Nov 13 2023 14:01:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand why you would feel conflicted in this situation. It's natural to want to support your partner's career growth and not want to feel like you're asking them to sacrifice it for your own desires. However, it's also important for your partner to acknowledge and consider your own dreams and aspirations.\n",
+            "time": "Mon Nov 13 2023 14:01:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Avoiding the conversation about what you want and your own needs may lead to further frustration and resentment down the line. It's important for both of you to have open and honest communication about your goals and aspirations, and to find a way to navigate these conflicting desires in a way that feels fair and fulfilling for both of you.\n",
+            "time": "Mon Nov 13 2023 14:01:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Have you noticed any specific behaviors or actions that have resulted from avoiding this conversation? How do you typically handle this conflict within yourself?",
+            "time": "Mon Nov 13 2023 14:01:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just get worried, I don't want to stress her out since the job search is hard anyway. ",
+            "time": "Mon Nov 13 2023 14:02:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can't get myself to bring it up",
+            "time": "Mon Nov 13 2023 14:02:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like the event that triggered your troubling thoughts was contemplating the potential move and realizing that moving to NYC doesn't seem to be a big consideration for your partner. This event led to thoughts like \"I'm asking her to trade career growth for my dream\" and \"I'm worried about stressing her out.\" As a result, you've been feeling conflicted and anxious, which has then caused a behavior of avoiding conversation about your desires to move to NYC. \n",
+            "time": "Mon Nov 13 2023 14:02:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's understandable that you might be feeling this way, considering your value of fulfillment and happiness and concern for your partner's career growth and well-being. It shows how thoughtful and considerate you are about both of your life paths. \n",
+            "time": "Mon Nov 13 2023 14:02:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Is there anything more to the way this series of events, thoughts, feelings and actions unfolded that you'd like to share? Or does this represent what has been troubling for you?",
+            "time": "Mon Nov 13 2023 14:02:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes I feel more internally conflicted if I should",
+            "time": "Mon Nov 13 2023 14:03:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "should I encourage my partner to find something that would give us the chance to move versus finding something",
+            "time": "Mon Nov 13 2023 14:03:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "About your summary -- Yeah, I think that hits the nail on the head, i think what is the most important to me is the acknowledgment",
+            "time": "Mon Nov 13 2023 14:04:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That there is a compromise, even if I\u2019m more than happy to make it",
+            "time": "Mon Nov 13 2023 14:04:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Alright, thank you for confirming. I've taken note of your story, and here's a summary I\u2019ve put together based on what you've shared:\n",
+            "time": "Mon Nov 13 2023 14:04:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "An important event occurred: your partner started looking for new roles, which opened up the possibility of moving. Yet, you realized that moving to NYC, your dream, didn't seem to be a big factor in your partner's considerations. This led you to have the troubling thought: \"I'm asking her to trade career growth for my dream\" and \"I'm worried about stressing her out.\" From these thoughts, you've felt significant conflict and worry. In response to these feelings, you've been avoiding conversations about your desire to move to NYC.\n",
+            "time": "Mon Nov 13 2023 14:05:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like a challenging dilemma. Considering your desire for fulfillment and happiness, it's clear that your dream of moving to NYC is important to you. Yet, out of care for your partner, you've been shouldering this conflict largely on your own. \n",
+            "time": "Mon Nov 13 2023 14:05:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this summary feel true to you? Is there anything you'd like to add or change?",
+            "time": "Mon Nov 13 2023 14:05:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes that does seem to be the picture ",
+            "time": "Mon Nov 13 2023 14:06:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for confirming that. It's clear this has been a challenging journey for you. You had envisioned a future for yourself in NYC after college, a future vibrant with friends and opportunities. However, love guided you down a different path to be with your partner. The job that you took up in the new location lacked the appeal of your dream role, and the location itself lacked the magnetic charm and collection of close friends awaiting you in NYC.\n",
+            "time": "Mon Nov 13 2023 14:06:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Simultaneously, you went the extra mile to support your partner's professional aspirations, in effect putting on the backburner your dreams of life in NYC. You \u201csacrificed career growth for your relationship,\u201d a poignant thought in your mind. This might have left you feeling both anxious about impacting your partner's career growth and disappointed that your desires weren't being given equal weightage. The mental conflict has led you to sidestep this conversation with your partner, perhaps in the hopes of avoiding further stress or disagreement.\n",
+            "time": "Mon Nov 13 2023 14:06:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's been a difficult conflict i appreciate your words",
+            "time": "Mon Nov 13 2023 14:06:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This attempt to maintain harmony, however, might have inadvertently cultivated a cycle of holding back your feelings and avoiding critical discussions. Thus, instead of addressing these emotions, they kept manifesting, stirring feelings of internal discord and anxiety, further reinforcing your avoidance behavior.\n",
+            "time": "Mon Nov 13 2023 14:07:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this way of explaining your experience ring true for you?",
+            "time": "Mon Nov 13 2023 14:07:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Absolutely!!!",
+            "time": "Mon Nov 13 2023 14:07:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for confirming. It sounds like you've been caught in a cycle fueled by conflicting desires, empathy for your partner, and the avoidance of potential disagreements. This is a common human predicament, and in the therapy world, we often look at these patterns through a lens called \"Cognitive Distortions\" \u2013 although in our case, we like to call them \"Cheeses\" because it's ... well, more fun.\n",
+            "time": "Mon Nov 13 2023 14:07:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In your situation, the cognitive distortion, or \"Cheese,\" that might be most relevant is \"Should Statements\". This is when we create a hard and fast rule of how we or others should behave, and when these rules are broken, it leads to guilt and resentment. In your case, it seems like you're telling yourself that you \"should\" suppress your desires to prioritize your partner's career growth.\n",
+            "time": "Mon Nov 13 2023 14:07:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "While it's absolutely important to support one another in a relationship, remember that it should not lead to ignoring your own dreams and aspirations. Recognizing this Cheese is the first step in breaking the cycle. We can start to question whether these should statements are always true or helpful. \n",
+            "time": "Mon Nov 13 2023 14:07:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What do you think? Do you see how \"Should Statements\" might be leading to your feelings of conflict and contributing to the cycle of avoiding conversations? ",
+            "time": "Mon Nov 13 2023 14:08:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Let me take a look",
+            "time": "Mon Nov 13 2023 14:08:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think so. ",
+            "time": "Mon Nov 13 2023 14:08:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's great progress! It's not easy to identify the \"cheeses\" that our minds serve up. This \"Should Statement\" cheese, where you feel you \"should\" suppress your desires to support your partner's career, is contributing to your feelings of conflict. It's creating an imbalance in prioritizing your respective dreams. \n",
+            "time": "Mon Nov 13 2023 14:08:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Keep in mind, it\u2019s normal and even essential sometimes, to put other\u2019s needs before our own. It's what makes you a considerate and caring person. However, it becomes a problem when it's at the cost of our own happiness and fulfillment over an extended period. This is where the cheese turns a bit sour.\n",
+            "time": "Mon Nov 13 2023 14:08:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When we acknowledge these should statements and see them for what they really are - arbitrary rules we set for ourselves - it frees us up to consider alternatives. What might happen if you began to view your dreams and desires as equally important, deserving of consideration and discussion? How might that change your perspective on the situation?\n",
+            "time": "Mon Nov 13 2023 14:08:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Remember, it's not about ranking dreams and aspirations, but about finding a balanced approach where both you and your partner's desires are considered. Would you like to explore that further, or is there another cheese or thought you believe is worth looking into more deeply?",
+            "time": "Mon Nov 13 2023 14:09:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can see why you went with should statements",
+            "time": "Mon Nov 13 2023 14:09:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think mind reading would apply here as well.",
+            "time": "Mon Nov 13 2023 14:09:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I think I sometimes have an unreasonable expectation for her to understand how I feel without communicating explicitly.",
+            "time": "Mon Nov 13 2023 14:09:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a really insightful observation, recognizing \"Mind Reading\" as another piece of \"Cheese\" in this puzzle. You've identified that you've been holding back from expressing your feelings and dreams openly, and yet on some level, you\u2019re expecting your partner to understand what you're going through. Mind reading can often lead to misunderstandings and a feeling of disconnect, because unfortunately, most of us don't have the power to accurately read someone else's mind!\n",
+            "time": "Mon Nov 13 2023 14:09:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Just as you desire to support your partner's professional growth, your dreams and aspirations also deserve to be acknowledged and considered. Allowing open, honest communication serves as a bridge between understanding and supporting each other's aspirations.\n",
+            "time": "Mon Nov 13 2023 14:09:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Think about this scenario: Imagine if you were to share your feelings about New York City and your desired balance of fulfillment, how would it feel? By letting go of the Mind Reading cheese, you're inviting your partner into your thoughts, potentially leading to a better understanding and resolution of this predicament. \n",
+            "time": "Mon Nov 13 2023 14:10:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What do you make of this connection between your thoughts and the Mind Reading Cheese? Does it resonate with your experience? Do you feel ready to explore potential new thoughts and perspectives?\n",
+            "time": "Mon Nov 13 2023 14:10:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think so!",
+            "time": "Mon Nov 13 2023 14:10:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "They makes sense",
+            "time": "Mon Nov 13 2023 14:10:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Excellent! Let's carry this insightful self-awareness forward. Now it's time to think about a new thought that can guide you in the face of similar decisions or situations. Given what we've worked through, a key point seems to be about open communication, specifically framing your dreams and desires as equally important to your partner's. \n",
+            "time": "Mon Nov 13 2023 14:10:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So putting yourself back in the situation where your partner is considering job options and a move is on the horizon, what's a new thought you might have to counter the \"Should Statements\" and \"Mind Reading\" cheeses?",
+            "time": "Mon Nov 13 2023 14:10:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hmm",
+            "time": "Mon Nov 13 2023 14:11:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can be more direct expressing my thoughts/feelings regarding the change, and can still be supportive",
+            "time": "Mon Nov 13 2023 14:11:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "even if it",
+            "time": "Mon Nov 13 2023 14:11:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It\u2019s not an explicitly a \u201cwin win\u201d, we will have gotten there through an understanding of how we both",
+            "time": "Mon Nov 13 2023 14:11:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Feel",
+            "time": "Mon Nov 13 2023 14:11:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a powerful new thought! \"Even if it\u2019s not explicitly a win-win, we will have gotten there through an understanding of how we both feel.\" This thought underlines the importance of open communication and adds a layer of mutual understanding and empathy to it. \n",
+            "time": "Mon Nov 13 2023 14:11:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "By expressing your feelings and thoughts openly, you not only clear the way for constructive discussions, but you also allow for your relationship to deepen, promoting mutual respect and understanding. This new thought supports your value of fulfilment and happiness, helping create a balance between your aspirations and your partner's.\n",
+            "time": "Mon Nov 13 2023 14:11:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, imagine yourself in the scenario of navigating potential job changes and move. Keep this new thought in mind: \"I can be more direct expressing my thoughts/feelings regarding the change, and can still be supportive. Even if it\u2019s not explicitly a win-win, we will have gotten there through an understanding of how we both feel.\" \n",
+            "time": "Mon Nov 13 2023 14:11:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does embracing this new thought make you feel?",
+            "time": "Mon Nov 13 2023 14:11:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "There is a sense of relief, that there are things that I can do to make sure I\u2019m heard, but at the same time there",
+            "time": "Mon Nov 13 2023 14:11:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "are aspects that our out of my control, but ultimately while the outcome might not be exactly what I wanted",
+            "time": "Mon Nov 13 2023 14:11:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "that is ok, and as long as there is a mutual understanding, things will generally be pretty good",
+            "time": "Mon Nov 13 2023 14:12:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a significant shift towards acceptance and peace. Embracing this new thought not only gives you tools for expression but also provides a perspective to deal with uncertainties. You might not be able to control every outcome, but you have the power to establish a mutual understanding in your relationship. This dynamic can transform conflict into growth and enhance the bond between you and your partner.\n",
+            "time": "Mon Nov 13 2023 14:12:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, consider the actions that might follow from this new thought and feeling of relief. If you find yourself in a similar situation, thinking, \"Even if it\u2019s not explicitly a win-win, we will have gotten there through an understanding of how we both feel\", what new actions might you be inclined to take?",
+            "time": "Mon Nov 13 2023 14:12:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'll try to be more direct and have open communication. ",
+            "time": "Mon Nov 13 2023 14:12:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a positive and proactive approach! By being more direct and cultivating open communication, you're honoring both your own feelings and your partner's. This new action can lead to more mutual understanding and can help maintain balance in your relationship while navigating future decisions or changes. \n",
+            "time": "Mon Nov 13 2023 14:12:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You've shown incredible self-awareness throughout this conversation and I believe these insights will guide you positively in your actions. \n",
+            "time": "Mon Nov 13 2023 14:12:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Before we finish, would you like to share how you feel now as compared to when we started our conversation?",
+            "time": "Mon Nov 13 2023 14:13:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Definitely more relaxed, I don\u2019t feel conflicted about what to do moving forward. ",
+            "time": "Mon Nov 13 2023 14:13:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm so glad to hear that! It's wonderful you're feeling more relaxed and less conflicted about your next steps. It sounds like this conversation has brought you some important insights that may serve you well. \n",
+            "time": "Mon Nov 13 2023 14:13:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I encourage you, moving forward, to keep practicing this new thought whenever you face similar situations. Remember, \"Even if it\u2019s not explicitly a win-win, we will have gotten there through an understanding of how we both feel.\" And always keep open communication as a helpful tool. \n",
+            "time": "Mon Nov 13 2023 14:13:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for your trust and openness in this process. It's been a privilege to be part of your journey. I'm always here whenever you need to talk things through, whether it's more on this topic or anything else that's troubling you.",
+            "time": "Mon Nov 13 2023 14:13:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you, really appreciate your time!",
+            "time": "Mon Nov 13 2023 14:14:00 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

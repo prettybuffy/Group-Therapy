@@ -1,0 +1,423 @@
+{
+    "notes": {
+        "thought": "\"I can't\"\n\"I don't have the energy\"\n\"I'm worthless\" \n",
+        "event": "Needing to pack your bags for a visit",
+        "feelings_behaviors": "frustration and worthlessness",
+        "labels": {
+            "labeling": true
+        },
+        "new_thought": "\"It's okay to feel drained. I'm human and it's normal to struggle sometimes. My worth is not determined by my ability to pack a bag. I am capable and I'll make it through this, just as I've overcome challenging tasks before.\""
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "Hi there,I'm in a vicious circle",
+            "time": "Tue Nov 14 2023 11:12:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "sorry, misunderstood this window, did not get, that it's a chat. Looking forward to it...",
+            "time": "Tue Nov 14 2023 11:13:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Hi, Welcome. My name is Pessia and I'm here to listen and support you today. There's no need to apologize. ",
+            "time": "Tue Nov 14 2023 11:14:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thanks, it's my first time on this page and I'm not that familiar with the program",
+            "time": "Tue Nov 14 2023 11:15:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's completely okay. I'm here to walk through your thoughts and feelings, and take some time to examine any \"cheese\" - or cognitive distortions - that might exist in this lived experience. Then we can work on a new thought together.",
+            "time": "Tue Nov 14 2023 11:15:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So what's going on?",
+            "time": "Tue Nov 14 2023 11:15:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well",
+            "time": "Tue Nov 14 2023 11:16:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "All in all im still not in a good place, but right now it's OK.It's not an acute situation, but more a stretch of time - often marked by a goal\u2014for example a task at work, or packing my bags to visit my girlfriend or family. Often I take hours or days to accomplish the mentioned goal, but I start procrastinating - watching TV, listening to a podcast, cleaning the kitchen.  And I get frustrated more and more when I don't have the ability to do so, what the rational part of me wants to do.",
+            "time": "Tue Nov 14 2023 11:16:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\nIn psychological talk, it feels like a conflict between and super-ego and id",
+            "time": "Tue Nov 14 2023 11:17:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you're feeling stuck in a cycle of procrastination when you have certain goals or tasks to accomplish. Can you tell me a little bit more about what's troubling you the most about this situation? What is it that frustrates you the most when you find yourself procrastinating instead of working towards your goals?",
+            "time": "Tue Nov 14 2023 11:17:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know",
+            "time": "Tue Nov 14 2023 11:18:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "For example",
+            "time": "Tue Nov 14 2023 11:18:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I am picking the packing example because I completely don't understand it.",
+            "time": "Tue Nov 14 2023 11:18:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I like visiting my girlfriend and my family and it's killing me, that I so often can't get myself to go",
+            "time": "Tue Nov 14 2023 11:18:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see that it's really troubling to you that you struggle with packing and getting yourself to visit your girlfriend and family, even though you genuinely enjoy their company. ",
+            "time": "Tue Nov 14 2023 11:19:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you're frustrated and confused about why you can't seem to motivate yourself to take that step, and it's causing distress because you value those relationships. Is that accurate?",
+            "time": "Tue Nov 14 2023 11:19:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah,  I know, that the investment of packing my bag and driving one hour would pay off instantly - being around my family and girlfriend gives me instant energy. ",
+            "time": "Tue Nov 14 2023 11:19:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But when I try, I just end up on youtube thinking \"I can't, I don't have the energy, I'm worthless.\"",
+            "time": "Tue Nov 14 2023 11:19:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand how difficult and frustrating it must be for you. It sounds like when you try to pack your bag and make the effort to visit your family and girlfriend, you end up feeling drained and thinking negative thoughts about yourself. ",
+            "time": "Tue Nov 14 2023 11:19:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's as if your energy and motivation just disappear, and you start to doubt your worth. This can indeed be quite disheartening, especially when you value those relationships and know the positive impact they can have on you. Is that what you find most troubling about the situation?",
+            "time": "Tue Nov 14 2023 11:19:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes!!!",
+            "time": "Tue Nov 14 2023 11:19:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Like it's so frustrating",
+            "time": "Tue Nov 14 2023 11:19:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing that with me. It's clear that your main value in this situation is having meaningful relationships with your family and girlfriend. You recognize the positive impact they have on you and you genuinely want to spend time with them. However, the most troubling thought that comes up for you is the feeling of not having enough energy and feeling worthless when it comes to taking the necessary steps to visit them.\n",
+            "time": "Tue Nov 14 2023 11:20:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's understandable why this is challenging for you. It can be incredibly frustrating and demoralizing when you have the desire to do something that you know will bring you joy, but you can't seem to find the energy or motivation to follow through. That inner dialogue of feeling unworthy and lacking energy can really weigh you down and make it even more difficult to take action.\n",
+            "time": "Tue Nov 14 2023 11:20:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's dig a little deeper. When you think about not having enough energy and feeling worthless, what emotions come up for you? How do these emotions affect your behavior?",
+            "time": "Tue Nov 14 2023 11:20:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hmmm",
+            "time": "Tue Nov 14 2023 11:21:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It makes me feel frustrated and makes my inability to do things worse",
+            "time": "Tue Nov 14 2023 11:21:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can imagine that it's incredibly frustrating to feel this way, especially when it seems like your inability to take action is being compounded by these feelings of worthlessness. The frustration and self-doubt can create a negative cycle that keeps you stuck in the pattern of procrastination and avoidance.\n",
+            "time": "Tue Nov 14 2023 11:21:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you are feeling frustrated and overwhelmed, what kinds of behaviors do you find yourself engaging in or avoiding? How does this cycle of frustration and worthlessness impact your actions or lack thereof?",
+            "time": "Tue Nov 14 2023 11:21:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I start avoiding social situations",
+            "time": "Tue Nov 14 2023 11:21:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I often avoid social situations.",
+            "time": "Tue Nov 14 2023 11:21:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I'm not good at showing when I'm down.",
+            "time": "Tue Nov 14 2023 11:21:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I often feel like I put on a mask when visiting people. ",
+            "time": "Tue Nov 14 2023 11:21:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's something I'm much more aware of, compared to former times, but still",
+            "time": "Tue Nov 14 2023 11:22:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I have an expectation about myself in a social context...",
+            "time": "Tue Nov 14 2023 11:22:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing that feeling of needing to put on a mask in social situations. It seems like you place an expectation on yourself to act a certain way when you're with other people, which can be exhausting, especially when you're already struggling.\n",
+            "time": "Tue Nov 14 2023 11:22:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, if I understand correctly, when you find yourself faced with the situation of needing to pack your bags for a visit, you're weighed down by thoughts like \"I can't,\" \"I don't have the energy,\" and \"I'm worthless\" . These thoughts stir up feelings of frustration and worthlessness. In response to these feelings, you tend to avoid social situations and end up procrastinating, which ironically pushes you further from the connection with your loved ones that you values. ",
+            "time": "Tue Nov 14 2023 11:23:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this accurately capture your experience?",
+            "time": "Tue Nov 14 2023 11:23:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes",
+            "time": "Tue Nov 14 2023 11:23:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I really appreciate your patience and openness throughout this process. It's not easy to grapple with these thoughts and feelings. \n",
+            "time": "Tue Nov 14 2023 11:23:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, allowing ourselves to re-imagine the situation, here's how it goes:\n",
+            "time": "Tue Nov 14 2023 11:23:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You find yourself needing to pack your bags to visit your family or girlfriend. However, as this thought enters your mind, the overwhelming feeling of \"I can't,\" \"I don't have the energy,\" and \"I'm worthless\" descends upon you. These thoughts stir up a storm of frustration, feelings of worthlessness, and an undeniable drain of energy. You find yourself retreating into what feels like a shell, isolating yourself and avoiding social situations that, in reality, could bring you relief and the connection you truly desire. With each passing moment, as you find yourself stuck in this loop, it seems the bag remains unpacked, and the distance between you and your loved ones grows. \n",
+            "time": "Tue Nov 14 2023 11:23:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It might be that this cycle is reinforcing itself \u2013 your thoughts convincing you that you don't have the energy pushes you further into isolation, which in turn makes you feel even more low and worthless. \n",
+            "time": "Tue Nov 14 2023 11:24:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes",
+            "time": "Tue Nov 14 2023 11:24:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Is there anything missing or misplaced?",
+            "time": "Tue Nov 14 2023 11:24:17 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "no i think you got it",
+            "time": "Tue Nov 14 2023 11:24:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad to hear that it resonates with you. It's clear that you're grappling with some pretty challenging thoughts and emotions. At Cheeseburger Therapy, we have a way of taking a step back and looking at the thoughts we've been discussing in a slightly different light. We refer to certain types of thoughts as \"Cheese.\"\n",
+            "time": "Tue Nov 14 2023 11:24:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In your case, the thought \"I can't,\" \"I don't have the energy,\"\n and \"I'm worthless\" could be seen as a form of \"Labeling\" cheese. Labeling is when we assign labels to ourselves or others, often without taking into account all the complexities of the situation and nuances of who we are as multifaceted individuals. These labels can be limiting and can contribute to feelings of helplessness and frustration.",
+            "time": "Tue Nov 14 2023 11:24:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "By labeling yourself as \"worthless,\" you might be unknowingly reinforcing this negative self-image and exacerbating the cycle of procrastination, avoiding tasks you want to undertake, and isolation from your loved ones. The labels you're attributing to yourself don't accurately represent your whole self. They don't encapsulate your value or your potential. An aspect of the situation appears tough, but that doesn't mean you are incapable or lacking worth.\n",
+            "time": "Tue Nov 14 2023 11:24:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does this idea of \"Labeling\" cheese resonate with you?",
+            "time": "Tue Nov 14 2023 11:24:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes",
+            "time": "Tue Nov 14 2023 11:25:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i think it makes sense",
+            "time": "Tue Nov 14 2023 11:25:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i keep reinforcing my behaviors by saying I'm worthless. ",
+            "time": "Tue Nov 14 2023 11:25:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Yes, you've got it! This \"Labeling\" cheese can have a powerful effect on our self-perception and behaviors. When we tell ourselves things like \"I'm worthless\" or \"I can't,\" we're attributing a fixed, negative label to ourselves. And over time, we may start to act in ways that reinforce this label, even if it's not accurate or fair.\n",
+            "time": "Tue Nov 14 2023 11:25:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This pattern you're in\u2014feeling unable to pack your bag to visit your loved ones, retreating into YouTube, telling yourself \"I can't, I don't have the energy, I'm worthless,\" feeling bad about yourself, then avoiding social situations\u2014it's all linked. And the \"Labeling\" cheese seems to be playing a significant role in perpetuating this cycle.\n",
+            "time": "Tue Nov 14 2023 11:25:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What might be helpful to realize is that your value as an individual goes well beyond these isolated situations. You're much more than this trouble you're experiencing, and it's absolutely normal to struggle with these feelings sometimes. By taking a step back and identifying this cheese, you've already begun the process of breaking that cycle.\n",
+            "time": "Tue Nov 14 2023 11:25:50 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm curious. How do you feel about this \"Labeling\" cheese? Is this starting to make some sense in the context of your struggle?",
+            "time": "Tue Nov 14 2023 11:26:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes",
+            "time": "Tue Nov 14 2023 11:26:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "that's what's going on in my brain, i keep labelling negative things to myself",
+            "time": "Tue Nov 14 2023 11:26:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear that you're beginning to see things a bit more clearly. Recognizing the \"Labeling\" cheese at play in your thoughts is a big step toward understanding how it might be influencing your actions.\n",
+            "time": "Tue Nov 14 2023 11:26:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now let's focus a bit on how we can shift these thought patterns that aren't serving you. The goal here isn't to completely rid ourselves of negative thoughts - that's nearly impossible. Instead, we want to try to form a new perspective that can better support you during these challenging moments.\n",
+            "time": "Tue Nov 14 2023 11:26:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Knowing what you do now, if you were to place yourself back in the situation of needing to pack your bags to visit your girlfriend or family, what's a new, more empowering thought you might be able to tell yourself? Remember, this thought should be aligned with your values and the reality that you're much more than the labels you've been applying to yourself.",
+            "time": "Tue Nov 14 2023 11:26:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": ":')",
+            "time": "Tue Nov 14 2023 11:27:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I know that all these labels are there and right now it feels like being mindfull about them is a way to tackle themm",
+            "time": "Tue Nov 14 2023 11:27:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's completely okay and very normal. It can be challenging to come up with a new perspective when you've been stuck in this cycle for a while. Often, the idea is to challenge the negative thought with something more balanced and compassionate. \n",
+            "time": "Tue Nov 14 2023 11:29:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "For instance, instead of thinking \"I'm worthless, I can't do this,\" a new thought might be something like: \"It's okay to feel drained. I'm human and it's normal to struggle sometimes. My worth is not determined by my ability to pack a bag. I am capable and I'll make it through this, just as I've overcome challenging tasks before.\"\n",
+            "time": "Tue Nov 14 2023 11:29:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does this proposed thought feel to you? Or is there another positive message that you'd like to tell yourself, something that feels really true to who you are?",
+            "time": "Tue Nov 14 2023 11:29:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It feels like a steep climb, but right now, possible. 70 Minutes ago, I would not be so confident",
+            "time": "Tue Nov 14 2023 11:29:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's wonderful to hear! It absolutely can feel like a steep climb - these changes won't happen instantly and that's normal and okay. The important part is that you've started to see the possibility. You're beginning to recognize the power of reshaping your thoughts and breaking away from those \"Labeling\" cheeses.\n",
+            "time": "Tue Nov 14 2023 11:31:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "With a thought like \"It's okay to feel drained. I'm human and it's normal to struggle sometimes. My worth is not determined by my ability to pack a bag. I am capable and I'll make it through this, just as I've overcome challenging tasks before.\" you're giving yourself permission to experience struggle while also affirming your capability and worth.\n",
+            "time": "Tue Nov 14 2023 11:31:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now imagine yourself in the situation where you need to pack your bags for a visit and then imagine yourself having this new thought. How might this change how you feel?",
+            "time": "Tue Nov 14 2023 11:31:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Maybe i'll go visit my family and gf more :)",
+            "time": "Tue Nov 14 2023 11:32:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a lovely thought and it shows how this new perspective could lead to a change in your behavior. Can you perceive a new action you might take or a change in your behavior when you're thinking this more balanced and compassionate thought? Like packing your bag right away or taking small steps towards packing over time?",
+            "time": "Tue Nov 14 2023 11:32:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes maybe those haha",
+            "time": "Tue Nov 14 2023 11:32:16 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i should really start with little steps lol",
+            "time": "Tue Nov 14 2023 11:32:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Fantastic! Taking small steps towards your goal or packing right away could indeed be effective ways to counter procrastination and avoidance. Remember, it's not about being perfect or making big leaps, rather it's about incremental positive changes.\n",
+            "time": "Tue Nov 14 2023 11:32:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Just by shifting your thoughts to something more compassionate and balanced, you're able to imagine yourself doing things differently, breaking out of that negative cycle, and acting in a way that aligns with what you truly value: spending time with your girlfriend and family.\n",
+            "time": "Tue Nov 14 2023 11:32:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "As we get ready to wrap up here, I'd like to ask: How are you feeling now, compared to when we started our conversation?",
+            "time": "Tue Nov 14 2023 11:32:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "More confident, a bit more tired - it's late hiere ;-) And more happy",
+            "time": "Tue Nov 14 2023 11:32:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear that you're feeling more confident and happier now, even if a bit tired! It's been a profound journey today. This kind of emotional exploration can indeed take a bit of energy. Remember, the road to shifting our long-held thinking patterns can be like a marathon, not a sprint. So, give yourself grace and patience as you continue on this path. \n",
+            "time": "Tue Nov 14 2023 11:32:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Anytime you find yourself looping back into those same negative thought patterns, remember your new thought: \"It's okay to feel drained. I'm human and it's normal to struggle sometimes. My worth is not determined by my ability to pack a bag. I am capable and I'll make it through this, just as I've overcome challenging tasks before.\" Use this as a mantra to help you engage more with the social situations and visits that you value. \n",
+            "time": "Tue Nov 14 2023 11:32:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you Pessia. Thank you verry much and have a wonderfull day!",
+            "time": "Tue Nov 14 2023 11:33:09 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

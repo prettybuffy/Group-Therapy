@@ -1,0 +1,328 @@
+{
+    "notes": {
+        "thought": "\"Am I sick?\"\n\"Will I be alright?\"\n\"Why is my blood pressure so high?\"\n\"I am either very sick or very healthy\"\n\"I have to be there all the time, or I wouldn't be properly caring.\"\n",
+        "event": "Encounter stressors in your daily life - managing work, family, pressure from declining work performance, fear of illness in the backdrop of the world pandemic",
+        "feelings_behaviors": "anxiety, fear",
+        "labels": {
+            "black-or-white-thinking": true
+        },
+        "new_thought": "\"Physical pain is alright, feel it, know that it's part of life. Don\u2019t let it control you, instead use it as an indicator of what you should do next.\""
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "Hi, I\u2019m not sure what to say, I thought to try this out. I\u2019m concerned about being sick, perhaps even with the idea of pain or death. It causes me some anxiety and perhaps phantom physical symptoms. I have some trouble managing my marriage, a child, work, and my parents and siblings. That causes me some stress that has been for a year manifesting as tiredness and lack of motivation as well as recently with the combination of COVID a little bit of high blood pressure. I certainly feel tired and unfulfilled.",
+            "time": "Wed Nov 15 2023 20:29:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think I should say my thoughts while I have them as to not forget why I\u2019m feeling the way I am. So, thank you for bearing with my ramble.",
+            "time": "Wed Nov 15 2023 20:29:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "What brought this on was a surprise panic attack (high heart rate) I had in December of 2020. I had to call an ambulance but thankfully calmed down when they arrived and told me I was fine according to the instruments. I didn\u2019t think much of it until it happened again one week after I saw my wife\u2019s grand father at his funeral (April 2021). I was at the barber shop and had another episode this time it manifested as light headedness and low blood sugar. We have a history of diabetes and blood pressure so I thought it would be wise to go to a doctor and perform routine checkups (though I am 26 years old). The blood and other tests came back extremely normal. I also went to a cardiologist, he said I was \u201cunremarkable\u201d lol, which still makes me smile and also feel good a little. At this time I booked an appointment with a therapist and thought to speak about how I was feeling to navigate the anxiety I have and why I\u2019m having panic attacks. (I should mention that between my first and second attack my performance at work plummeted even though I\u2019m normally much more productive and responsible).",
+            "time": "Wed Nov 15 2023 20:29:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Hello there, I appreciate your bravery in opening up about this troubling challenge. It certainly sounds like you're dealing with a lot at the moment: the discomfort of experiencing these unexpected panic attacks, concerns about your health and possible illness, balancing the responsibilities of marriage, parenting, work, and caring for family, and feeling tired and unfulfilled. \n",
+            "time": "Wed Nov 15 2023 20:30:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "All of these stressors culminating in decreased work performance and creating a whirlwind of anxiety and stress. Being called \"unremarkable\" by a cardiologist might have been a moment of relief, but seems it didn't take away from your overall concerns.",
+            "time": "Wed Nov 15 2023 20:30:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I want to affirm that it's definitely not easy to juggle all those roles and deal with health anxieties at the same time. It's understandable how these pressures may lead to feeling overwhelmed and may be the cause of your panic attacks. It's also very insightful of you to reach out for support and look for ways to navigate what you're going through. \n",
+            "time": "Wed Nov 15 2023 20:30:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hello :)",
+            "time": "Wed Nov 15 2023 20:30:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you, and sorry for the ramble!",
+            "time": "Wed Nov 15 2023 20:31:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I\u2019m in your care!",
+            "time": "Wed Nov 15 2023 20:31:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's delve deeper into these thoughts and feelings. I'd be curious to hear more about what goes through your mind right before a panic attack, and how these thoughts influence your feelings. Could you share a little more about those moments?",
+            "time": "Wed Nov 15 2023 20:31:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just want to say that the most prevalent thing those feelings have contributed to is my physical symptoms and anxiety. I notice them so much it puts me in a feedback loop. Am I sick, will I be alright, why is my blood pressure so high, etc. This week I had an episode and had to go to the ER because my BP was so high, the doctor said I'm only 26, drink some water, and relax, then the BP went back down a little. Yesterday night, I measured it and it was also a little high, barely had a couple of hours of sleep.",
+            "time": "Wed Nov 15 2023 20:32:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing those details with me. It sounds like you're dealing with a circular pattern of concern and anxiety about your health. You're noticing physical symptoms, it's causing you worry, which in turn raises your anxiety and possibly exacerbates those symptoms and this cycle repeats itself. I can see your value of health and well-being coming into play here.\n",
+            "time": "Wed Nov 15 2023 20:33:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The surprise panic attack seems to have been a significant incident that sparked this chain. You mentioned \"Am I sick, will I be alright, why is my blood pressure so high\", these thoughts are causing you concern and leading to anxiety and sleep disturbances.\n",
+            "time": "Wed Nov 15 2023 20:33:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're having these thoughts and worrying about your health, how do these thoughts make you feel emotionally?",
+            "time": "Wed Nov 15 2023 20:33:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes exactly, prior to the panic attack, I felt the normal amount of worry (imo) that a person should feel, enough to cause change, but not enough to hinder. Now, I get so anxious that it triggers panic attacks and vice versa. ",
+            "time": "Wed Nov 15 2023 20:33:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thanks for opening up more about your experience. It sounds like the level of worry and anxiety has shifted significantly for you due to these panic attacks. That shift from a manageable level of concern, where worry plays its natural role as a motivator for change, to one where worry itself becomes a source of distress and triggers panic attacks, is a major shift. It's clear that these repeated cycles of anxiety and panic attacks are deeply troubling for you and causing significant strain.\n",
+            "time": "Wed Nov 15 2023 20:33:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're trapped in this cycle of fear and panic, and thinking thoughts like \"Am I sick, will I be alright, why is my blood pressure so high,\" how does that leaving you feeling inside? And when you feel this way, how does it impact your behaviors?",
+            "time": "Wed Nov 15 2023 20:34:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I have much lower amounts of energy to do things and feel tired constantly. I think it is impacting my physical health too. But I also made the effort to get into therapy. Therapy has been perhaps the most positive thing that I\u2019ve done for myself in the past two years (a long time now that I think about it). I'm talking about feeling normal again, not worrying about things that I see other people go and do normally, having true fun and enjoyment.",
+            "time": "Wed Nov 15 2023 20:34:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can hear the exhaustion in your words. These cycles of worry and panic are not only draining your energy but also impacting your physical health. That's a tough place to be, and it's completely understandable how you're feeling.\n",
+            "time": "Wed Nov 15 2023 20:34:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Yet, amidst all this, it's so inspiring to see that you're not just passively accepting this, but actively looking for ways to get better. Seeking therapy has been a big, positive step. There's a sense that you value not just the absence of worry, but also the presence of a normal, enjoyable life. The contrast you've laid out - between the current state of constant worry and the desired state where you're participating fully and joyfully in life - is profound.\n",
+            "time": "Wed Nov 15 2023 20:34:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's try to explore the cycle of worry and panic a little more to understand how thoughts, feelings, and behaviors interact. Can you elaborate on how you react when these panic attacks strike and you're having thoughts like \"Am I sick, will I be alright, why is my blood pressure so high\"? Do you notice any particular behaviors or actions that you engage in during or after these experiences?",
+            "time": "Wed Nov 15 2023 20:34:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "idk i just get a panic attack",
+            "time": "Wed Nov 15 2023 20:35:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "like is that the behavior you're mentioning?",
+            "time": "Wed Nov 15 2023 20:35:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Ah, yes! that is a crucial piece of the puzzle. These thoughts when you're feeling stressed or anxious can trigger a panic attack. It's like a chain reaction- the stressful thoughts come in, which cause fear, leading to the physical effects of a panic attack. Then experiencing a panic attack itself can wind up causing another round of fearful thoughts. \n",
+            "time": "Wed Nov 15 2023 20:35:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Feeling stuck in this cycle can make you feel unwell and exhausted. This seems to be a big part of what's been causing you to feel drained and is impacting your daily life. Let me take a moment now, I would like to sum up what we've discovered so far about your experience to make sure I fully understand. \n",
+            "time": "Wed Nov 15 2023 20:35:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Consider this situation: You encounter stressors in your daily life - managing work, family, pressure from declining work performance, fear of illness in the backdrop of the world pandemic. This leads to patterns of thinking including \"Am I sick?\", \"Will I be alright?\", \"Why is my blood pressure so high?\". These thoughts produce feelings of anxiety and fear so intense that they trigger a panic attack. From what you shared, when you feel this way, the action you find yourself doing is having a panic attack.",
+            "time": "Wed Nov 15 2023 20:36:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": " The strain from these panic attacks then seems to be causing you to feel tired and unfilled, impacting both your physical health and motivation levels. The resulting fallout appears to be an overall decline in your work productivity and personal fulfillment- a cycle that you find difficult to break. \n",
+            "time": "Wed Nov 15 2023 20:36:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You've also shared about your strong yearning for normalcy and enjoyment in life - something that seems to be overshadowed by your current struggles. This makes total sense given your emphatic value of health and balance, and this disruption has stressed their importance in your life.\n",
+            "time": "Wed Nov 15 2023 20:36:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does the above feels like a accurate summary of your experiences so far? Or, is there something that's not quite right or you think needs adding?",
+            "time": "Wed Nov 15 2023 20:37:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes, exactly. I hope to fix the situation soon, because I don't like those feelings haha",
+            "time": "Wed Nov 15 2023 20:37:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thats a good summary of what I'm feeling here",
+            "time": "Wed Nov 15 2023 20:37:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm grateful for your confirmation. It's crucial we ensure we're on the same page before we move further. ",
+            "time": "Wed Nov 15 2023 20:38:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we understand your distress more completely, let's dive into your experience and explore it as a narrative. There you were, living your life, managing several roles as a spouse, a father, a worker bee, and a family member.",
+            "time": "Wed Nov 15 2023 20:38:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Amidst this balancing act, the pandemic showed up, exacerbating your responsibilities and introducing a new concern - health issues. A sudden panic attack struck like lightning out of a clear sky, sowing seeds of worrisome thoughts like \"Am I sick?\", \"Will I be alright?\", and \"Why is my blood pressure so high?\". These thoughts, akin to an uninvited guest, started consuming your peace of mind, fostering a sense of fear and anxiety. This fear, intense as it was, led to more panic attacks, each one feeding the emerging cycle of worry and fear. \n",
+            "time": "Wed Nov 15 2023 20:38:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Consequent to these panic attacks, you felt drained, physically unwell, and your motivation plummeted. Your productivity at work suffered, and you found less fulfillment in your day-to-day life. A once manageable level of worry had now evolved into a whirlwind of stress and anxiety, holding you captive in its cycle and veiling the balance and joy that you so valued and yearned for in your life.\n",
+            "time": "Wed Nov 15 2023 20:38:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "At the heart of it, though, there was a positive step - you made the effort to seek therapy, signaling a desire for change and a better handle on things. Yet, your struggles make it feel like you're navigating a ship on choppy seas, year",
+            "time": "Wed Nov 15 2023 20:38:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "ning to once again feel the stillness and joy of calm waters.\n",
+            "time": "Wed Nov 15 2023 20:38:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes, thank you, my mother says I should take a step back and not think too much, easier said than done unfortunately :(",
+            "time": "Wed Nov 15 2023 20:39:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm really thankful to you for these words",
+            "time": "Wed Nov 15 2023 20:39:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'd like to point out an interesting aspect of this cycle. When your stressors led to thoughts such as \"Am I sick?\" and \"why is my blood pressure so high?\", an anxiety arises that then triggers a panic attack. That panic attack further amplifies stress, and it becomes a negative cycle. You get caught in this loop of stressful thoughts, anxiety, and panic attacks, which results in feeling drained, unwell, and unfulfilled. \n",
+            "time": "Wed Nov 15 2023 20:39:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does the image we painted here resonate true to your lived experience, or is there something you would like us to refine or add?",
+            "time": "Wed Nov 15 2023 20:39:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "The only thing I would like to add is that this cycle started after one initial panic attack that seemed to make my anxiety much worse after. ",
+            "time": "Wed Nov 15 2023 20:39:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for that crucial clarification. From your account, it sounds like the initial panic attack was a turning point for you, acting as a catalyst for the cycle. This singular event caused an unexpected seismic shift and amplified the level of anxiety in your daily life. \n",
+            "time": "Wed Nov 15 2023 20:39:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's take a deeper look at these thoughts that are causing such distress. When you think thoughts like \"Am I sick?\", \"Will I be alright?\", \"Why is my blood pressure so high?\", is there any one thought that feels most troubling to you? It's important to delve into this because life can be complicated, and I want to understand your concern as thoroughly as possible.",
+            "time": "Wed Nov 15 2023 20:40:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And while investigating further, we might uncover some distortions in your thinking that could be adding to your anxiety. These distortions are like \"cheeses\" - they seem appealing and valuable, but they can end up causing more harm than good. By identifying these cheeses, we can help you to start thinking differently about your experiences and potentially reduce some of your anxiety. So, among your thoughts, which one makes you feel the most anxious?",
+            "time": "Wed Nov 15 2023 20:40:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Understood!",
+            "time": "Wed Nov 15 2023 20:40:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think it's that I'm often feeling that I'm either very sick, or very healthy. Like for my recent high BP, I felt like I needed to get on some medication quickly to fix the situation, or else something bad will happen. Or in my care for my family, I often feel I have to be there all the time, or I wouldn't be properly caring.",
+            "time": "Wed Nov 15 2023 20:41:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing these most troubling thoughts, \"I am either very sick or very healthy,\" and \"I have to be there all the time, or I wouldn't be properly caring.\" I can hear the intensity in your words, reflecting a sense of urgency and a worry of not doing enough either for your health or your family. It's like you're walking a tight line in these aspects of life, where there's not much room for middle grounds or mistakes. It must feel exhausting to constantly feel like things are so black or white, either perfectly right or dangerously wrong.\n",
+            "time": "Wed Nov 15 2023 20:41:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've closely examined your experiences, let's turn our attention towards a key element that could potentially prove valuable - the 'Cheeses' or Cognitive Distortions. They're essentially patterns of thinking that are not entirely accurate or helpful, and they can contribute significantly to feelings of anxiety and overall distress. \n",
+            "time": "Wed Nov 15 2023 20:42:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "From what you've shared, one of the Cheeses that might be contributing to your struggle is \"Black or White Thinking\". This is evident when you express the thought \"I am either very sick or very healthy,\" which shows a tendency to perceive things in extremes or absolutes. \n",
+            "time": "Wed Nov 15 2023 20:42:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "While in reality, most situations and states, such as health, exist on a spectrum rather than in extremes. Bouncing between extremes can understandably cause a significant amount of worry and anxiety, particularly when dealing with something as important as health.\n",
+            "time": "Wed Nov 15 2023 20:42:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Do you think this 'Cheese' described above fits within your thoughts? And",
+            "time": "Wed Nov 15 2023 20:42:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Uuuu",
+            "time": "Wed Nov 15 2023 20:42:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Black and white seems very accurate to how I have been thinking. ",
+            "time": "Wed Nov 15 2023 20:42:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thanks for your openness and willingness to explore this aspect of your thought process. Falling into \"Black or White\" thinking, also known as \"All or Nothing\" thinking, is something that many of us do from time to time. This pattern can have us swinging between extremes \u2013 painting everything as either completely one way or entirely the other, with no in-between. It's like perceiving only black and white in a world filled with colors.\n",
+            "time": "Wed Nov 15 2023 20:43:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In your case, this kind of thinking seems to be fueling your anxiety. When you think, \"I am either very sick or very healthy,\" there isn't much room for any normal ups and downs of health. Similarly, with \"I have to be there all the time, or I wouldn't be properly caring,\" there's no middle ground for those inevitable times when you can't always be present for your family. These absolutes can create a nearly impossible standard to meet and can amplify feelings of worry and fear for you.\n",
+            "time": "Wed Nov 15 2023 20:43:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's imagine that you're back in the situation where you're confronted with health concerns or feeling the need to be constantly present for your family. What's a new thought you could have to counter the old ones which were centered on black and white thinking? Remember, we're seeking balance - the middle ground perspective that allows for human imperfection and understands that things aren't always in extremes.",
+            "time": "Wed Nov 15 2023 20:46:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Lol let me try i like this idea",
+            "time": "Wed Nov 15 2023 20:47:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Oo it got erased. Sorry let me type it in the notes app",
+            "time": "Wed Nov 15 2023 20:47:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Physical pain is alright, feel it, know that its part of life. Don\u2019t let it control you, instead use it as an indicator of what you should do next.",
+            "time": "Wed Nov 15 2023 20:47:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "What do you think?",
+            "time": "Wed Nov 15 2023 20:47:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's an excellent new thought! \"Physical pain is alright, feel it, know that it's part of life. Don\u2019t let it control you, instead use it as an indicator of what you should do next.\" That's a beautifully balanced sentiment, acknowledging that physical discomfort is a part of life while also advocating not to let it control your actions or thoughts. It's recognizing the signals your body sends without rushing to extremes.\n",
+            "time": "Wed Nov 15 2023 20:48:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The session has to end here because we've reached the limit.",
+            "time": "Wed Nov 15 2023 20:48:50 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

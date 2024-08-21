@@ -1,0 +1,329 @@
+{
+    "notes": {
+        "thought": "I'm not good enough\nI should be doing something more productive right now\n",
+        "event": "engage in an activity that they enjoy, like playing music or writing, or even when just coming home from a long day of work",
+        "feelings_behaviors": "guilt, inadequacy, and disillusionment",
+        "labels": {
+            "labeling": true,
+            "should-statement": true
+        },
+        "new_thought": "My actions are dictated by my genuine desires, not insecurities or external expectations."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "So is this it? I just do my job thing and watch netflix until I die?",
+            "time": "Sat Oct 28 2023 19:54:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Hey there, I can sense you might be feeling a bit unmotivated or even perhaps disillusioned from your message. It's quite normal to have times where life might seem monotonous or even pointless. But let's take a moment and dive deeper into this. Could you share a bit more with me about what's been going on that's leading you to feel this way? \n",
+            "time": "Sat Oct 28 2023 19:54:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "it feels like existence is a contrived joke, and now I'm supposed to breed and force a smaller version of myself through the same thing?\n",
+            "time": "Sat Oct 28 2023 19:54:29 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "every thought that crosses my mind has this sentiment. Biden got elected, everyone is happy about the exact political and social conditions that got Trump elected to begin with coming up like a bad penny, and that thought pops up again. I work for 10 hours and come back at 9am again to the same lab position I pigeonholed myself into by choosing a major that made me sound smart instead of a field I'd actually enjoy, and the thought pops up. I try the activities I enjoy -- writing, making music, playing video games -- and I find myself just staring at the paper/guitar/steam library with this profound sense of, \"but why would I spend my time doing this?\" It's as if every activity that should bring me joy makes me feel guilt about trying to enjoy it. I've been told that happens a lot when you're depressed.\n",
+            "time": "Sat Oct 28 2023 19:54:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "We can all read Nietzsche and try to eke some semblance of positivity out of it -- \"well, sure, life has no meaning, but the lack of one implies that life has whatever meaning YOU choose to impart upon it\". That sounds very nice and liberating, until you realize that it leaves you exactly where you started: with the crushing weight of the responsibility of your own happiness.",
+            "time": "Sat Oct 28 2023 19:55:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The pressure you're feeling to find joy and create meaning, coupled with moments of existential dread, are heavy burdens to bear. This sense of pervasive dissatisfaction, the emptiness that overshadows moments which should be pleasurable, and the guilt you feel when trying to enjoy things can indeed be associated with depression. \n",
+            "time": "Sat Oct 28 2023 19:55:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And you're right, you've got this massive responsibility for your own happiness, and that just feels like another task on a never-ending to-do list. It's not an easy place to find yourself in, and I really appreciate your courage in sharing your feelings with me.\n",
+            "time": "Sat Oct 28 2023 19:55:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'd like to understand more about what's troubling. Could you share more about the thought or feelings of guilt that comes up when engaging in activities you normally enjoy?",
+            "time": "Sat Oct 28 2023 19:55:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "There is a guilt. It's a deep feeling of inadequacy followed by resentment that I didn't spend more time developing/perfecting the skill that made me experience inadequacy. Like, listening to a virtuoso when you've only been playing your instrument for a short while -- \"Damn, I won't be that good. Should've just practiced harder, every day. Why are you bothering now?\"",
+            "time": "Sat Oct 28 2023 19:56:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see how this has been weighing on you. You're trying to find joy in the things you love, but then these feelings of inadequacy and guilt come flooding in, making you question your value and worth. That's a challenging place to be and I really hear your struggle. \n",
+            "time": "Sat Oct 28 2023 19:56:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "From that gunshot thought of \"damn, I won't be that good\", flows these feelings of guilt and inadequacy that drain the joy right out of your activities. There is subsequent regret and self-blame with thoughts such as \"Should've just practiced harder, every day. Why are you bothering now?\" It sounds like you have high expectations of yourself and when those aren't met, you blame yourself.\n",
+            "time": "Sat Oct 28 2023 19:56:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Whilst making music or writing is an activity that brings joy, it also brings the pressure of skill and performance which is indeed a paradoxical experience. That feeling of \"I'm not good enough\" is a challenging thought to wrestle with.\n",
+            "time": "Sat Oct 28 2023 19:56:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Exactly like what is exactly the point of this?",
+            "time": "Sat Oct 28 2023 19:56:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's delve a bit deeper into this. When this cycle happens - thoughts of inadequacy, guilt about not investing time into perfecting your craft in the past and subsequently questioning future attempts - what kind of actions does this cycle prompt in you? Do you notice any behavior trends as a result?",
+            "time": "Sat Oct 28 2023 19:57:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well..",
+            "time": "Sat Oct 28 2023 19:57:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I try to distract myself from my inadequacy by, say, playing video games or watching TV or whatever, I end up feeling guilty even as I do these things because I *know* that I should be practicing or writing or reading or /something/ productive. Which is interesting, in and of itself. Like, why do I feel a perpetual compulsion to exclusively be doing \"productive\" things? Enjoying myself IS productive, no? Or, at least, time spent doing things you enjoy is (by definition) time well-spent. I'm simultaneously aware of all of the contradictions my brain is exercising, and very prone to allowing them control over me anyways.",
+            "time": "Sat Oct 28 2023 19:57:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thanks for sharing more about your experience. It seems like you're caught in a challenging cycle:\n",
+            "time": "Sat Oct 28 2023 19:57:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "An event that can be basically anything in your daily life triggers thoughts of \"I'm not good enough\" and \"I should be doing something more productive right now.\" These thoughts lead to feelings of guilt, inadequacy, and disillusionment. And then, as a response, you often find yourself engaging in activities like playing video games or watching TV to distract yourself. But even these actions come with an added layer of guilt because they conflict with the idea you have of what you \"should\" be doing. \n",
+            "time": "Sat Oct 28 2023 19:57:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "There's a real tug of war going on here. You value the idea of being productive and improving your skills, but at the same time, there's this pressure that's sucking the joy out of your life.\n",
+            "time": "Sat Oct 28 2023 19:58:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "My coping mechanisms (drugs) are missing, but that's kinda superfluous and symptomatic.",
+            "time": "Sat Oct 28 2023 19:58:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You've shared that you used to rely on drugs as a way to cope with this difficult cycle of thoughts, feelings and behaviors.  It's often easier to numb our pain than it is to face it, and it's understandable to search for ways to cope when the strife feels all-consuming. \n",
+            "time": "Sat Oct 28 2023 19:58:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "But please remember, as you're working through these struggles, it's essential to address the root of the issue and not mask it. ",
+            "time": "Sat Oct 28 2023 19:58:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've agreed on the different elements present let's spin them together into a narrative.",
+            "time": "Sat Oct 28 2023 20:00:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Sure hit me",
+            "time": "Sat Oct 28 2023 20:00:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you engage in an activity that you enjoy, like playing music or writing, or even when you're just coming home from a long day of work, these different moments evoke thoughts. Some of these thoughts you've expressed are \"I'm not good enough,\" and \"I should be doing something more productive right now\". These self-challenging thoughts bring about feelings of guilt, inadequacy, and disillusionment, as well as a perpetual compulsion to be doing \"productive\" things. In turn, to manage these feelings, your response is often distraction. You dive into other activities like watching TV or playing video games to detach from your discomfort. In the past, you've also used substances for solace as a coping mechanism\n",
+            "time": "Sat Oct 28 2023 20:02:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What makes this cycle particularly hard to break is each time you're in these situations, these troubling thoughts re-emerge and push you towards these behaviours that keep reinforcing the feeling of being unproductive and not good enough.\n",
+            "time": "Sat Oct 28 2023 20:02:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's a very tough cycle to be trapped in. Does this story resonate with your experience or is there anything missing or needs further clarity?",
+            "time": "Sat Oct 28 2023 20:02:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'd say your assessment is pretty accurate, and that I have become the highest-functioning depressed person that I know. I found that the ennui/pointlessness goes away with a bit of assistance from substances, and that my eternally-self-criticizing inner monologue is at least partially mollified. If I drink/smoke/etc, I can write without hating every sentence, or practice without getting frustrated every time I stumble. I think that I think too much, which Alan Watts would call, \"a disaster\". Thinking is a good servant, but a bad master, and I am to a major extent a slave to my thinking. Substances help the clamor to die down, but I'm also acutely aware of the dangers of developing schizophrenia or encountering a manic episode as a result of this. I'm self-destructive, but I'm apparently extremely careful and meticulous in my demolition.",
+            "time": "Sat Oct 28 2023 20:03:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It definitely sounds like you've been experiencing a high-stress, high-pressure cycle, and it's been hard to break free from it. It seems like your thoughts are holding you captive in a way. You have powerful internal standards, and when you perceive that you're not meeting them, it brings about these feelings of guilt and inadequacy, causing you to distract yourself from this discomfort. \n",
+            "time": "Sat Oct 28 2023 20:03:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "There's a lot of self-awareness in what you're describing, even recognizing the potential dangers in using substances as a coping mechanism. And I see the thought pattern quite clearly: when your self-expectations rise, you try to soften the blow with substances that help quiet your mind, which can bring a momentary sense of relief whilst also contributing to the cycle of self-destruction. All of this under the banner of your strong value of being productive and good at what you do.",
+            "time": "Sat Oct 28 2023 20:03:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm in an abusive spousal relationship with my own head",
+            "time": "Sat Oct 28 2023 20:04:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's move forward and uncover what we like to refer to as \u201cCheese\u201d, also known as Cognitive Distortions. A Cognitive Distortion is a way that our mind convinces us of something that isn't really true. These inaccurate thoughts are usually used to reinforce negative thinking or emotions. They basically tell us the things that make us feel bad about ourselves.\n",
+            "time": "Sat Oct 28 2023 20:04:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, when you're telling yourself \"I'm not good enough,\" it sounds like you could be using a type of \u201cCheese\u201d known as Labeling. Labeling is when we generalise, reducing ourselves or others to a single, usually negative, characteristic or descriptor, like \u2018inadequate\u2019. Another potential distortion here is the use of a Should Statement, where you're setting expectations for yourself with \"shoulds,\" causing you guilt when you don\u2019t meet those.\n",
+            "time": "Sat Oct 28 2023 20:04:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These are just two types of Cheese. There are others too. Tell me, do you see how your thought \"I'm not good enough\" could be a form of Labeling or Should Statement? And if this Cheese isn't fitting, we can explore others too. Understanding this can be a transformative first step in breaking this cycle of thoughts.",
+            "time": "Sat Oct 28 2023 20:04:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "You just made me realize",
+            "time": "Sat Oct 28 2023 20:04:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "David Burns quote essentially summed up my entire childhood and adult life (thus far). I didn't recognize or realize that Should Statements are a detrimental or feedback-prone feature of the internal monologue -- I always just considered it the \"voice of reason\" that tells me what the correct course of action is. Which sounds a lot like Stockholm Syndrome, now that I reflect on it. I definitely feel like a majority of my life experience thus far has in fact been that feeling of embittered coercion -- maybe not through force, explicitly, but growing up, there were always consequences to not doing what my parents expected. I'm pretty certain that I only got a neuroscience degree in order to make them...proud, or at least satisfied. Which, naturally, didn't work at all seeing as my parents now expect me to attend some sort of graduate program. I... I hate academia. I can't stand it. I cannot put into words how little of a shit I can possibly give for both my field or anything associated with it. I have forgotten more Biology than most people will ever bother to Google, and the idea that I should do more makes me long for bathtime with electronics. I can't help but feel that voice in my head is a mutated form of my parents, which is deeply and profoundly annoying. I'm rambling, but I think you get what I'm trying to say -- I'm just processing the concept that I don't need to base all my actions and life on \"Should\". I mean, it's a good point.",
+            "time": "Sat Oct 28 2023 20:04:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\"Should\" got me all the way to where I am now, and I'm not really loving that, am I?",
+            "time": "Sat Oct 28 2023 20:05:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really impressed by your reflection and understanding here. You've made quite an insightful connection. The voice that you believed was guiding you might have been influenced by deep-seated expectations based on your upbringing and later manifested in the form of Should Statements. It's like you internalized this voice so much to the point where it started sounding like your own rationale.\n",
+            "time": "Sat Oct 28 2023 20:05:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And yes, it seems like this \"should\" imperative hasn't led you to the satisfaction you might have expected, instead resulted in dissatisfaction and unhappiness with your current situation. Realizing this is incredibly forward-thinking of you.\n",
+            "time": "Sat Oct 28 2023 20:05:12 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Just imagine, releasing the \"should be doing something more productive\" thought. Then, let\u2019s consider the possibility of replacing it with another thought that\u2019s more supportive of your own wellbeing, free from these harmful cheeses. This could open up space for progress towards your main value of having a fulfilled life and help alleviate some of the guilt and tension you've been experiencing.\n",
+            "time": "Sat Oct 28 2023 20:05:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, are we feeling ready to move forward and see if together we can come up with a different way of thinking about this, an alternative to the \"shoulds\"?",
+            "time": "Sat Oct 28 2023 20:05:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Sure, how do I start?",
+            "time": "Sat Oct 28 2023 20:05:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Great! I'm glad you're ready to move forward.\n",
+            "time": "Sat Oct 28 2023 20:05:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've got a good grasp on the cycle that's been happening and the cognitive distortions or Cheeses present in it, I'd like to invite you to consider a new thought. \n",
+            "time": "Sat Oct 28 2023 20:05:36 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's go back to that situation, the event when you are engaging in something you enjoy or you are just winding down after a long day at work and the trouble starts. Based on our discussion and your newfound perspective about these \"should\" statements, what could be an alternative thought you could have in that moment? \n",
+            "time": "Sat Oct 28 2023 20:05:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Here's a hint: A beneficial new thought is often grounded in your values, enhances your wellbeing, and is framed positively. But don't worry if nothing comes up immediately. Forming a fresh perspective can take a bit of time and brainstorming! ",
+            "time": "Sat Oct 28 2023 20:05:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think a good question to ask myself is, \"Where is the 'should' coming from?\"\n",
+            "time": "Sat Oct 28 2023 20:05:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Like, is it coming from me, out of a genuine desire to do something, or is it coming from an expectation that I have of myself?",
+            "time": "Sat Oct 28 2023 20:05:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's an insightful way to approach your new thought. It's about identifying the source of these 'should' statements and questioning their validity. \n",
+            "time": "Sat Oct 28 2023 20:06:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Before we delve deeper, let's try to frame this in a more positive light. For example, instead of asking \"Where is the 'should' coming from?\", you might consider telling yourself something along the lines of, \"My actions are dictated by my genuine desires, not insecurities or external expectations.\" \n",
+            "time": "Sat Oct 28 2023 20:06:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Remember, it's about aiming for a new thought that motivates you towards your values while also bringing a sense of relief from the guilt and frustration. But that suggestion is just one avenue to explore. \n",
+            "time": "Sat Oct 28 2023 20:06:12 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I guess I can try to sit with it ",
+            "time": "Sat Oct 28 2023 20:06:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's great to hear! Remember, the aim of adopting this new thought is to gradually turn down the volume of that internal voice chanting 'should'. I'll restate it again, \"My actions are dictated by my genuine desires, not insecurities or external expectations.\"\n",
+            "time": "Sat Oct 28 2023 20:06:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, I'd like you to imagine yourself in a familiar situation, like when you're playing music, writing, or even after work. How does it feel to be in that environment with this new perspective in mind? More specifically, what feelings might surface if you were to indulge these moments with the thought that your actions align with your own values and desires, and not external expectations or insecurities?",
+            "time": "Sat Oct 28 2023 20:06:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't think any feeling comes up for me, but my leg calms down a bit and I don't sweat as much. Sometimes the absence of pain/stress/anxiety can be a narcotic of its own.",
+            "time": "Sat Oct 28 2023 20:06:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It seems like this new thought brings some semblance of relief, with your leg calming down and less sweating. That sense of calm and reduction in physical stress is definitely a positive change. Not being in constant discomfort or distress certainly has its own value as you've noted.\n",
+            "time": "Sat Oct 28 2023 20:06:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How do you feel compared to when we started?",
+            "time": "Sat Oct 28 2023 20:06:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just felt like I was treading water for ages, and that drowning would've been a kind of peace. Living with depression is inherently exhausting, which is why I phrased my initial thought so half-assedly, \"is this it? just neflix til I die?\"\n",
+            "time": "Sat Oct 28 2023 20:07:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Now I feel less energy above my shoulders, if that makes sense. Anxiety and stress always bunch up in the head and neck for me, and it feels like I just set down a bit of some invisible weight I was carrying.",
+            "time": "Sat Oct 28 2023 20:07:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your self-awareness and ability to express your feelings so vividly are really impressive. Dealing with depression can indeed feel like you're stuck in an ever-repeating cycle, and it's understandably exhausting to feel as though you're constantly battling against yourself.\n",
+            "time": "Sat Oct 28 2023 20:07:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That said, it's really gratifying to hear that you are feeling a bit lighter and that this conversation has helped to reduce some of that stress and anxiety bunched up in your head and neck, even if just a little bit.\n",
+            "time": "Sat Oct 28 2023 20:07:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I hope you'll consider our discussion, especially when those 'should' thoughts start popping up. Remember, your value lies in your genuine desires, not insecurities or external expectations.\n",
+            "time": "Sat Oct 28 2023 20:07:29 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well thank you very much for helping me today. It really was useful.",
+            "time": "Sat Oct 28 2023 20:07:39 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

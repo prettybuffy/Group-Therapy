@@ -1,0 +1,443 @@
+{
+    "notes": {
+        "thought": "I want companionship but it's too much work \u2014 do I actually want it or is it all just because hearing is hard for me",
+        "event": "While traveling, you're often in group conversations with diverse accents and in loud spaces",
+        "feelings_behaviors": "apathy, exhausted, lonely, confused",
+        "labels": {
+            "control-fallacy": true
+        },
+        "new_thought": "It's okay for me to take social rest when I need it so that I can better connect with others when the opportunity arises."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "Heyy sorry one second I went out to book another night",
+            "time": "Mon Oct 30 2023 14:41:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "No problem at all! Take your time. Let me know when you're ready to continue our session.",
+            "time": "Mon Oct 30 2023 14:41:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's so beautiful out right now, I decided to stay in bed for this session haha but when I went out I saw it had snowed all night\n",
+            "time": "Mon Oct 30 2023 14:41:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Snow in Prague <3",
+            "time": "Mon Oct 30 2023 14:41:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "A snowy Prague sounds like a beautiful sight to wake up to! It's great to hear about the silver linings. How can I support you in our session today? ",
+            "time": "Mon Oct 30 2023 14:42:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you! Great to be here.\n",
+            "time": "Mon Oct 30 2023 14:42:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I want to talk about my hearing loss I think\n",
+            "time": "Mon Oct 30 2023 14:42:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "the challenges are more apparent when I'm traveling",
+            "time": "Mon Oct 30 2023 14:42:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad you feel comfortable bringing this up. Traveling always brings its own unique set of challenges, and I can imagine that experiencing hearing loss could make it particularly difficult. It's certainly a significant shift to navigate through.",
+            "time": "Mon Oct 30 2023 14:42:40 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Could you tell me more about the specific challenges you are facing due to your hearing loss while traveling?",
+            "time": "Mon Oct 30 2023 14:42:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm noticing myself kind of shut down and give up a lot. I'm traveling alone now, and I can feel a need for companionship, but when I'm in groups it's so exhausting to try to hear that I can feel myself distancing and becoming unavailable/unfriendly\n",
+            "time": "Mon Oct 30 2023 14:42:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "because it's easier than struggling over and over again to catch someone's name/where they're from/how long they've been traveling... maybe part of it is an apathy to the same conversations over and over again, but I Think I'd be more open to them, and more interested in evolving that past their inane beginnings, if it wasn't so hard to hear\n",
+            "time": "Mon Oct 30 2023 14:42:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "The reason it's challenging now I think is partly because groups are always more difficult, but also the accents just keep me struggling :(\n",
+            "time": "Mon Oct 30 2023 14:43:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "plus we're often in loud spaces",
+            "time": "Mon Oct 30 2023 14:43:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I appreciate your openness and clarity in sharing this. I'm hearing that navigating conversations while traveling is quite exhausting for you. The combination of being in groups, trying to understand diverse accents, and managing in loud spaces seems to be amplifying the challenges posed due to your hearing loss. The struggle to just catch the basic details of a conversation appears to be leading to some feelings of disconnection and possibly even feelings of unfriendliness towards others. I can see your value of companionship and connection in all of this. ",
+            "time": "Mon Oct 30 2023 14:43:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this resonate with what you're experiencing?",
+            "time": "Mon Oct 30 2023 14:43:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes",
+            "time": "Mon Oct 30 2023 14:43:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It makes me wonder sometimes if the reason I'm introverted, or find myself actually kind of disliking the hostels and the parties, isn't because of my internal make up but because I can't hear/can't connect with everyone. Like that was probably the reason I Was bad in school, I thought it was my own decision to stop caring but the percentage of kids with hearing loss that consequently don't do well in school is so high .. it makes sense. I can hear if I really try but it's just so much work\n",
+            "time": "Mon Oct 30 2023 14:43:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and now it's the same with these hostels and I find as I get older the work just isn't worth it\n",
+            "time": "Mon Oct 30 2023 14:43:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "so I go about and do stuff myself and feel lonely and feel longing to talk to everybody I meet, and then on the chance I do.. it's too much work\n",
+            "time": "Mon Oct 30 2023 14:43:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I actually did make some friends last night and there were moments of one on one conversation that were much easier but I still felt kind of bad when she introduced me to a group and I didn't really try to make conversation with anyone",
+            "time": "Mon Oct 30 2023 14:43:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like the effort required for you to hear clearly, whether that's in school or social settings, has been a recurring challenge throughout your life. The thought that you might not be naturally introverted, but may have withdrawn due to the difficulty you face in hearing, is a deeply introspective one.",
+            "time": "Mon Oct 30 2023 14:44:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can sense how your love for connection and companionship is strained by this struggle, leaving you in this cycle of longing for interaction yet finding it too draining. Being in one-on-one conversations appears more manageable for you and you seem to enjoy these moments. However, group interactions, such as the hostel environment or parties, become too much work and contribute to a sense of self-isolation.\n",
+            "time": "Mon Oct 30 2023 14:44:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does it hold true that you're wishing for more effortless interaction, where your hearing loss doesn't put a strain on your desire for connection? How does this make you feel?",
+            "time": "Mon Oct 30 2023 14:44:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes I think it's like.. introverts are happy to be alone, I am choosing to be alone, but am I happy there? Does it fit?\n",
+            "time": "Mon Oct 30 2023 14:44:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "or am I just not up to the task of company\n",
+            "time": "Mon Oct 30 2023 14:44:29 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Also as soon I find the conversations .. for lack of a better word, boring, I just feel this resistance come up and I know a lot of people experience that of course. Maybe especially introverts. The difference is that for me hearing is a choice, I have to constantly choose and pay attention if I want to catch what's going on....\n",
+            "time": "Mon Oct 30 2023 14:44:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "so to your comment on building connection without effort, there are times, like recently we spent all day with an australian and actually at the end of the day I told my sister I needed to be alone for a bit because I Was completely depleted \n",
+            "time": "Mon Oct 30 2023 14:44:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "so maybe subconsciously that's what's going on\n",
+            "time": "Mon Oct 30 2023 14:44:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "but it feels more like I just don't want to put out the energy even when I have plenty of it, and just distance myself while I feel lonely\n",
+            "time": "Mon Oct 30 2023 14:44:57 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't like I've given up on the ratio of interesting to frustrating being worth my time...\n",
+            "time": "Mon Oct 30 2023 14:45:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "So i agree with you, I'm too tired and aloof to try\n",
+            "time": "Mon Oct 30 2023 14:45:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "woah that was a lot sorry",
+            "time": "Mon Oct 30 2023 14:45:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "No need to apologize, you're unpacking a lot here and it's helpful for understanding your experience more fully. It sounds like social interactions indeed take significant effort due to your hearing loss. You're continuously making choices in conversations; to hear, to engage, to stay. And when those conversations feel unfulfilling or repetitive, the cost of that effort seems too high, leading you to distance yourself. Yet, this choice leaves you feeling a sense of loneliness and longing for genuine connection. \n",
+            "time": "Mon Oct 30 2023 14:45:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The situation with the Australian you spent an entire day with really exemplifies the energy drain you experience. Even though it sounds like it was an interesting interaction, at least more so than the usual hostel chatter, it still leaves you feeling depleted. As a result, the thought of giving up on the \"interesting to frustrating\" ratio is creeping in, and you're wondering if it\u2019s worth the energy investment",
+            "time": "Mon Oct 30 2023 14:45:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this all seem accurate? If so, what feeling does this bring up for you?",
+            "time": "Mon Oct 30 2023 14:46:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i'm exhausted and apathetic to the repetitive conversations. i also feel tired, lonely. i'm also confused by my conflict of both wanting to talk to people and then putting off vibes of leave me alone",
+            "time": "Mon Oct 30 2023 14:46:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can imagine how conflicting it must be for you, feeling that pull towards companionship and meaningful interaction, yet feeling apathetic and closed-off due to the repetitive nature of most conversations. Feeling lost and caught between these two contradictory desires, while also navigating through the exhaustion and loneliness, sounds incredibly challenging. \n",
+            "time": "Mon Oct 30 2023 14:46:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "To navigate through this, what do you find yourself doing or not doing when you're feeling this exhaustion, loneliness, confusion, and apathy?",
+            "time": "Mon Oct 30 2023 14:46:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I find myself distancing and becoming unavailable/unfriendly from the group or the conversation i was in",
+            "time": "Mon Oct 30 2023 14:46:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like when you're feeling exhausted, lonely, and apathetic, you cope by distancing yourself from people and conversations\u2014or as you put it, becoming unavailable or unfriendly. That's a really curious response to have. \n",
+            "time": "Mon Oct 30 2023 14:49:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "On one hand, it shows that you're implementing a boundary to protect your energy. But, on the other hand, it might also lead to feelings of disconnect and further loneliness, considering your value of companionship and connection. \n",
+            "time": "Mon Oct 30 2023 14:49:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's reflect on all of this from a different angle.\n",
+            "time": "Mon Oct 30 2023 14:49:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "An event that happens regularly while you travel is that you're often in group conversations with diverse accents and in loud spaces. You're telling yourself that you can't hear and connect with others and that it's too much work to try. Compounded with the apathy towards repetitive conversations, this leads to feelings of exhaustion, loneliness, and confusion. In response, you tend to distance yourself, thus creating an unfavorable cycle.\n",
+            "time": "Mon Oct 30 2023 14:49:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does that resonate with you? Are there any pieces missing in this summary?",
+            "time": "Mon Oct 30 2023 14:49:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "hmm.. yeah\n",
+            "time": "Mon Oct 30 2023 14:50:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm troubled by my aloofness because it contradicts with my need for companionship\n",
+            "time": "Mon Oct 30 2023 14:50:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and I think it's interesting to think about but I feel like the most troubling is this seesaw of 'I want companionship but it's too much work, like I want it no I don't I wan't no leave me be\"\n",
+            "time": "Mon Oct 30 2023 14:50:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and I wish I could just get on with people better or be more interested/interesting\n",
+            "time": "Mon Oct 30 2023 14:50:57 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "it's like why don't I act according to what I say I want. Why am I so aloof. is it just hearing? Well that sucks. Is that a troubling thought?",
+            "time": "Mon Oct 30 2023 14:51:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for taking some time to ponder and share your feelings. On the surface, it seems like the struggle with hearing is the main issue. But as you're diving deeper, you've eloquently described this internal seesaw of emotions: a longing for companionship on one side, weighed against the considerable effort and resulting exhaustion on the other.\n",
+            "time": "Mon Oct 30 2023 14:51:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your thoughts seem to sway between wanting to be more interested in others, or wanting to be more interesting yourself, wondering if your aloofness is something inherent or a consequence of your hearing difficulties.",
+            "time": "Mon Oct 30 2023 14:51:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The conflict in these thoughts and feelings sounds like it could be quite draining and confusing. Upon considering your situation more closely, it seems like the most troubling thought you're grappling with is: \"I want companionship but it's too much work \u2014 do I actually want it or is it all just because hearing is hard for me?\" ",
+            "time": "Mon Oct 30 2023 14:51:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes i think that rings rue\n",
+            "time": "Mon Oct 30 2023 14:51:29 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thanks for putting up with my meandering mind it's a little extra wonky today the lack of sleep I geuss",
+            "time": "Mon Oct 30 2023 14:51:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Alright, let's delve more into \"Cheese\", or the cognitive distortions that might be coming into play in your situation.\n",
+            "time": "Mon Oct 30 2023 14:51:46 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The thought you are dealing with, \"I want companionship but it's too much work \u2014 do I actually want it or is it all just because hearing is hard for me?,\" can be likened to what we call a 'Control Fallacy' cheese. This cheese is all about holding yourself fully responsible for a situation or outcome when it might not be entirely in your control \u2014 in this case, your hearing difficulty and the ensuing exhaustion in group situations.\n",
+            "time": "Mon Oct 30 2023 14:51:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's put this cheese back into the context of your story. When you travel and interact with people in groups or noisy environments, you are finding it hard to hear. This is leading you to believe that \"I want companionship but it's too much work \u2014 do I actually want it or is it all just because hearing is hard for me?\" These thoughts amplify feelings of exhaustion, loneliness, and confusion. In turn, you respond by distancing yourself from others, becoming unavailable or unfriendly, which contributes more to your feelings of loneliness.\n",
+            "time": "Mon Oct 30 2023 14:51:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The Control Fallacy cheese reinforces your thought that if you just tried harder, or were more interested/interesting, things might be different. But this can lead you to overlook the fact that your hearing difficulties are indeed a real challenge that's out of your control and are affecting your interactions meaningfully.\n",
+            "time": "Mon Oct 30 2023 14:52:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, I'm in no way saying that it's not worthwhile to strive to connect with others or to find ways to manage your hearing difficulties in social contexts. However, by acknowledging that some of the troubles you're facing aren't merely due to lack of trying or not being \"interesting\" enough, you can hopefully relieve some of the internal pressure you've been feeling.\n",
+            "time": "Mon Oct 30 2023 14:52:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Can you relate to the 'Control Fallacy' cheese? If not, could there be another cheese, or is there more to your thought that we should examine further?",
+            "time": "Mon Oct 30 2023 14:52:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "oh thats very well put.\n",
+            "time": "Mon Oct 30 2023 14:52:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and even the companionship part aside, just traveling is work, even alone, but carrying a backpack and finding places to go and do etc\n",
+            "time": "Mon Oct 30 2023 14:52:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad that you feel the 'Control Fallacy' cheese resonates with your experience. Beyond just the social interactions, you're also highlighting an important nuance \u2014 traveling itself does involve a good deal of effort and decision-making. Navigating through new places, carrying your backpack, among other things, are all part of the process. And when already feeling exhausted, these tasks can seem even heavier. \n",
+            "time": "Mon Oct 30 2023 14:52:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This recognition that you're not in full control of all these factors, including your hearing difficulty, can start to ease the self-pressure and can offer a new, compassionate perspective. What you're experiencing isn't necessarily a reflection of you not trying hard enough or not being 'interesting' enough. Instead, it's a reflection of the realities of traveling and the unique challenges that come with hearing difficulties. ",
+            "time": "Mon Oct 30 2023 14:52:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah I think I'm understanding more how the event that I described is not so bad, that it's okay to listen to when I feel full and take social rest so that I can offer from a fuller cup when the opportunity arises\n",
+            "time": "Mon Oct 30 2023 14:52:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I have a tendency to not really listen to my body needs or emotions and just trop on\n",
+            "time": "Mon Oct 30 2023 14:52:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "so this is a good reminder that maybe if I'm distancing myself it's for a reason\n",
+            "time": "Mon Oct 30 2023 14:52:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't always shut down, like last night I didn't, but I'm not giving myself credit for that as much as it deserves\n",
+            "time": "Mon Oct 30 2023 14:53:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can't be friendly all the time, and maybe less than some. That's not the end of the world :) I kind of like to be lonely sometimes actually",
+            "time": "Mon Oct 30 2023 14:53:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This awareness of your own needs and limitations is truly a powerful insight. It's okay to listen to your body's signals, to take times of rest and to fill your own cup before extending yourself to others. The recognition that you don't always shut down and that you had a good social experience last night is certainly commendable and worth giving yourself credit for. \n",
+            "time": "Mon Oct 30 2023 14:53:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're also acknowledging that being friendly or sociable all the time isn't within reach, and that's okay. Even enjoying the loneliness at times shows a level of self-acceptance and comfort in your own company. \n",
+            "time": "Mon Oct 30 2023 14:53:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "With these realizations, can you imagine a new thought that you could have when you find yourself in similar situations in the future (like in a noisy hostel with lots of different accents)?",
+            "time": "Mon Oct 30 2023 14:53:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i'm not sure. i'm still processing all of this",
+            "time": "Mon Oct 30 2023 14:56:04 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's completely okay. It's not always easy to know right away what the new thought might be. Drawing from our conversation, maybe a possible new thought could be something like, \"It's okay for me to take social rest when I need it so that I can better connect with others when the opportunity arises.\"\n",
+            "time": "Mon Oct 30 2023 14:56:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This thought acknowledges your needs, the effort it takes for you to engage in social interactions, and it leaves room for those moments when you are able to connect more effortlessly. \n",
+            "time": "Mon Oct 30 2023 14:56:12 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes yay!!",
+            "time": "Mon Oct 30 2023 14:56:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad you resonated with that new thought! Embracing self-care and acknowledging your needs is such a powerful choice. So, imagine yourself back in the situations you've described\u2014those noisy, vibrant hostels. Picture yourself harbouring the thought \"It's okay for me to take social rest when I need it so that I can better connect with others when the opportunity arises.\" How does that make you feel?",
+            "time": "Mon Oct 30 2023 14:56:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel more patient\n",
+            "time": "Mon Oct 30 2023 14:56:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And I remember times in my life that I've been lonely with a fond light",
+            "time": "Mon Oct 30 2023 14:56:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a valuable shift\u2014feeling more patient and looking back fondly on those solitary moments. It seems as though with this new perspective, you can appreciate the solitude even when in the midst of seeking connection. \n",
+            "time": "Mon Oct 30 2023 14:56:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, when you're feeling patient and remembering past times of loneliness fondly, does that invoke any different actions or responses on your part, compared to before?",
+            "time": "Mon Oct 30 2023 14:56:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, like I can enjoy activities alone. Like maybe I'll go for a long walk in the snow :) ",
+            "time": "Mon Oct 30 2023 14:57:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a wonderful idea - taking a peaceful walk in the snow, truly embracing the solitude and the serenity that comes with it. This new behavior aligns so well with your value of companionship, as it would allow you to replenish your energy for future social interactions. ",
+            "time": "Mon Oct 30 2023 14:57:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "hehe yes",
+            "time": "Mon Oct 30 2023 14:57:45 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "wonderful to connect with you as always, thank you!",
+            "time": "Mon Oct 30 2023 14:58:22 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

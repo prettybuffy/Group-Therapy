@@ -1,0 +1,313 @@
+{
+    "notes": {
+        "thought": "I am worthless\nI'm a waste of space.\n",
+        "event": "During the school break when you noticed an unexplainable lack of motivation",
+        "feelings_behaviors": "hopelessness, doubt, and fear of failure",
+        "labels": {
+            "labeling": true
+        },
+        "new_thought": "I am valuable, and it's okay to have off days."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "Feeling down. Complete lack of motivation",
+            "time": "Mon Oct 30 2023 13:06:46 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really sorry to hear that you're feeling down and lacking motivation. That sounds quite tough. Would you like to talk about what's been happening lately that might be contributing to these feelings? \n",
+            "time": "Mon Oct 30 2023 13:06:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm Nathan btw, and I'm here to listen and support you.",
+            "time": "Mon Oct 30 2023 13:07:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "What do I do to get more motivated?",
+            "time": "Mon Oct 30 2023 13:07:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see you're seeking ways to improve your motivation \u2013 it's brave of you to reach out for help. You probably already know some general strategies that have worked for others to increase motivation, like setting realistic goals, breaking them down into manageable steps, and acknowledging small successes along the way. But this session isn\u2019t about what worked for others\u2014it\u2019s about what works for you. Let's talk about what's going on in your life that's leading to a lack of motivation. ",
+            "time": "Mon Oct 30 2023 13:07:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Have there been any specific events or experiences recently that you think might be connected to how you're feeling now?",
+            "time": "Mon Oct 30 2023 13:07:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think it started about two weeks ago. I just didn't feel like doing anything.\n",
+            "time": "Mon Oct 30 2023 13:07:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It is hard to pinpoint it. I was on school break. I just felt stressed without having a real reason to be.",
+            "time": "Mon Oct 30 2023 13:07:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing that. I can understand how puzzling and challenging it must be, feeling stressed and unmotivated especially when it's your break. You should be able to unwind and enjoy your time away from school, but instead, you're experiencing stress without a clear source. Let's try to explore this a little bit more. \n",
+            "time": "Mon Oct 30 2023 13:07:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you say you didn't feel like doing anything, what kinds of things are you referring to? Is it activities you normally enjoy, or more like tasks and obligations you had to fulfill? By understanding this, it could help us uncover what's really at the heart of this troubling lack of motivation.\n",
+            "time": "Mon Oct 30 2023 13:07:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's like the simplest things. Like today I was supposed to finish two assignments I had, do laundry, go to the supermarket, then cook. I woke up even earlier than usual but I just didn't.",
+            "time": "Mon Oct 30 2023 13:07:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thanks for explaining that. ",
+            "time": "Mon Oct 30 2023 13:07:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you had a to-do list which included important yet routine tasks, however, you found it challenging to complete them. I hear that you're struggling to find the drive to perform these necessary tasks that make up daily life, and it's been wearing on you.",
+            "time": "Mon Oct 30 2023 13:07:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": " In moments like these, when faced with tasks and responsibilities, what sorts of thoughts are going through your mind? For example, while thinking about doing your assignments or going to the supermarket.",
+            "time": "Mon Oct 30 2023 13:07:57 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel worthless. Or stuff like I am a waste of space",
+            "time": "Mon Oct 30 2023 13:08:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really sorry to hear that you're having such harsh thoughts about yourself. It can be really hard to feel motivated when you're feeling 'worthless' or like a 'waste of space'. Those thoughts can indeed drain away our energy and motivation, making it really challenging to get things done. \n",
+            "time": "Mon Oct 30 2023 13:08:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I know.",
+            "time": "Mon Oct 30 2023 13:08:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can only imagine how tough it must be to carry these heavy thoughts. Would you like to tell me more about what's most troubling about having thoughts like, 'I am worthless'? I'm asking this because life can be really complicated and I want to understand the depth of what you're going through as best I can.",
+            "time": "Mon Oct 30 2023 13:08:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It makes me look lazy. I don't like feeling this way.",
+            "time": "Mon Oct 30 2023 13:08:30 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see, it sounds like the most troubling thought for you is being perceived as lazy or the idea that you might be lazy yourself. This feeling seems to be in conflict with your values. Considering your desire to complete your tasks and feeling upset over not being able to do so, it's clear that you value diligence and productivity. I can tell these thoughts and feelings about laziness are affecting you deeply. \n",
+            "time": "Mon Oct 30 2023 13:08:36 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Yet, it's important to recognize that everyone has off days or even off weeks when their normal motivation and energy levels dip. It's human, and perhaps this could be one of those times for you. \n",
+            "time": "Mon Oct 30 2023 13:08:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, when you think that you are 'worthless' or a 'waste of space', what feelings come up for you? Also, it would be helpful if you could share how these thoughts and feelings influence your behavior. For instance, how do they affect your attempts to complete your assignments, do laundry, grocery shopping or your ability to cook?",
+            "time": "Mon Oct 30 2023 13:08:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I guess it is feelings of hopelessness, overwhelming feeling of doubt, fear of failure. I just kind of shut down and go to sleep.",
+            "time": "Mon Oct 30 2023 13:08:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Sounds like you're feeling a heavy mix of hopelessness, doubt, and fear of failure, which can definitely be immobilizing. Facing these feelings may be causing you to retreat into sleep as a form of self-protection or escape. I can understand why you'd want to shut it all off.\n",
+            "time": "Mon Oct 30 2023 13:09:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And when you think about it, shutting down and going to sleep when feeling swamped by such intense emotions is a behavior that makes perfect sense\u2014it's a way of coping with emotional overload. However, it also seems like it might be amplifying your initial troubling thought of being 'worthless,' and propelling a cycle that's causing even more distress.\n",
+            "time": "Mon Oct 30 2023 13:09:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes the cycle goes on",
+            "time": "Mon Oct 30 2023 13:09:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So let's recap all that we've talked about so far: The main event troubling you started two weeks ago, during the school break when you noticed an unexplainable lack of motivation. This led to the most troubling thoughts \"I am worthless\" and \"I'm a waste of space.\" These thoughts stir up feelings of hopelessness, doubt, and fear of failure for you. In response to this internal turmoil, the primary behavior you turn to is shutting down and going to sleep.\n",
+            "time": "Mon Oct 30 2023 13:09:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does everything sound accurate so far?",
+            "time": "Mon Oct 30 2023 13:09:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That's the gist of how I'm feeling.",
+            "time": "Mon Oct 30 2023 13:09:29 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm thankful for you being open and sharing your experience. It sounds like you're in a challenging cycle right now. Let's see if I can help illustrate it in more detail:\n",
+            "time": "Mon Oct 30 2023 13:09:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Oh okay I see your message above.",
+            "time": "Mon Oct 30 2023 13:10:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This cycle is understandably hard on you. You feel laden by your tasks, your feelings are difficult to manage, and it seems like your efforts to cope are adding fuel to the fire rather than dousing it. \n",
+            "time": "Mon Oct 30 2023 13:11:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes I feel stuck and worthless",
+            "time": "Mon Oct 30 2023 13:11:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for confirming. It's not easy to face these kinds of challenges, and I commend you for your courage in talking about them and seeking a way forward. \n",
+            "time": "Mon Oct 30 2023 13:11:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's okay to feel down sometimes and unmotivated, and it's also normal to have doubts and fears. However, it becomes problematic\u2014and disheartening\u2014when the thoughts leading to these feelings are as harsh and self-deprecating as \"I'm worthless\" or \"I'm a waste of space.\"\n",
+            "time": "Mon Oct 30 2023 13:11:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "We all have certain thinking patterns that can sometimes get us stuck. We refer to these patterns metaphorically as 'Cheese'. In your case, it seems like the Cheese of 'Labeling' could be at play \u2013 Labeling happens when we attach negative terms to ourselves. ",
+            "time": "Mon Oct 30 2023 13:11:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Okay. That sounds like the main cause of my problems.",
+            "time": "Mon Oct 30 2023 13:11:57 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see you're recognizing the labeling as contributing significantly to your lack of motivation. You\u2019ve had an apparent tendency to label yourself as 'worthless' or a 'waste of space', which are pretty severe labels.\n",
+            "time": "Mon Oct 30 2023 13:12:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Using those kinds of labels has the potential to oversimplify and negatively distort the view of oneself. For example, if you don't complete a task, instead of understanding that you didn't manage to do it this time, the label transforms it into a total reflection of your worth as a person. \n",
+            "time": "Mon Oct 30 2023 13:12:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's human and easy to fall into the pattern of using these labels. Sometimes they might have even served a purpose, especially if they encouraged a higher performance level. However, it's clear that in this instance, such labels might actually inhibit motivation instead of promoting it. They lead to feelings of hopelessness, doubt, and fear of failure, which are quite challenging to deal with.\n",
+            "time": "Mon Oct 30 2023 13:12:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Furthermore, these feelings have resulted in you resorting to the behavior of sleeping, possibly as an escape or a way to cope. \n",
+            "time": "Mon Oct 30 2023 13:12:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Consider all the important things you mentioned during our conversation: working on assignments, doing laundry, cooking, grocery shopping, etc. These are valuable and necessary tasks. If you're a 'waste of space', would you even consider doing them",
+            "time": "Mon Oct 30 2023 13:12:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does the concept of 'Labeling' resonate with you in relation to your 'worthless' and 'waste of space' thoughts, and do you see how it could be leading to your feelings and subsequent behaviors?\n",
+            "time": "Mon Oct 30 2023 13:13:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That makes sense. \n",
+            "time": "Mon Oct 30 2023 13:14:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Is it possible to break the cycle?",
+            "time": "Mon Oct 30 2023 13:14:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad to hear that it's making sense for you. And yes, it is absolutely possible to break this cycle! It'll take some work and practice, but the important starting point is understanding what's going on. By recognizing that you're stuck in a pattern of \"Labeling\" yourself, you've already taken the first step. Now, we can focus on challenging the \"worthless\" or \"waste of space\" labels and reframing them into more accurate, compassionate thoughts that can lead to more positive feelings and behaviors.\n",
+            "time": "Mon Oct 30 2023 13:14:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The aim here is to catch yourself when you\u2019re labeling yourself negatively. It could be helpful to remember that everyone sometimes lacks motivation or fails to do the things they intended to, everyone has off days, and it doesn't define our worth.\n",
+            "time": "Mon Oct 30 2023 13:14:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How about we attempt to come up with a new thought right now, one that is understanding and compassionate towards yourself, to replace the troublesome thoughts of being 'worthless' or a 'waste of space'? Remember, the goal isn't to convince yourself of something too far-fetched, but rather to find a perspective that feels truer than the harsh labels.",
+            "time": "Mon Oct 30 2023 13:14:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Okay sounds good. How about \"I'm not worthless\"",
+            "time": "Mon Oct 30 2023 13:14:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's great to see you starting with a more positive thought, and that's certainly a step in the right direction. However, the phrasing of \"I'm not worthless\" is a denial of the negative thought, and it still keeps the focus on 'worthless'. So even though it has a 'not' in front of it, it still hovers around the idea of worthlessness.\n",
+            "time": "Mon Oct 30 2023 13:14:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's try to get a bit more creative and positive. How about something that emphasizes your inherent worth without referencing worthlessness at all? Maybe something like, \"I am valuable, and it's okay to have off days\", or \"I am doing the best I can right now\". These thoughts acknowledge both your value and the reality of human experience\u2014that we all have moments when things don't go as planned.\n",
+            "time": "Mon Oct 30 2023 13:14:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that works. Should I repeat that when I feel down and try to push myself?",
+            "time": "Mon Oct 30 2023 13:14:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Absolutely! It can be incredibly helpful to remind yourself of this new, more compassionate thought, \"I am valuable, and it's okay to have off days\", especially in those moments when you're feeling down or unmotivated. This thought serves to emphasize both your inherent worth and the reality that we all have those moments or days when things don't go exactly as we'd like them to. \n",
+            "time": "Mon Oct 30 2023 13:16:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's take a moment to complete the picture here. I'd like you to imagine one of those recent days where you had a lot on your plate and were feeling unmotivated. But this time, instead of telling yourself you're 'worthless' or a 'waste of space', imagine thinking, \"I am valuable, and it's okay to have off days.\" How does it make you feel when you think this new thought?\n",
+            "time": "Mon Oct 30 2023 13:16:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel kinda silly for thinking that I felt that way before. But I also feel like I can actually do things. So thank you for that, Nathan.",
+            "time": "Mon Oct 30 2023 13:16:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm so glad to hear that! It's completely ok to have felt the way you did earlier - these experiences are a part of being human. It's also fine to feel a bit silly - it shows a shift in perspective, which is definitely a step in the right direction.\n",
+            "time": "Mon Oct 30 2023 13:16:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Recognizing your inherent value and understanding that it's okay to have off days allows you to embrace your human nature, and having that belief in yourself can make it easier to tackle your tasks without judging yourself harshly. \n\nRemember, it's likely that the old thought patterns will bubble up from time to time, but with practice, you'll get better and better at catching yourself when that happens and re-framing your thoughts.",
+            "time": "Mon Oct 30 2023 13:16:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're feeling overwhelmed and you find yourself thinking, \"I am worthless\" or \"I'm a waste of space\", imagine flipping those thoughts to your new perspective, \"I am valuable, and it's okay to have off days.\" ",
+            "time": "Mon Oct 30 2023 13:16:41 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you so much. I didn't think it was going to work but I actually feel good.\n",
+            "time": "Mon Oct 30 2023 13:16:45 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you very much, Nathan. \ud83d\ude0a\n",
+            "time": "Mon Oct 30 2023 13:16:49 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

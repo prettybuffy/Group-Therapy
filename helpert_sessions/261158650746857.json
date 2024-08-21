@@ -1,0 +1,398 @@
+{
+    "notes": {
+        "thought": "\"I can't seem to put myself in a position to be productive\"\n\"I simply don't have the stamina to stay focused and efficient\"\n\"I've reached my max.\"\n\"I don't deserve to rest or sleep because I haven't been productive.\"",
+        "event": "Approaching the end of the school year, with substantial material to cover, and multiple school-related assignments and projects remaining.\n",
+        "feelings_behaviors": "burn out, stressed, unmotivated",
+        "labels": {
+            "should-statement": true
+        },
+        "new_thought": "I'm tired, and it's okay to rest. Rest is necessary so I can renew my energy and continue to be productive in my studies when I am ready."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I\u2019m a bit stressed",
+            "time": "Mon Nov 13 2023 13:27:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "lately i've been very lazy and unmotivated to study.",
+            "time": "Mon Nov 13 2023 13:27:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see that you're feeling stressed about your lack of motivation and laziness when it comes to studying. It's not easy to feel this way, especially when there are tasks that need to be done.",
+            "time": "Mon Nov 13 2023 13:27:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Can you tell me a bit more about what's been going on? What do you think might be contributing to your lack of motivation?",
+            "time": "Mon Nov 13 2023 13:27:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Mostly there is a good amount of material to cover in addition to other school-related assignments and projects",
+            "time": "Mon Nov 13 2023 13:27:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "so it's just been difficult because I know there is a lot to do, but I can't seem to put myself in a position to be productive and if I do I simply don't have the stamina to stay focused and efficient for a long time or I should say even a short time.",
+            "time": "Mon Nov 13 2023 13:28:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I understand that the amount of material you need to cover, along with all the other school-related tasks, is making it difficult for you to find the motivation to study. It can feel overwhelming when there's so much to do and it seems like there's never enough time or energy to get it all done. It's frustrating when you can't seem to focus or stay efficient even when you do manage to start studying. \n",
+            "time": "Mon Nov 13 2023 13:28:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What's most troubling about this lack of motivation and difficulty staying focused?",
+            "time": "Mon Nov 13 2023 13:28:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I suppose its the fact that its the homestretch for this year. I have about 4 weeks left, but they just feel eternal. And I feel so drained from this year that it just feels like I've reached my max.",
+            "time": "Mon Nov 13 2023 13:28:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand how the looming end of the year can make these last few weeks feel like they're dragging on. It's completely normal to feel drained and overwhelmed, especially if you've been working hard throughout the year. It sounds like you may have reached your limit, both physically and mentally. \n",
+            "time": "Mon Nov 13 2023 13:28:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Feeling maxed out and lacking motivation is tough, especially when you still have important tasks to complete. Can you tell me more about how this feeling of being drained is affecting you? What emotions does it bring up for you?",
+            "time": "Mon Nov 13 2023 13:28:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Burnt out and unmotivated!!",
+            "time": "Mon Nov 13 2023 13:29:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can imagine that feeling burnt out and unmotivated can be quite challenging. Burnout is often a result of prolonged stress and exhaustion, and it can make it difficult to find the energy and drive to do the things we need to do. It's a common experience, especially towards the end of a demanding year.\n",
+            "time": "Mon Nov 13 2023 13:29:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "especially because i get the moments with small reasons to pull through but they are not enough",
+            "time": "Mon Nov 13 2023 13:29:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're feeling burnt out and unmotivated, what actions or behaviors do you find yourself doing or not doing? How are these feelings impacting your studying and other tasks?",
+            "time": "Mon Nov 13 2023 13:29:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Avoiding my work mostly, procrastinating. ",
+            "time": "Mon Nov 13 2023 13:30:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I also get pretty bad sleep even though I'm not doing any work and 'resting'.",
+            "time": "Mon Nov 13 2023 13:30:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see how your feelings of burnout and lack of motivation are leading you to avoid your work and procrastinate, which further contributes to your stress and disrupts your sleep. It's like a terribly vexing loop where one issue feeds into the other, creating a daunting barrier to getting your tasks done and also impacting your well-being. \n",
+            "time": "Mon Nov 13 2023 13:30:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That must be hard particularly because I can sense your value for responsibility and perseverance through your education, and this situation is likely making you feel as though you're drifting away from those values. \n",
+            "time": "Mon Nov 13 2023 13:31:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah i have been trying to get more rest not sleep but more rest which has taken over not doing my work and taking care of my responsibilities",
+            "time": "Mon Nov 13 2023 13:31:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "From our discussion, here's what I'm understanding: You're approaching the end of the school year, with substantial material to cover, and multiple school-related assignments and projects remaining. This has led to thoughts like \"I can't seem to put myself in a position to be productive...I simply don't have the stamina to stay focused and efficient...I've reached my max.\" This makes you feel burn out and stressed and unmotivated. In result, you're procrastinating, avoiding work, and a have disrupted sleep.\n\n",
+            "time": "Mon Nov 13 2023 13:33:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This is clearly a challenging time for you. I can see why you'd feel stressed and burnt-out, given the situation you're facing. Does all that representation of the scenario ring true?",
+            "time": "Mon Nov 13 2023 13:33:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, I also think with the sleep issues, I sometimes think I don't deserve to sleep because I haven't been productive and I know there are a lot of things to do so I focus on just trying to rest from school by doing other things and needs, first and then thinking I will be ready to study after but that doesn't seem like the case and then yeah...",
+            "time": "Mon Nov 13 2023 13:33:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "like i'm resting but the pattern of poor sleep continues",
+            "time": "Mon Nov 13 2023 13:34:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "and it makes sense because i know i need rest, sleep, and feed certain needs and it just seems like i'm not doing it right",
+            "time": "Mon Nov 13 2023 13:34:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "all in addition to studying and work",
+            "time": "Mon Nov 13 2023 13:34:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see, so it seems like there's another thought in the mix -- something like \"I don't deserve to rest or sleep because I haven't been productive.\" And then you try to rest thinking you'll be ready to study afterwards, but it doesn't quite work that way. This thought is quite taxing, and I'm sure it adds to the feelings of being burnt out and unmotivated.\n",
+            "time": "Mon Nov 13 2023 13:34:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yep, I think this is pretty accurate! because i guess when i have tried to take a nap in the middle of the day it's not always the best for me because i crave more than just 30-1hr. like my body will ask for more and then i just end up wasting more time on sleep and waking up",
+            "time": "Mon Nov 13 2023 13:36:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad we're on the same page. Thank you for your patience as we worked through your thoughts, feelings, and behaviors.\n\nFrom our conversation, I can tell a story that goes like this: As you approach the homestretch of the school year, with a hefty amount of material to cover, along with numerous school assignments and projects, you find yourself wrestling with some troubling thoughts. You think, \"I can't seem to put myself in a position to be productive\" and \"I simply don't have the stamina to stay focused and efficient.\" Moreover, you feel you've \"reached your max\", and there\u2019s a persisting belief that \"you don't deserve to rest or sleep because you haven't been productive\". These thoughts lead to feelings of being \"burnt out, stressed, and unmotivated\".",
+            "time": "Mon Nov 13 2023 13:36:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In response to these feelings, you find yourself avoiding work, procrastinating, and experiencing disrupted sleep (Behaviors). It's as if you're stuck in an exhausting cycle where one issue feeds into another, making studying feel like an insurmountable task and further impacting your well-being.",
+            "time": "Mon Nov 13 2023 13:36:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This cycle is particularly challenging for you because it's pulling you away from your values of responsibility and perseverance in your education. It's like you're in a boat caught in an unrelenting wave, trying to keep afloat while also trying to stay on course.\n",
+            "time": "Mon Nov 13 2023 13:37:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "All of these thoughts and feelings are feeding into each other, creating a loop that leaves you feeling more and more exhausted. I wonder if it feels true to you that this cycle is self-reinforcing, keeping you stuck in this unhelpful pattern of behavior? Or if there's anything you would add or change about this summary of your situation?",
+            "time": "Mon Nov 13 2023 13:37:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "no i think you got everything on the spot...and i really appreciate that observation and classification you made... i feel like i was able to understand myself better because i'm even tired while resting and doing those other things ",
+            "time": "Mon Nov 13 2023 13:38:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad you feel this is an apt summary. With this kind of clarity, we can start to see some patterns and even potential for change. \n",
+            "time": "Mon Nov 13 2023 13:38:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's look at the thought, \"I don't deserve to rest or sleep because I haven't been productive.\" \n",
+            "time": "Mon Nov 13 2023 13:38:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This idea sounds like a type of cognitive distortion we call a \"should statement.\" This kind of distortion occurs when we tell ourselves hard-rules about how things \"should\" or \"must\" be. In your case, the rule might be something like: \"I should always be productive, and if I'm not, I don't deserve rest or sleep.\" \n",
+            "time": "Mon Nov 13 2023 13:38:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this feel like it fits within your situation? Do you see any influences of this \"should statement\" in your life?",
+            "time": "Mon Nov 13 2023 13:38:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "uuuu wow i see that yea i hadn't thought about it like that",
+            "time": "Mon Nov 13 2023 13:39:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "ugh wow",
+            "time": "Mon Nov 13 2023 13:39:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i am so mean to myself",
+            "time": "Mon Nov 13 2023 13:39:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " I often feel that I have to do work to rest, which seems like \"should\" distortion. ",
+            "time": "Mon Nov 13 2023 13:39:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's great that you recognize this \"should statement\" at play in your life. It's a sneaky distortion that can be SO hard on us. This idea of having to always be productive in order to deserve rest or sleep can create so much undue pressure. \n",
+            "time": "Mon Nov 13 2023 13:40:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Here's how it might unfold in your situation: \n",
+            "time": "Mon Nov 13 2023 13:40:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Facing the challenge of a substantial workload and approaching end of the school year, you tell yourself, \"I should always be productive, and if I'm not, I don't deserve rest or sleep\" along other troubling thoughts (\"I can't seem to put myself in a position to be productive... I've reached my max\").",
+            "time": "Mon Nov 13 2023 13:40:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "We can see how this \"should\" statement places a significant burden on you and contributes to your feelings of stress and burnout. It's no surprise that it leads to avoidance, procrastination, and disruptive sleep, creating a loop that reinforces your unease and keeps you feeling stuck. \n",
+            "time": "Mon Nov 13 2023 13:40:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The fact is, being a human, not a machine, it's completely natural and healthy to need rest and downtime, regardless of your productivity. Ignoring this need may actually backfire as it appears to be doing right now, causing burnout and even affecting your sleep. \n",
+            "time": "Mon Nov 13 2023 13:40:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's alright to take breaks and rest when you need to. You don't have to earn sleep or rest. They're not rewards for being productive; they're essential for maintaining well-being and performance. \n",
+            "time": "Mon Nov 13 2023 13:41:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Do you see the role that this cheese, the \"should statement,\" is playing in your situation? Or do you feel there are other thoughts or potential cheeses at play that we could explore further at this stage?",
+            "time": "Mon Nov 13 2023 13:41:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "that completely makes sense!!!",
+            "time": "Mon Nov 13 2023 13:41:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i am tired. and that is okay. i can simply rest.",
+            "time": "Mon Nov 13 2023 13:41:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "instead of forcing myself to rest",
+            "time": "Mon Nov 13 2023 13:41:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i need to recognize I need breaks and rest. That's something I see more clearly now.  ",
+            "time": "Mon Nov 13 2023 13:43:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad you're starting to see this, too. We're not machines, we're humans, and rest is important to renew our energy and maintain our well-being. And recognizing this is a big step forward!\n",
+            "time": "Mon Nov 13 2023 13:43:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we've clarified the connection between this \"should statement\" cheese and your situation, let's try something different. \n",
+            "time": "Mon Nov 13 2023 13:43:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's put you back in your situation - the approaching end of the school year with lots of tasks left to complete. Considering what we've discussed, what is a new thought that you might have in this situation? This new thought should be something that aligns more closely with your values of responsibility and perseverance, but also takes into account the human need for rest and self-care.",
+            "time": "Mon Nov 13 2023 13:43:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think something like \"I am tired. and that is okay. I can simply rest.\"",
+            "time": "Mon Nov 13 2023 13:43:33 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a really good start! Recognizing and validating your fatigue can be very helpful. \n",
+            "time": "Mon Nov 13 2023 13:43:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Still, if you're okay with refining it a bit more, we can aim for a thought that also acknowledges your commitment to your responsibilities. Maybe something like, \"I'm tired, and it's okay to rest. Rest is necessary so I can renew my energy and continue to be productive in my studies when I am ready.\" does this thought resonate with you or would you prefer altering it?",
+            "time": "Mon Nov 13 2023 13:44:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yess!!",
+            "time": "Mon Nov 13 2023 13:44:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i really really like this one...it makes me feel rested in my mind at least for now and also motivated that i can be productive once i'm ready ",
+            "time": "Mon Nov 13 2023 13:45:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Great! I like that new thought because it's compassionate and realistic and aligns well with your values of responsibility and perseverance. \n",
+            "time": "Mon Nov 13 2023 13:45:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's try this: imagine yourself in your situation -- upcoming end of the school year with lots of tasks remaining -- and then imagine yourself having the thought: \"I'm tired, and it's okay to rest. Rest is necessary so I can renew my energy and continue to be productive in my studies when I am ready.\u201d \n",
+            "time": "Mon Nov 13 2023 13:45:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What emotions do you anticipate feeling when you have this new thought?",
+            "time": "Mon Nov 13 2023 13:45:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Honestly, more forgiving but also more motivated!",
+            "time": "Mon Nov 13 2023 13:45:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a wonderful response! Feeling forgiving and more motivated is a significant shift from feeling burnt-out and unmotivated. These new emotions are likely to be more conducive to productivity and well-being, don\u2019t you think?\n",
+            "time": "Mon Nov 13 2023 13:45:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, imagine yourself with these new feelings, forgiving and motivated, in a similar situation in your studies. Do you get the urge to engage in any new actions or behaviors?",
+            "time": "Mon Nov 13 2023 13:45:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think to sleep when I need it, even if I didn't get everything done. ",
+            "time": "Mon Nov 13 2023 13:46:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What a healthy and supportive behavior that would be! Prioritizing your sleep and rest is definitely needed for maintaining your well-being, and it\u2019s great to see that you\u2019re acknowledging this need. Remember, taking care of yourself is not being lazy or unproductive, it\u2019s absolutely essential for you to keep going, especially during demanding times. \n",
+            "time": "Mon Nov 13 2023 13:46:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, as we near the end of our session, let\u2019s take a moment to reflect. How do you feel now compared to when we started?",
+            "time": "Mon Nov 13 2023 13:46:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "so much better",
+            "time": "Mon Nov 13 2023 13:46:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i appreciate you listening\nit helped to see me if that makes sense",
+            "time": "Mon Nov 13 2023 13:46:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm thrilled to hear that you're feeling so much better! It's rewarding to see how exploring these thoughts and feelings through conversation can lead to meaningful insights and shifts in perspective. Remember the new thought, \"I'm tired, and it's okay to rest. Rest is necessary so I can renew my energy and continue to be productive in my studies when I am ready\u201d, whenever you find yourself overwhelmed with your studies. \n",
+            "time": "Mon Nov 13 2023 13:47:05 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah, i am actually going to write it on a sticky note now cause i now i'll need the reminder",
+            "time": "Mon Nov 13 2023 13:47:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for participating in this process, and please know that you're welcome to return to discuss this or anything else that may be bothering you. Here's to your well-being and successful studies!",
+            "time": "Mon Nov 13 2023 13:47:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "no thank you!!!",
+            "time": "Mon Nov 13 2023 13:47:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "i love that, sounds beautiful!!",
+            "time": "Mon Nov 13 2023 13:47:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "have a nice rest of you day/night!!!",
+            "time": "Mon Nov 13 2023 13:48:00 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

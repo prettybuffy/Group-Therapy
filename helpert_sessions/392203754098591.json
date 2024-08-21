@@ -1,0 +1,408 @@
+{
+    "notes": {
+        "thought": "\"Time has passed, yet I've made no progress with my tasks\"\n\n\"I don't know how to put in hard effort and actually work for something\"",
+        "event": "Struggle with procrastination, but recently it's gotten worse and turned into a complete block in ability to do anything",
+        "feelings_behaviors": "helplessness",
+        "labels": {
+            "control-fallacy": true
+        },
+        "new_thought": "\"Even though I feel like I'm in the passenger's seat of myself and just following myself around, I still do have complete control of my own actions and what becomes of them\""
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "Hi there, my life has been pretty tiring lately. I don't think I'm depressed, but recently I've had absolutely no motivation to to things, even small and simple tasks like filling out a sheet from school or attending an online recital where my peers and teachers were waiting for me. I can't find motivation to get out of bed until late afternoon, and if I weren't forced out of bed by a ringing alarm clock on the other side of my room, I don't think I'd get up at all.",
+            "time": "Wed Nov 15 2023 20:55:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I see it less of procrastinating now and more of an inability. I really don't know what I'm supposed to do since I just do absolutely nothing nowadays. The only reason my grades in school are okay is because my teachers like me as a person.",
+            "time": "Wed Nov 15 2023 20:55:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Because I've been so messy and lifeless for a really long time, I often decline outings with my friends, and that's morphed into them seeing me as untrustworthy since I have to come up with an excuse. And as of last week, my best friend has stopped speaking to me and messaging me entirely. He's been on my mind a lot now, and it really sucks because I feel like he was some wonderful support to me. We had a really close relationship, and could have easily escalated to something romantic so I think it hurts a lot more than it would have if he were just a normal friend. :(",
+            "time": "Wed Nov 15 2023 20:55:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thanks for the help, hope we get somewhere ",
+            "time": "Wed Nov 15 2023 20:55:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": ":)",
+            "time": "Wed Nov 15 2023 20:55:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you've been going through a tough time lately. It can be incredibly draining when you feel a lack of motivation and struggle to engage in tasks that used to be simple for you. It's understandable that you're feeling concerned and frustrated about this. I can see that your value of connection and support is being threatened with the loss of your best friend. Losing that special connection can be really painful.\n",
+            "time": "Wed Nov 15 2023 20:55:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Can you tell me more about what's most troubling to you about your lack of motivation and the loss of your friend?",
+            "time": "Wed Nov 15 2023 20:55:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It's mostly been like this for as long as I can remember. Recently it's gotten a lot worse, though, from procrastination to just a complete block in my brain to do anything at all. Procrastination before was mostly just putting off work and rushing it in the last few hours, nowadays I often wait around and just see the due date pass by without starting. Doesn't feel like I can do much at all.",
+            "time": "Wed Nov 15 2023 20:56:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can understand why that would be troubling for you. It sounds like you're experiencing a significant shift in your motivation and productivity, and it's becoming more difficult to even start tasks or meet deadlines. The feeling of being blocked and unable to do anything can be incredibly frustrating. I can see your value of achievement and success may be feeling threatened in this situation.\n",
+            "time": "Wed Nov 15 2023 20:56:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're in the midst of these feelings, what thoughts come up for you? And when you think those thoughts, what feelings do you experience?",
+            "time": "Wed Nov 15 2023 20:56:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes, that's correct. It's pretty debilitating :(",
+            "time": "Wed Nov 15 2023 20:56:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "(Btw I'll be on and off for about fifteen minutes, but will try to be as responsive as possible!)",
+            "time": "Wed Nov 15 2023 20:56:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "To answer your question what's most troubling: Mostly just think that time has passed and that I still haven't done any work whatsoever - wondering where something in the procrastination cycle went wrong.",
+            "time": "Wed Nov 15 2023 20:57:22 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I understand that thought pattern. So when you're in this cycle of procrastination and not getting any work done, the thought that stands out to you is the realization that time has passed and you haven't made any progress. It's like a feeling of seeing deadlines approach without having taken any action. Is that correct? And when you have that thought, what feelings come up for you?",
+            "time": "Wed Nov 15 2023 20:57:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes, that's accurate",
+            "time": "Wed Nov 15 2023 20:57:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel helpless. It often feels like I'm (conscious bit) just asleep and every so often when I wake up, I'm actually experiencing things and feeling some semblance of the emotions that I usually only have a sort of outline of. I get the feeling that I'm following myself around.",
+            "time": "Wed Nov 15 2023 20:58:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds really tough. Experiencing feelings of helplessness and as if you're sleepwalking through life or merely observing yourself can be quite disconcerting. It's like you're disconnected from your own experiences and feelings. It seems your value for self-awareness and engagement with life is being challenged right now. \n",
+            "time": "Wed Nov 15 2023 20:58:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, that's it!",
+            "time": "Wed Nov 15 2023 20:59:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And when you feel this way, helpless and disconnected, what behaviors do you notice? For instance, what actions do you find yourself doing or not doing?",
+            "time": "Wed Nov 15 2023 20:59:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I just find myself doing nothing. Or at least, nothing that needs to be done. ",
+            "time": "Wed Nov 15 2023 20:59:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like a tough place to be, when daily tasks or obligations feel out of reach and you end up doing nothing, even if those tasks are necessary. It's as if those feelings of helplessness and disconnection are leading to behavior that is actually reinforcing your sense of inertia, and somehow moves you away from your values of self-awareness, connection, and achievement. \n",
+            "time": "Wed Nov 15 2023 20:59:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Here are some notes I've made about your experience:\n",
+            "time": "Wed Nov 15 2023 20:59:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "For as long as you can remember, you've had a struggle with procrastination, but recently it's gotten worse and turned into a complete block in your ability to do anything. You realize that time has passed, yet you've made no progress with your tasks, leading to a feeling of seeing deadlines approach without having taken any action. You feel helpless, as if you're sleepwalking through your life or just observing yourself from a distance, feeling disconnected from your own experiences. As a result, you find yourself doing nothing at all, even when there are tasks that need to be done.\n\nDoes this seem accurate to your experience?",
+            "time": "Wed Nov 15 2023 21:01:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah! Since elementary school, actually, I was always lopped into those \"gifted kid programs\" so I always assumed that's just how things worked in the brain of those gifted kids- but now I realize I'm probably too far into life that I don't know how to put hard effort and actually work for something. This adds to the helpless feeling when I just do nothing instead of actually starting and getting things done.",
+            "time": "Wed Nov 15 2023 21:01:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see, your early experiences as a \"gifted kid\" seem to have shaped your expectations and your relationship with work and effort. It can certainly feel disorienting and distressing when the coping mechanisms or patterns that once seemed to work okay are no longer effective. When you think \"I don't know how to put in hard effort and actually work for something,\" it enhances that feeling of helplessness and leads to the behavior of not taking action. \n",
+            "time": "Wed Nov 15 2023 21:01:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yesss!!!!",
+            "time": "Wed Nov 15 2023 21:02:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "its a loop",
+            "time": "Wed Nov 15 2023 21:02:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "By weaving all these threads together, it seems that the events of recently experiencing a more severe lack of motivation, witnessing deadlines pass by without action, and reflecting on your past as a \"gifted kid\" have all contributed to a few core troubling thoughts such as \"something in the procrastination cycle went wrong,\" \"I don't know how to put in hard effort and actually work for something,\" and \"time has passed, and I haven\u2019t done any work whatsoever.\"\n",
+            "time": "Wed Nov 15 2023 21:02:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This cycle appears to be reinforcing itself: the more you're not doing anything, the more these troubling thoughts may perpetuate, the more helpless and disconnected you feel, and the stronger the urge becomes ",
+            "time": "Wed Nov 15 2023 21:03:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "\nto do nothing, resulting in a perpetuating negative loop.\n",
+            "time": "Wed Nov 15 2023 21:03:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you're caught in this cycle, it can feel like you're further from your values of self-awareness, connection, achievement, and hard work. Looking back at your time in the \"gifted kid programs,\" you may yearn for the sense of natural talent and ease, yet now feeling as though you're facing a significant roadblock to fulfilling those expectations. This might cause you to question your abilities, and it might seem like each missed task or due date erodes your self-confidence even further. \n",
+            "time": "Wed Nov 15 2023 21:03:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "holy shit",
+            "time": "Wed Nov 15 2023 21:03:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah",
+            "time": "Wed Nov 15 2023 21:03:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yeah that's accurate, way too accurate I'm incredibly surprised",
+            "time": "Wed Nov 15 2023 21:03:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You know, what you're experiencing can be linked to some cognitive traps or what we affectionately call \"Cheeses\" here at Cheeseburger Therapy. These cognitive traps can distort our perceptions and reinforce unhelpful thought cycles. It seems like there could be a couple of Cheeses at play here, one of which is the \"Control Fallacy.\"\n",
+            "time": "Wed Nov 15 2023 21:03:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Control Fallacy is the belief that you should be able to control everything in your life entirely and if you can't, it means there's something wrong with you. When applied to your thought, \"I don't know how to put in hard effort and actually work for something,\" it's like expecting yourself to be in absolute control of your motivation and productivity. If you aren't, it leads to feelings of helplessness.\n",
+            "time": "Wed Nov 15 2023 21:04:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Another one is \"Labeling.\" Labeling is when we assign fixed, global labels to ourselves or others based on specific behaviors or events. When you think about your past as a \"gifted kid\" and connect it to your present difficulties, it's like you're labeling yourself based on past experiences and expectations. This label can make you feel stuck and",
+            "time": "Wed Nov 15 2023 21:04:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "constrain your view of yourself, hindering your ability to engage with tasks in the present moment.\n",
+            "time": "Wed Nov 15 2023 21:04:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes and yes",
+            "time": "Wed Nov 15 2023 21:04:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you. It feels better to know that someone can pin it down",
+            "time": "Wed Nov 15 2023 21:04:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In your case, the event of struggling with a lack of motivation triggers these thoughts - \"I don't know how to put in hard effort and actually work for something\" laced with Control Fallacy, and \"I'm just a gifted kid who doesn't know how to work hard\" tinged with Labeling. Being under the influence of these cheeses leads to feelings of helplessness and disconnection. And as a result, you find yourself doing nothing, further reinforcing the cheese-influenced thoughts and feelings.\n",
+            "time": "Wed Nov 15 2023 21:05:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Understanding these Cheeses can offer a compassionate view of your experiences. It can show how these patterns of thinking, though they may have appeared helpful or protective at some point, are now limiting your potential and distancing you from your core values. This is not a fault or a flaw; it's a very human response to challenging situations. \n",
+            "time": "Wed Nov 15 2023 21:05:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you so much honestly, I'm not sure what to say. ",
+            "time": "Wed Nov 15 2023 21:05:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "The cheesy thoughts really struck me when I realized how many holes there were in my conclusions",
+            "time": "Wed Nov 15 2023 21:05:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Can't really believe how clear it should've been, but I'm really glad that this is all starting to make more sense now",
+            "time": "Wed Nov 15 2023 21:05:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I really do think I'm going to take control, or at least try to from now on, I'm really surprised and am not sure what to expect",
+            "time": "Wed Nov 15 2023 21:05:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "but change is change, and I think that's what I'm looking for lol.",
+            "time": "Wed Nov 15 2023 21:05:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're very welcome, and I'm really glad to hear that discussing these \"Cheeses\" has been helpful for you. It's normal to have these distortions in our thinking\u2014we all do from time to time. The important part is beginning to recognize them and understanding how they influence our thoughts, feelings, and behaviors. It can be a huge step towards change.\n",
+            "time": "Wed Nov 15 2023 21:05:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And you're absolutely right\u2014change *is* change, and any step towards it can be incredibly powerful. Sometimes it might be a trial-and-error experience to take back control, but remember: every step, no matter how small, counts.\n",
+            "time": "Wed Nov 15 2023 21:06:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In light of this newfound perspective, considering your past experiences and current understanding, could you think of a new thought you could tell yourself when faced with similar situations? What's a new thought that could support your values of self-awareness, connection, achievement, and hard work?",
+            "time": "Wed Nov 15 2023 21:06:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That sounds great, I'll just shoot off an idea I've had sticking around my head for the last few minutes?",
+            "time": "Wed Nov 15 2023 21:06:11 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Absolutely, I'd love to hear the new thought that you have in mind. Please go ahead and share it.",
+            "time": "Wed Nov 15 2023 21:06:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Okay so like",
+            "time": "Wed Nov 15 2023 21:06:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "even though I feel like I'm in the passenger's seat of myself and just following myself around, I still do have complete control of my own actions and what becomes of them",
+            "time": "Wed Nov 15 2023 21:07:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "maybe too long",
+            "time": "Wed Nov 15 2023 21:07:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a great new thought! It acknowledges your feelings of disconnect and being in the passenger's seat while also affirming your ability to take control of your own actions. This thought supports your values of self-awareness and being in control.\n",
+            "time": "Wed Nov 15 2023 21:07:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's imagine you're in one of those situations where you're struggling with lack of motivation or feeling disconnected. Imagine telling yourself, \"Even though I feel like I'm in the passenger's seat of myself and just following myself around, I still do have complete control of my own actions and what becomes of them.\" ",
+            "time": "Wed Nov 15 2023 21:07:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does thinking that new thought make you feel?",
+            "time": "Wed Nov 15 2023 21:07:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel a lot less helpless when it comes to something like a perceived inability to do things, since I realize it's just a choice that needs to be made.",
+            "time": "Wed Nov 15 2023 21:07:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's fantastic! Feeling less helpless and realizing that you do have choices can be really empowering. The new thought seems to be igniting a sense of control and capability within you, which is exactly what we're aiming for. \n",
+            "time": "Wed Nov 15 2023 21:07:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Exercising this mental muscle of choosing your thoughts can definitely take practice, but the benefits can be incredibly rewarding. \n",
+            "time": "Wed Nov 15 2023 21:07:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, imagine you are in this familiar situation, having the new thought \"Even though I feel like I'm in the passenger's seat of myself and just following myself around, I still do have complete control of my own actions and what becomes of them\", feeling less helpless and more in control. Do you notice any potential changes in your behavior? Any new actions you might feel inspired to take?",
+            "time": "Wed Nov 15 2023 21:07:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well, I hope that will motivate me to get some work done -but it definitely does make me feel less helpless. ",
+            "time": "Wed Nov 15 2023 21:07:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a wonderful step forward! By replacing the previous troubling thoughts with this new proactive thought, you're likely to feel more motivated, less helpless, and potentially more inclined to get to work. This aligns well with your values of hard work, achievement, and self-awareness. \n",
+            "time": "Wed Nov 15 2023 21:08:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Going through the process of understanding your thoughts and their connection to your feelings and behaviors can be challenging, so, how do you feel now as compared to when we started our conversation?",
+            "time": "Wed Nov 15 2023 21:08:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel really excited to see how this works out for me. Thank you so much, I really don't know what would've happened otherwise!",
+            "time": "Wed Nov 15 2023 21:08:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'll be keeping this link for quite a while I think :) Thanks again, I feel a ton better now.",
+            "time": "Wed Nov 15 2023 21:08:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Oh by the way, before I go, I remember seeing this site as an ad on an imageboard, it mentioned only paying if the therapy helped? I'm pretty scared of putting my card info on the internet, but was wondering if there was some PO box I could send to instead lol. Might be silly but I wanna help out lol",
+            "time": "Wed Nov 15 2023 21:10:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Before we started, I felt pretty helpless and felt like there wasn't much that I could've done other than just sit and wait for the froggy pot (I don't know if this will be confusing to future people reading the review lol) to boil over, but now I feel like I have a lot more energy and confidence that I can change my actions and my own future. A much larger sense of control.",
+            "time": "Wed Nov 15 2023 21:10:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear that you're feeling excited about this new perspective. It's a great sign that you're on your way to feeling better. And you're very welcome! We're here to help and I'm glad I could be of some assistance today. \n",
+            "time": "Wed Nov 15 2023 21:10:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Regarding your question about the payment option, I would suggest reaching out to the customer service department for this. I don't handle billing or contact information. They should be able to provide more information and the different methods of payment that are available. :)\n",
+            "time": "Wed Nov 15 2023 21:10:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You can also leave the feedback after the end of the session (as sort of review)",
+            "time": "Wed Nov 15 2023 21:11:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "\n1. How are you feeling now compared to when we started?",
+            "time": "Wed Nov 15 2023 21:11:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "2. Select all that apply:\na. I felt heard and understood\nb. I have a better understanding of myself (thoughts, feelings, behavior)\nc. I have a new thought that feels true to me\nd. I would recommend this service to others\ne. I believe this new thought will work and positively change my behavior",
+            "time": "Wed Nov 15 2023 21:11:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ooh, all of them apply! a b c d e. I've already sent the site to a friend of mine just in case they feel they'd need it or would like to send it to someone who needs it",
+            "time": "Wed Nov 15 2023 21:11:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "There are other questions as well that you can answer",
+            "time": "Wed Nov 15 2023 21:11:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm rating 5, I really don't know how I didn't see my fallacies and I feel like this really helped me understand a lot better",
+            "time": "Wed Nov 15 2023 21:12:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "thank you so much :)",
+            "time": "Wed Nov 15 2023 21:13:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for participating in this and please don't hesitate to come back if you want to discuss this more or anything else that might be troubling. Take care!",
+            "time": "Wed Nov 15 2023 21:13:13 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

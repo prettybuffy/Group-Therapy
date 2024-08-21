@@ -1,0 +1,378 @@
+{
+    "notes": {
+        "thought": "\"I don't belong here\"\n\"I'm not prepared\"",
+        "event": "in an internship that you're passionate about because it gives you a chance to help children survivors of trauma",
+        "feelings_behaviors": "stress, sadness, fear",
+        "labels": {
+            "black-or-white-thinking": true
+        },
+        "new_thought": "\"I earned this internship through hard work, and with my solid foundation, I can continue to learn and contribute positively.\""
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "A lot of worry about internship and fear of workload and not meeting expectations. Stress. Feeling lonely. And sad during the evenings. Family is out of the country temporarily. Crying often.",
+            "time": "Wed Nov 15 2023 21:26:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Hello, thank you for reaching out and being open about what you're going through. I can hear that you're experiencing quite a bit of stress and sadness, and that it's linked to various things happening in your life right now - the uncertainty about internships, the fear of not meeting workload expectations, feeling lonely in your family's absence, and the frequent crying, especially during the evenings. It sounds really tough, and I want you to know that it's okay to have these feelings. You're well on your way to feeling better just by sharing this with me.\n",
+            "time": "Wed Nov 15 2023 21:26:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hello",
+            "time": "Wed Nov 15 2023 21:26:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's continue our conversation and see if we can uncover more about what's going on. Can you tell me more about these fears you mentioned - the fear of not meeting workload expectations and the stress about the internships? What are some of the thoughts running through your mind about these things?",
+            "time": "Wed Nov 15 2023 21:26:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Right now the thing that is stressing me out the most is my internship and managing workload and feeling like I can\u2019t do it even though I want to. I am scared of being not prepared. Like that, I don\u2019t know enough to be able to help others. ",
+            "time": "Wed Nov 15 2023 21:26:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see. It sounds like you're dealing with two big stressors here: managing your internship workload, and the fear that you aren't adequately prepared or knowledgeable enough to help others, despite your desire to do so. That's a lot to handle and it's totally understandable to feel overwhelmed. In essence, it feels like a struggle between your aspiration to be helpful and efficient, and the worry that you may not be equipped enough for it. Is that accurate?\n",
+            "time": "Wed Nov 15 2023 21:26:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes, I feel a lot of self-doubt and not belonging. I did this internship because it\u2019s a requirement to graduate, but I wanted to work there to help children survivors of trauma and sexual exploitation in any way that I could. ",
+            "time": "Wed Nov 15 2023 21:27:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That is an incredibly admirable goal that speaks of a deep value you hold: compassion, and the desire to support those who are vulnerable. It must be very challenging to balance this value with feelings of self-doubt and not belonging, especially when it's something you care about and feel a responsibility to fulfill due to graduation requirements. \n",
+            "time": "Wed Nov 15 2023 21:27:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "On one hand, you deeply want to be of service and make a difference to these children in recovery. On the other hand, you're grappling with feeling unprepared, perhaps fearing that you won't meet your own expectations, or those of the internship. And those feelings might even amplify your sense of loneliness and sadness, making it tough to combat your fears and doubts.  \n",
+            "time": "Wed Nov 15 2023 21:27:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The feeling that \"I can't do it\" seems to be playing a significant role here. Can you tell me more about this thought? What is there about this internship that makes you feel this way?",
+            "time": "Wed Nov 15 2023 21:27:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Like I\u2019m not prepared. Like I don\u2019t know enough to be able to help others. Not being competent enough. Choking during presentations. Dreading the high workload to come. Worry about not being able to manage internship, school, and life for when school comes into the picture in September. Fear is speaking up for fear of how it will sound or come out.",
+            "time": "Wed Nov 15 2023 21:28:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "fear of speaking out or fear of how it will come out or sound",
+            "time": "Wed Nov 15 2023 21:28:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It is a lot of shadowing and training. I\u2019m also learning about assessments. I do felt excited to be there, lucky, and also intimidated.",
+            "time": "Wed Nov 15 2023 21:28:34 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It seems like the situation involves an exciting opportunity to be part of a noble cause that aligns with your core values - helping children. At the same time, you're feeling intimidated by the shadowing, training, and learning about assessments. Intimidation can make us feel small and doubtful, and perhaps that's why you're experiencing this thought of \"I can't do it.\" \n",
+            "time": "Wed Nov 15 2023 21:28:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Learning new things and stepping into roles we care about often come with a form of intimidation. It's interesting how excitement, luck, fear and self-doubt can all exist at the same time, isn't it? \n",
+            "time": "Wed Nov 15 2023 21:28:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What do you find most troubling about this situation?",
+            "time": "Wed Nov 15 2023 21:28:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "like I don\u2019t belong here and I\u2019m just not prepared",
+            "time": "Wed Nov 15 2023 21:29:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds as though the idea of \"I don't belong here and I'm not prepared\" is really weighing on you. It's the kind of thought that holds a lot of power and can come with a feeling of unease and self-doubt. \n",
+            "time": "Wed Nov 15 2023 21:29:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you think \"I don\u2019t belong and I\u2019m not prepared,\" how does it make you feel?",
+            "time": "Wed Nov 15 2023 21:29:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel a lot of self doubt",
+            "time": "Wed Nov 15 2023 21:29:39 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I also feel stressed out and cry ",
+            "time": "Wed Nov 15 2023 21:29:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's tough when those doubts about belonging and preparedness stir up such intense feelings of stress, even leading you to tears. It's understandable that you're experiencing such strong emotions, given how much the internship means to you and the high expectations you've placed on yourself. \n",
+            "time": "Wed Nov 15 2023 21:30:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When this wave of stress overtakes you and these tears come, are there any actions or behaviors that you find yourself doing or not doing?",
+            "time": "Wed Nov 15 2023 21:30:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't speaking up because i'm so afraid",
+            "time": "Wed Nov 15 2023 21:30:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "like i fear how it will sound ",
+            "time": "Wed Nov 15 2023 21:31:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like the stress and feelings of inadequacy lead directly to your behavior of not speaking up because of the worry about how your words might be received. It must be incredibly tough to feel silenced and contained by these concerns. All of this must be making it challenging for you to fully engage with your internship and may be taking you farther from your values of helping and making a difference. \n",
+            "time": "Wed Nov 15 2023 21:31:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, if we try to summarize what we've talked about, we have this situation where you're in an internship that you're passionate about because it gives you a chance to help children survivors of trauma. However, the demanding nature of the work, the training, and the learning tasks, along with the fear of sounding inadequate or unprepared, has led to thoughts such as \"I don't belong here\" and \"I'm not prepared\". \n",
+            "time": "Wed Nov 15 2023 21:31:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These thoughts create feelings of stress and sadness, leading to behaviors such as crying and avoiding speaking up. This experience feels like it's taking you further away from your fundamental human value - your desire to contribute and make a difference in the lives of the children you are working with. Would you say I've understood your experience accurately so far?",
+            "time": "Wed Nov 15 2023 21:31:49 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you for summarizing. That is everything!",
+            "time": "Wed Nov 15 2023 21:31:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It was relaxing and I feel light when I was feeling heavy",
+            "time": "Wed Nov 15 2023 21:32:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for confirming that. I appreciate your openness in sharing your experiences. It can be really difficult to discuss topics that make us feel vulnerable and I commend your courage.\n",
+            "time": "Wed Nov 15 2023 21:32:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Here's how the notes of your experience that has been summarized based on our conversation:\n\n- Event: You started an internship that involves helping children survivors of trauma, which you care deeply about. This role involves shadowing and training while learning about assessments. It's also a requirement to graduate.\n- Thoughts: You're having thoughts like \"I don't belong here\" and \"I'm not prepared.\"\n- Feelings: These thoughts stir up strong feelings of stress and sadness, leading you to cry often.\n- Behaviors: You avoid speaking up for fear of how your words might be perceived.",
+            "time": "Wed Nov 15 2023 21:32:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The stressful situation of starting this intimidating internship, combined with thoughts of self-doubt and feeling unprepared, has been generating intense feelings of stress and sadness. This emotional wave leads you to avoid speaking up, which potentially hinders your ability to engage fully in your internship duties. Hence, it seems to take you away from actualizing your value of making a difference in the lives of the children you are working with.\n\nDoes this capture your experience, or is there anything else you'd like to add or change?",
+            "time": "Wed Nov 15 2023 21:32:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "No that is everything",
+            "time": "Wed Nov 15 2023 21:32:59 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I appreciate the affirmation. It takes strength to face our fears and doubts and I respect your willingness to share your story with me. \n\n",
+            "time": "Wed Nov 15 2023 21:33:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Through recognizing and understanding this cycle you are embedded in, there can be opportunities for change and growth. There's a concept we use in cognitive-behavioral therapy known as \"Cheeses\" (also called cognitive distortions). These are ways of thinking our mind convinces us are true, but may be clouding our view of reality and contributing to our distress.\n",
+            "time": "Wed Nov 15 2023 21:34:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "For your situation with the recurring thought - \"I don\u2019t belong here and I'm not prepared,\" it seems like there's a slice of cheese that is the \u201cImpostor Syndrome.\u201d This is a pattern of thinking where we doubt our abilities and feel like a fraud, often despite evidence of competence. It's as if our mind is donning a pair of impostor-tinted glasses that colors our world with self-doubt and feelings of inadequacy.\n",
+            "time": "Wed Nov 15 2023 21:34:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I can see that",
+            "time": "Wed Nov 15 2023 21:34:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "As you are in the environment of your internship, participating in training activities, and learning about assessments, your mind is putting on these glasses and telling you that you don't belong there; that you're unprepared. From here, it's only a small leap to intense emotions of stress and sadness and behavior of avoiding speaking up. Consequently, this cycle reinforces your impostor feelings, causing you to further struggle with self-doubt and sadness.\n",
+            "time": "Wed Nov 15 2023 21:34:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're in the training or learning phase of your internship. Your mind dons the \"Impostor Syndrome\" glasses, leading to thoughts of \"I don\u2019t belong here and I'm not prepared.\" (Cheese) This brings you intense feelings of stress and sadness. You then avoid speaking up due to fear of how your words might be perceived.",
+            "time": "Wed Nov 15 2023 21:35:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This behavior reinforces your feelings of being an impostor",
+            "time": "Wed Nov 15 2023 21:35:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Gosh that makes so much sense",
+            "time": "Wed Nov 15 2023 21:35:56 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Recognizing this cycle and understanding how the Impostor Syndrome cheese colors your thoughts can be a first step towards seeing your situation from a broader perspective. It can help highlight how you may be putting pressure on yourself to be perfect; potentially setting unrealistically high expectations for yourself at this beginning stage of your internship, which could be contributing to your stress and sadness. \n",
+            "time": "Wed Nov 15 2023 21:36:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I definitely relate. It\u2019s like I\u2019m being my own bully.",
+            "time": "Wed Nov 15 2023 21:36:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see how you feel that way and it's certainly tough when it seems like we are our own biggest critic. Understanding this 'Impostor Syndrome' or as we call it, 'Cheese,' can be a powerful way of letting some light in and seeing patterns of thoughts as less personal and more part of a common human experience. \n",
+            "time": "Wed Nov 15 2023 21:36:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, yes, there may be a feeling that you're 'bullying' yourself but it might be helpful to know that this isn't uncommon and in fact, many people grapple with this feeling of being an imposter, especially when they are stepping into new roles or situations that they care deeply about. \n",
+            "time": "Wed Nov 15 2023 21:36:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're not alone in this and recognizing how your own thinking patterns are driven by this 'Impostor Syndrome Cheese\u2019 and being able to discern these patterns is a huge step forward. And remember, you're not in this on your own - I'm here to help.\n",
+            "time": "Wed Nov 15 2023 21:36:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Do you feel like we've explored our cheese enough, now? Or would you like to look for others? Or are you ready to try to create a new thought for when you're in the challenging situation (your internship)?",
+            "time": "Wed Nov 15 2023 21:36:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I like that connection a lot.",
+            "time": "Wed Nov 15 2023 21:37:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you so much! I appreciate our conversation",
+            "time": "Wed Nov 15 2023 21:37:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I want to create a new thought!! :)",
+            "time": "Wed Nov 15 2023 21:38:03 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a wonderful idea! Creating a new thought can lead to shifts in how you feel and behave in your internship situation. \nTo get there, let's go back to the internship environment. Imagine yourself in the training stage, learning about assessments and all those tasks. But this time, let\u2019s put aside the Impostor Syndrome glasses and that thought, \"I don\u2019t belong here and I'm not prepared.\" \n",
+            "time": "Wed Nov 15 2023 21:38:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Try to think of a compassionate, realistic, and constructive thought that could replace it. For example, you might say, \"I'm learning and growing every day, and it's okay not to know everything right away.\" \n",
+            "time": "Wed Nov 15 2023 21:38:29 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "What positive or affirming thought comes to mind for you, within this context?",
+            "time": "Wed Nov 15 2023 21:38:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I\u2019m having a hard time",
+            "time": "Wed Nov 15 2023 21:39:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "But I was thinking, I can do this I got this internship because I worked hard and I\u2019m",
+            "time": "Wed Nov 15 2023 21:39:20 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Have a solid foundation",
+            "time": "Wed Nov 15 2023 21:39:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\nCan you please assist me?",
+            "time": "Wed Nov 15 2023 21:39:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Absolutely, I'm here to assist you. It's completely normal to struggle with coming up with a new thought, especially when you've been dealing with a challenging situation. The thought you are leaning towards suggests that you are recognizing your efforts and capabilities - \"I can do this because I got this internship after working hard and I have a solid foundation.\"\n",
+            "time": "Wed Nov 15 2023 21:39:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a great start! Perhaps we could modify it slightly to make it even more positive and resilient. How about: \n",
+            "time": "Wed Nov 15 2023 21:39:40 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "\"I earned this internship through hard work, and with my solid foundation, I can continue to learn and contribute positively.\"\n",
+            "time": "Wed Nov 15 2023 21:39:43 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This thought recognizes your past effort, acknowledges your capacity to grow, and emphasizes a confidence that you can make a valuable contribution. How does this thought resonate with you?",
+            "time": "Wed Nov 15 2023 21:39:47 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes! This one resonates with me way more!\n",
+            "time": "Wed Nov 15 2023 21:40:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It really just mirrors me like my values, work, and I enjoy growing and challenging myself.",
+            "time": "Wed Nov 15 2023 21:40:35 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's wonderful to hear! Framing your thought this way - \"I earned this internship through hard work, and with my solid foundation, I can continue to learn and contribute positively\" - truly reflects the individual you are. This perspective acknowledges not only your determination but also your capacity for growth and making a meaningful impact. \n",
+            "time": "Wed Nov 15 2023 21:40:54 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's take another step. Imagine yourself back in your internship environment, amidst the training and learning. Picture yourself having this thought, believing \"I earned this internship through hard work, and with my solid foundation, I can continue to learn and contribute positively\".\n",
+            "time": "Wed Nov 15 2023 21:40:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does this thought make you feel comapred to when we started??",
+            "time": "Wed Nov 15 2023 21:41:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "My thinking feels clearer, I feel light, my chest doesn\u2019t feel pressure, and I feel positive.",
+            "time": "Wed Nov 15 2023 21:41:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's such a positive transformation! Feeling lighter, having a clear mind, and actually feeling positive, is a significant shift from where you began. It's these kinds of shifts in thinking that can lead to real change in feelings and behaviour. \n",
+            "time": "Wed Nov 15 2023 21:41:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you! :)",
+            "time": "Wed Nov 15 2023 21:42:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You're very welcome! I am truly inspired by your willingness to explore your feelings, thoughts, and behaviors bravely. It's really great to see that you're feeling lighter and more positive. Remember to tap into this new thought - \"I earned this internship through hard work, and with my solid foundation, I can continue to learn and contribute positively\" - whenever you're faced with similar challenging situations or feelings of stress and self-doubt.\n",
+            "time": "Wed Nov 15 2023 21:42:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Would you be okay if we make this session public?",
+            "time": "Wed Nov 15 2023 21:42:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "yes as long as it's anonymous!!",
+            "time": "Wed Nov 15 2023 21:42:33 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}

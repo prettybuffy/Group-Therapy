@@ -1,0 +1,468 @@
+{
+    "notes": {
+        "thought": "I will lose focus\nI can not accomplish what I've set out to do.",
+        "event": "Usually begins when you perceive a lack of progress on your goals.",
+        "feelings_behaviors": "fear, anxiety",
+        "labels": {
+            "black-or-white-thinking": true
+        },
+        "new_thought": "It's a time to engage with reality...in new ways."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "I'm worried that I won't be able to accomplish my goals.",
+            "time": "Wed Oct 25 2023 20:00:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "One fear is that I lose track and focus. Perhaps because I set too many of them. Or perhaps I set new goals *because* I lose focus.",
+            "time": "Wed Oct 25 2023 20:00:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I hear your concern about potentially not being able to reach your goals. It seems like a cycle where you end up losing focus and then set new goals, and you're worried that this might be obstructing your progress. Is this accurate, or am I missing something?\n",
+            "time": "Wed Oct 25 2023 20:01:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "By the way, I'm luana and I'm here to help you unpack and hopefully find constructive ways to deal with these kinds of trouble spots.",
+            "time": "Wed Oct 25 2023 20:01:35 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Oh hi, thank you. You are awake. :P",
+            "time": "Wed Oct 25 2023 20:01:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Hello! I'm here and ready to help. \ud83d\ude0a ",
+            "time": "Wed Oct 25 2023 20:02:01 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, and that makes me think that maybe overall I'm afraid that I've been too ambitious, and am setting myself up for a failure where I don't achieve any of the ambitious things... like, perhaps I am not setting up my life to have a fallback. I'm going all-or-nothing. Man, maybe this is more black-or-white thinking.\n",
+            "time": "Wed Oct 25 2023 20:02:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "(It's crazy how useful this is for my thought, just to have another person there, and summarize and highlight things like this.)",
+            "time": "Wed Oct 25 2023 20:02:19 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like your thoughts are centered around the fear of failing due to high ambitions. You may be setting high goals for yourself, yet you're concerned that this might be hindering your success instead of bolstering it. Your reflection on this possible \"all-or-nothing\" perspective is insightful. \n",
+            "time": "Wed Oct 25 2023 20:02:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see a value in this for you - perhaps a desire for achievement or personal growth? It must be challenging to navigate these worries while also pursuing your aspirations.\n",
+            "time": "Wed Oct 25 2023 20:02:37 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Your intelligence and self-awareness are clear in the way you're examining your thoughts and behavior, especially your analysis on potential black or white thinking at play. That's a significant part of making changes in any area of life. Now, if you don't mind, I'd like to delve deeper into the details.",
+            "time": "Wed Oct 25 2023 20:02:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you start to lose focus on your current goals and begin setting new ones, what usually happens? Can you share a bit more about that process?",
+            "time": "Wed Oct 25 2023 20:02:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ok good question, thank you.\n",
+            "time": "Wed Oct 25 2023 20:03:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I get afraid of not accomplishing goals when I see time going by without clear progress on them, and when I notice myself not focused. Like, this morning, I wasn't focused.\n",
+            "time": "Wed Oct 25 2023 20:03:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That makes me think I might lose track and focus, and get too diverse in what I do, and that I won't accomplish goals.",
+            "time": "Wed Oct 25 2023 20:03:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So if I understand correctly, when you perceive that time is passing without any noticeable progress on your goals, this triggers fear and a lack of focus. A perfect example is your experience just this morning. \n",
+            "time": "Wed Oct 25 2023 20:03:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This fear then leads you to think that you might be spreading yourself too thin across various endeavours, ultimately not achieving your original goals. Can you share more about how these thoughts make you feel?",
+            "time": "Wed Oct 25 2023 20:03:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I feel a background anxiety, a fear, a worry. And sometimes that leads me to distract myself further into some really low-grade activities like watching youtubes.",
+            "time": "Wed Oct 25 2023 20:03:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Ah, it sounds challenging that these thoughts of potentially not achieving your goals stir up feelings of anxiety and fear, which in turn might lead you to engage in distractions like watching videos on YouTube. \n",
+            "time": "Wed Oct 25 2023 20:04:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "These activities, while enjoyable for a moment, likely don't bring you closer to your ambitions, possibly causing more worry. I imagine this cycle could feel quite stressful and frustrating at times.\n",
+            "time": "Wed Oct 25 2023 20:05:02 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you for helping me with this. \n",
+            "time": "Wed Oct 25 2023 20:05:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "If I may recap what we've discovered so far:",
+            "time": "Wed Oct 25 2023 20:05:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Ok, I'm having an idea of something to add. Please continue and I'm going to try to make sense of this thought on the side if that's ok?\n",
+            "time": "Wed Oct 25 2023 20:05:41 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The event usually begins when you perceive a lack of progress on your goals which leads to the troubling thought that you might lose focus and not accomplish what you've set out to do. These thoughts bring up feelings of fear and anxiety. As a result, you often find yourself engaging in distracting behavior, like watching videos online instead of pursuing your goals.\n\nDoes that sound accurate or is there anything more you think could be relevant?",
+            "time": "Wed Oct 25 2023 20:06:07 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah and I also think if I'm setting too many goals or maybe I set new goals because I lose focus.",
+            "time": "Wed Oct 25 2023 20:07:08 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You've brought up a valuable point. The thought of setting too many goals, or even the act of setting new ones when losing focus on the previous ones, seems to play a significant role in this cycle.",
+            "time": "Wed Oct 25 2023 20:07:31 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "By understanding this pattern, it seems we're in a better position now to discuss what's most troubling about this situation for you. Is it the fear that you won't achieve your ambitious goals? The worry that you're spreading yourself too thin? Or something else?",
+            "time": "Wed Oct 25 2023 20:08:24 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think the most troubling aspect is \"I won't be able to accomplish my goals.\"",
+            "time": "Wed Oct 25 2023 20:08:47 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Because it's black and white..",
+            "time": "Wed Oct 25 2023 20:08:51 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I also think I see a new way this connects: (1) I have many long-term projects, and it's hard to keep the goals in mind, so I simplify them in my mind into something black-and-white. (2) Now that I have this black-and-white goal, when I find myself with challenges, I get afraid of the whole thing unraveling.",
+            "time": "Wed Oct 25 2023 20:08:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I see, so the idea \"I won't be able to accomplish my goals\" seems to be what's most troubling for you. It sounds like when you simplify your long-term project goals into a binary, black-and-white framework, it becomes an all-or-nothing proposition: total accomplishment or total failure. This could create a significant amount of pressure and lead to a fear of the whole project unraveling in the face of challenges. \n",
+            "time": "Wed Oct 25 2023 20:09:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can see why that thought would make you anxious, as it leaves no space for setbacks or partial achievements. It leaves you in position where you feel like you either have to do everything all at once or not at all. \n",
+            "time": "Wed Oct 25 2023 20:09:20 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does that sound accurate?",
+            "time": "Wed Oct 25 2023 20:09:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Absolutely",
+            "time": "Wed Oct 25 2023 20:09:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think the black-or-white thinking is how I am evaluating the future.",
+            "time": "Wed Oct 25 2023 20:10:14 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "As a failure or success. It feels binary.",
+            "time": "Wed Oct 25 2023 20:10:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad the summary resonates with you. Let's now delve deeper into your story.",
+            "time": "Wed Oct 25 2023 20:11:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, there you were, in the middle of working on your many long-term projects. Progress appears to be slow and time seems to be passing relentlessly. This rattles you, sparking the unsettling thought, \"I won't be able to accomplish my goals.\" It's a stark thought, black and white with no room for consoles ",
+            "time": "Wed Oct 25 2023 20:12:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "The gravity of failing to finish any of these ambitious goals starts to sink in and anxiety and fear cloud your mind. This is a precarious situation, teetering between the prospect of success and the dread of failure. In response to these unnerving feelings, you seek refuge in low-demand activities like watching YouTube videos. A temporary escape perhaps, but",
+            "time": "Wed Oct 25 2023 20:12:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "acting as a distraction from the real tasks at hand, which seems to prolong the anxiety as progress on your goals stagnates.\n",
+            "time": "Wed Oct 25 2023 20:12:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Undoubtedly, this situation has challenges, with your underlying value of achievement seemingly under threat. And yet, there's a cycle here where this black-and-white thinking appears to be driving your anxiety and consequent behavior. In an effort to soothe the fear and anxiety, you diverge to low-grade activities which you suspect are keeping you away from accomplishing your goals, ultimately perpetuating this distressing cycle. \n",
+            "time": "Wed Oct 25 2023 20:12:43 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does this story feel like an accurate reflection of your experience?",
+            "time": "Wed Oct 25 2023 20:12:48 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah",
+            "time": "Wed Oct 25 2023 20:12:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you for helping me with this btw",
+            "time": "Wed Oct 25 2023 20:13:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now with this understanding, let's try to assess the thought \"I won't be able to accomplish my goals.\" This reminds me of a cognitive distortion or a \"cheese\" which we call \"Black or White Thinking\" or \"All-or-Nothing Thinking.\" \n",
+            "time": "Wed Oct 25 2023 20:13:25 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Black or white thinking is when we view things only in absolutes. In this case, it might feel like either you accomplish all your goals perfectly, or you fail completely. There's no middle ground or allowance for partial success.\n",
+            "time": "Wed Oct 25 2023 20:13:32 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When looking at your situation through this lens, your black and white thinking makes it seem as if not promptly making progress equates to failure in reaching your goals. This can then spark anxiety and fear, leading you to distract yourself",
+            "time": "Wed Oct 25 2023 20:13:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Does the concept of Black or White Thinking make sense in the context of your thoughts? Can you see how this \"cheese\" is contributing to your situation?",
+            "time": "Wed Oct 25 2023 20:13:55 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah.\n",
+            "time": "Wed Oct 25 2023 20:14:05 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm seeing that this is a cycle.\n",
+            "time": "Wed Oct 25 2023 20:14:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think the B&Wness of \"accomplishing\" or \"not accomplishing\" the goals is a problem.\n",
+            "time": "Wed Oct 25 2023 20:14:13 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "As the black fear of \"not accomplishing\" becomes a strong thought that derails me into anxiety when I see time go by without clear progress.\n",
+            "time": "Wed Oct 25 2023 20:14:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "On the other hand, I think the white part of that thought \u2014 of \"accomplishing\" \u2014 is quite motivating for a period. But it has this dark side-effect.",
+            "time": "Wed Oct 25 2023 20:14:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Yes, you've really honed in on how the two sides of this \"Black and White\" cheese are impacting you. On one hand, envisioning \"accomplishment\" can indeed be motivating and propel you forward. But when perceived progress slows down, the pendulum swings to the other extreme of \"not accomplishing,\" fueling your fear and triggering anxiety.\n",
+            "time": "Wed Oct 25 2023 20:14:41 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This cycle seems to keep you either in a state of striving for perfection or berating yourself for the slightest hint of potential failure. Both extremes leave little room for flexibility or forgiving any perceived setback.\n",
+            "time": "Wed Oct 25 2023 20:14:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It seems like there might be some use in setting up interim goals, so that I slowly build instead of going all-or-nothing.",
+            "time": "Wed Oct 25 2023 20:16:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, I think that stress of the future is also about losing focus, which I think is about losing touch with reality. It's like, I have these projects in my head, and a lot of them, and I have to keep them all straight myself and remind myself because I have no boss and I have few other people holding me accountable. So it's quite a challenge. And I am concerned of living up to that challenge. Of keeping the right focus. And if I had smaller shades of accomplishment, and more touches with reality, then the world would be like a memory, holding me accountable.",
+            "time": "Wed Oct 25 2023 20:17:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "And reminding me and guiding me to focus, and also showing accomplishment along the way, so that I'm not scared of not accomplishing in a black-or-white way.",
+            "time": "Wed Oct 25 2023 20:17:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now let me ask you this: Is there a way for you to appreciate the progress made - no matter how small - rather than requiring perfect fulfillment of your goals? Removing this \"cheese\" might that add a hint of nuance and understanding to the definition of \"progress\" and \"accomplishment\"?\n",
+            "time": "Wed Oct 25 2023 20:17:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "For example, instead of splitting your goals into black and white, accomplished or not, you could think \u201cAny progress is a step forward,\u201d or \u201cLearning from challenges is also an accomplishment.\u201d",
+            "time": "Wed Oct 25 2023 20:17:44 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think a solution is to use more of the outside world to organize my goals. More interactions with people: customers, users of the software, etc.\n",
+            "time": "Wed Oct 25 2023 20:17:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Like, they will be reminders, and be little points of accomplishment.",
+            "time": "Wed Oct 25 2023 20:17:58 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a great insight! Replacing your black-and-white thinking with a more engaged, interactive approach where you communicate more with customers or software users will give you regular feedback. It could help you stay focused and provide reminders of your progress.\n",
+            "time": "Wed Oct 25 2023 20:18:09 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Not only that, but their feedback can help validate your efforts and become a tangible marker of your accomplishments, regardless of how big or small those may be. This way, even minor advancements in your goals can be celebrated, which might help reduce the fear and anxiety you've been feeling.\n",
+            "time": "Wed Oct 25 2023 20:18:15 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's consider this: imagine yourself back in the situation of seeing time going by without clear progress on your goals. Now replace your troubling thought \"I won't be able to accomplish my goals\" with the new thought \"Communicating and interacting with the people using my software will help me stay organized and make progress on my goals.\" How does this new thought make you feel?",
+            "time": "Wed Oct 25 2023 20:18:27 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Hmm..\n",
+            "time": "Wed Oct 25 2023 20:18:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think it removes some of the stress\u2014 but not exactly the stress that is caused by seeing time go by, but the underlying stress of fearing I'm not as good as I want to be. Perhaps this is the failure label that you were anticipating.\n",
+            "time": "Wed Oct 25 2023 20:18:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That stress of being a failure, with ideas and dreams that were never realized, who is distracting himself with youtube into an internal gaze, goes away when I get more reality contact.",
+            "time": "Wed Oct 25 2023 20:18:45 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like this new thought - reaching out to others for feedback and reminders of your progress - brings you relief from the internalized stress of fearing you're not as good as you want to be. It's wonderful to hear it helps you disconnect from that draining cycle of self-criticism and distraction, bringing you back into contact with reality.\n",
+            "time": "Wed Oct 25 2023 20:18:53 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "This ties back to your innate value of achievement or personal growth that we discussed earlier on. By breaking down your larger goals into smaller, measurable ones and seeking feedback from people who use your software, you nurture this value and make room for recognition of your progress, however slow or incremental.\n",
+            "time": "Wed Oct 25 2023 20:19:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It's like fitting together pieces of a puzzle. Each piece is an accomplishment in its own right, leading you closer to the bigger picture. So, imagine this new scenario: When time passes and you don't see obvious progress, instead of thinking, \"I won't be able to accomplish my goals,\" you begin to think, \"Communicating and interacting with the people using my software will help me stay organized and make progress on my goals.\" Consequently, even if that familiar anxiety starts creeping in, you take it as a note to reach out and engage with your users for feedback, grounding you back in reality, in contrast to escaping into YouTube to avoid the stress. \n",
+            "time": "Wed Oct 25 2023 20:19:23 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does taking these new actions make you feel, and what kind of actions do you imagine they'll lead to?",
+            "time": "Wed Oct 25 2023 20:19:28 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm feeling more focused and energized and connected to reality and life and the world and society.\n",
+            "time": "Wed Oct 25 2023 20:19:34 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I want to try wording that better, though...",
+            "time": "Wed Oct 25 2023 20:19:40 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's so good to hear. Feeling more focused, energized, and connected to reality and society is a significant shift from the earlier feelings of anxiety and fear.\n",
+            "time": "Wed Oct 25 2023 20:19:45 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "\"It's time to engage with reality.\"\n",
+            "time": "Wed Oct 25 2023 20:19:56 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "...in new ways",
+            "time": "Wed Oct 25 2023 20:19:59 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Feel free to take your time to articulate this new thought in a way that resonates with you the most. Remember, the goal here is to create a positive and realistic thought that will help you stay focused on your goals, reduce your anxiety, and remain connected with your surroundings. What comes up for you?",
+            "time": "Wed Oct 25 2023 20:20:03 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's a powerful new thought, \"It's time to engage with reality... in new ways.\" It symbolizes a turn towards interaction, connection and active engagement. It's positive, action-oriented and very much in line with your Value of achievement. Well done!\n",
+            "time": "Wed Oct 25 2023 20:20:10 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, imagine you're back in the situation where time is ticking away without clear progress on your goals. Then you remember this empowering idea, \"It's time to engage with reality...in new ways.\" How does embedding this thought make you feel?",
+            "time": "Wed Oct 25 2023 20:20:17 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think this touches on everything. For example, the \"setting too many goals\" part doesn't matter really, because those are abstract goals in the future... they aren't as real as setting real goals in the present, or the next week.",
+            "time": "Wed Oct 25 2023 20:20:22 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm glad to hear that this new thought feels more tangible and achievable. Orienting yourself towards present, or near-future goals that are shaped by real and immediate factors can give you a sense of control and direction. This way, you're no longer grappling with abstract goals looming in the distance, but rather, you are actively steering your activities based on what's happening right now. \n",
+            "time": "Wed Oct 25 2023 20:20:33 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let me ask you this: when you think, \"It's time to engage with reality... in new ways,\" and focus on more immediate, realistic goals, do you have an impulse or urge to behave differently?",
+            "time": "Wed Oct 25 2023 20:20:45 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think it's good. I just don't totally understand its impacts in my life yet because I think they might be vast.\n",
+            "time": "Wed Oct 25 2023 20:20:50 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Cheeseburger is cool.\n",
+            "time": "Wed Oct 25 2023 20:20:54 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you very much for your help.\n",
+            "time": "Wed Oct 25 2023 20:21:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I don't know anywhere else in life I can get this kind of help with important things in my life, and be able to give back and help reciprocally.",
+            "time": "Wed Oct 25 2023 20:21:06 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to know that you found our conversation helpful. Sometimes it does take time to fully grasp the implications of a new perspective or change\u2013 and that's entirely okay. It sounds like you're open to exploring and understanding how this shift in thinking can impact your life, and that's a significant step forward.\n",
+            "time": "Wed Oct 25 2023 20:21:18 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for participating in this session and for your kind words about Cheeseburger Therapy. Feel free to revisit your thoughts and our discussion whenever you need to, and remember, in moments where you feel trouble sneaking back in \", remind yourself: \"It's a time to engage with reality...in new ways.\"\n",
+            "time": "Wed Oct 25 2023 20:21:26 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you luana. Good work. Merry chrimstas to you! Thank you for this xmas gift!",
+            "time": "Wed Oct 25 2023 20:21:42 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for your kind words! I'm really glad that our conversation served as a meaningful gift for you. Merry Christmas to you as well! Have a wonderful holiday!",
+            "time": "Wed Oct 25 2023 20:21:48 GMT-0400 (Eastern Daylight Time)"
+        }
+    ]
+}

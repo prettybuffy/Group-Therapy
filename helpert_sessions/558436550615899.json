@@ -1,0 +1,323 @@
+{
+    "notes": {
+        "thought": "\"It's really difficult for me to speak to others; I hate myself\"",
+        "event": "You experience stressful periods such as arguments with your parents and feelings that everyone is angry with you.",
+        "feelings_behaviors": "anger, sadness, and a sense of being out of control.",
+        "labels": {
+            "control-fallacy": true
+        },
+        "new_thought": "Communication can be challenging at times, and that's okay. I am learning and can work on it. Mistakes don't define me."
+    },
+    "messages": [
+        {
+            "user": "thinker",
+            "text": "Recently I've been turning away close friends, some whom I've just become friends with, others who I've been with for years. I'm having a hard time choosing the right words to tell people what I want to say, and I worry too much about saying the wrong thing. I also have trouble trying to control my emotions, and I end up doing very impulsive and violent things when I'm angry, but I always regret and attempt to apologize afterward. After a recent issue with one of my friends, they decided to cut off the friendship and refused to speak with me. This is something that could've been prevented if I controlled my emotions properly, but I was too angry at the moment to realize it. Hope this helps describe my situation, sorry if it seems repetitive or lengthy.",
+            "time": "Mon Nov 13 2023 14:37:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for sharing, and please don't apologize for the length or the repetition. It's important for us to fully understand your situation. I can see that you're troubled by the difficulty you're experiencing in communicating with friends, as well as struggling to control your emotions, particularly when anger arises. ",
+            "time": "Mon Nov 13 2023 14:38:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "It sounds like you've acted impulsively and even violently at times, and you regret these actions afterwards. The recent situation with your friend ending the friendship has made you realize the impact of not being able to manage your emotions effectively. Is that correct?",
+            "time": "Mon Nov 13 2023 14:38:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes I'm feeling so upset right now",
+            "time": "Mon Nov 13 2023 14:39:02 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I'm so upset because of my impulsivity... because sometimes it just happens out of nowhere and I start getting physically violent, or being rude to my friends when it has nothing to do with them.",
+            "time": "Mon Nov 13 2023 14:39:53 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I appreciate your willingness to dig a bit deeper into your troubles. It seems to me you feel quite disturbed about being impulsive, especially when it leads to physical violence or rudeness toward your friends. It must be really upsetting when it comes out of nowhere and affects people who aren't the cause of your feelings in the first place. \n",
+            "time": "Mon Nov 13 2023 14:40:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "If you feel comfortable, could you tell me a bit more? Has anything noticeable happened recently that may have led to you feeling violently impulsive or being rude to your friends? Or does it seem to come up randomly without any event triggering it?",
+            "time": "Mon Nov 13 2023 14:40:06 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Well firstly, I was having a really bad week and it seemed like everyone was angry with me. And one day I just snapped after a fight with my parents and I started to threaten one of my friends with a bunch of slurs and mean words. They decided that they didn't want to talk to me anymore, which makes sense. But I did apologize after thinking about it for a few days.",
+            "time": "Mon Nov 13 2023 14:40:13 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Since then I'm very cautious about what I want to say and I don't want people to make fun of me for anything.",
+            "time": "Mon Nov 13 2023 14:40:51 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thanks for trusting me with these details. It seems like you were already under quite a bit of stress and feeling as if everyone was upset with you. Then the fight with your parents made the emotions boil over, and unfortunately, your friend bore the brunt of your emotion-driven impulse. \n",
+            "time": "Mon Nov 13 2023 14:41:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You responded by using slurs and mean words, leading them to cut off communication with you, despite your later apology. It's clear to see how difficult and distressing this situation must be for you. ",
+            "time": "Mon Nov 13 2023 14:41:01 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Taking all of this into account, when you find yourself in such stressful periods and feel like everyone is angry with you, what might be some troubling thoughts that come to mind?",
+            "time": "Mon Nov 13 2023 14:41:07 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "At the time I had really hated myself because I found it really difficult to speak to others, even my parents and close friends.",
+            "time": "Mon Nov 13 2023 14:41:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " It's kind of hard to remember the details, but I was very mad at the time.",
+            "time": "Mon Nov 13 2023 14:41:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": " Right after the fight though, it seemed like I went back to normal.",
+            "time": "Mon Nov 13 2023 14:41:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's such an intense place to be in, as it sounds like you're struggling with self-loathing due to communication difficulties. Just to clarify, when these stressful events occur (like the fight with your parents and the perceived widespread anger towards you), you believe \"It's really difficult for me to speak to others; I hate myself\". Does that capture your primary troubling thought in these situations?",
+            "time": "Mon Nov 13 2023 14:41:26 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, I just feel sad and hate myself after lashing out. ",
+            "time": "Mon Nov 13 2023 14:41:31 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I can only imagine how tough that must be \u2014 experiencing these intense moments of anger, followed by regret and self-loathing. \n",
+            "time": "Mon Nov 13 2023 14:41:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "When you have the thought \"It's really difficult for me to speak to others; I hate myself\", how does it make you feel? Specific emotions can be really helpful to understand what's going on.",
+            "time": "Mon Nov 13 2023 14:41:42 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Makes me feel anger and sadness. Out of control. ",
+            "time": "Mon Nov 13 2023 14:41:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That\u2019s tough, feeling anger, sadness, and a sense of being out of control. These are intense emotions, especially as they spiral from thoughts of self-loathing and difficulties in communication. \n",
+            "time": "Mon Nov 13 2023 14:42:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "And when you\u2019re filled with anger and feeling out of control and sad, how does that affect your actions, or what behaviors do you find yourself doing?",
+            "time": "Mon Nov 13 2023 14:42:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It must be really challenging when these feeling of anger, sadness, and being out of control lead you to behave violently and start confrontations with people who are close to you. In the heat of anger, it's hard to take a step back and realize the consequences these behaviors might have, especially on your relationships.\n",
+            "time": "Mon Nov 13 2023 14:42:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that was your message? It just copied here while I was writing",
+            "time": "Mon Nov 13 2023 14:42:58 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "To answer your question yeah I get violent and pick fights with people close to me. ",
+            "time": "Mon Nov 13 2023 14:43:09 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Yes, I'm sorry about that glitch/bug in the website.",
+            "time": "Mon Nov 13 2023 14:48:55 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's summarize what we've talked about: You experience stressful periods such as arguments with your parents and feelings that everyone is angry with you. You think, \"It's really difficult for me to speak to others; I hate myself\". These thoughts lead you to feel anger, sadness, and a sense of being out of control. These feelings then cause you to behave violently and get into arguments with people close to you. \n\nDoes that sound like an accurate summary to you?",
+            "time": "Mon Nov 13 2023 14:49:57 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah",
+            "time": "Mon Nov 13 2023 14:50:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "That feels right.",
+            "time": "Mon Nov 13 2023 14:50:48 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for confirming. I can see how this cycle is impacting you and causing fear and regret around your relationships, especially with friends. It's like when you're in these uncomfortable situations \u2014 and I understand it feels as though everyone is upset with you, which exacerbates the stressful manner in which you communicate, leading you to lash out.\n",
+            "time": "Mon Nov 13 2023 14:51:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Frankly, it's like you're stuck in an emotional storm, feeling intense sadness, anger, and a sense of being out of control. And in that storm, your reaction is to act out violently and pick fights with those you care about... which, it seems, leads you back into the same cycle. \n",
+            "time": "Mon Nov 13 2023 14:51:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "You love your family and friends; it\u2019s safe to say that the value of connectedness is crucial to you. However, the cycle you are trapped in seems to jeopardize that very value. Instead of bringing you closer to the people you care about, it's pushing them away.\n",
+            "time": "Mon Nov 13 2023 14:51:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now, let's try and figure out what kind of \"Cheese,\" - as we call it in cognitive therapy - could be affecting your thoughts. \"Cheese\" is simply an amusing term for cognitive distortion - basically, a way of thinking that isn't entirely accurate or fair. While these \"Cheeses\" usually develop to help us cope with the world, they can often end up causing more harm than good. Does that make sense?",
+            "time": "Mon Nov 13 2023 14:51:46 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yeah, what kind of cheese do you think I have? ",
+            "time": "Mon Nov 13 2023 14:51:52 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Based on what you've shared, it seems like a principal \"Cheese\" involved might be the Control Fallacy. This Cheese tricks us into believing that we're entirely at the mercy of external forces and that we have no control over our feelings or reactions.\n",
+            "time": "Mon Nov 13 2023 14:52:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "For example, when you face stressful situations like arguments with your parents, you might feel trapped in anger and sadness. Feeling out of control, you believe the only way out is to lash out and be violent, becoming a victim of your own emotions. This form of thinking can make you a passenger in your own life - subject to the whims of your emotional state.\n",
+            "time": "Mon Nov 13 2023 14:52:04 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "However, it's important to remember that while we can't control what happens to us, we do have control over how we interpret and respond to these events. It's a concept that's easier said than embraced, but it's a crucial step towards regaining emotional control.\n",
+            "time": "Mon Nov 13 2023 14:52:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Do you see any connections between this \"Control Fallacy Cheese\" and your thought, \"It's really difficult for me to speak to others; I hate myself?\" Do you see how this Cheese might lead to feelings of anger, sadness, and being out of control, causing you to react impulsively and violently?",
+            "time": "Mon Nov 13 2023 14:52:12 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "I think that Control Fallacy might relate to my situation because I feel like I have little or no control a lot of the time, even when I have a lot of control of the situation.",
+            "time": "Mon Nov 13 2023 14:52:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for bearing with me while we dove into that aspect of your situation. Given the feelings of anger, sadness, and being out of control in stressful situations, the Control Fallacy - where you perceive yourself as having little or no control - definitely seems to be at play here. It's not unusual or 'bad' to find ourselves thinking this way sometimes. Many of us, in trying to make sense of our experiences, may unknowingly use these sorts of distortions as we try to cope. \n",
+            "time": "Mon Nov 13 2023 14:52:24 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "But, as you're experiencing, this type of thinking can unintentionally ignite and escalate difficult emotions.  For instance, believing \"it's really difficult for me to speak to others; I hate myself\" amidst a stressful event amplifies anger and sadness. Feeling out of control, you then react with violence and arguments.\n",
+            "time": "Mon Nov 13 2023 14:52:28 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Yet, it's vital to see that these thoughts, influenced by the Control Fallacy Cheese, aren't necessarily true or helpful. While events and others' emotions are outside your control, your thoughts, emotions, and how you express them are within your sphere of influence. \n",
+            "time": "Mon Nov 13 2023 14:52:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Finding more adaptive ways to frame your thoughts can help you feel less at the mercy of your surroundings and emotions, reducing the likelihood of violent reactions.",
+            "time": "Mon Nov 13 2023 14:52:38 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Yes",
+            "time": "Mon Nov 13 2023 14:52:44 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It feels good to finally have a way to identify my situation, and it will definitely help me get more help.",
+            "time": "Mon Nov 13 2023 14:52:45 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear you found this helpful and that it has lent you some clarity. Sometimes, just having a way to identify and \"name\" our experiences can significantly support the process of learning and growing. \n",
+            "time": "Mon Nov 13 2023 14:53:08 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Now that we have some idea about the 'Cheese' influencing your thoughts, let's try to envision a situation where you can choose a different kind of thinking that won't lead to these intense feelings and, hence, the impulsive reactions. \n",
+            "time": "Mon Nov 13 2023 14:53:15 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Let's revisit the stressful situation of conflicts with your parents. But this time, as you imagine that moment, try thinking this instead: \"Communication can be challenging at times, and that's okay. I am learning and can work on it. Mistakes don't define me,\". \n",
+            "time": "Mon Nov 13 2023 14:53:19 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "How does that make you feel? Especially compared to the anger and sadness you usually would feel thinking, \"It's really difficult for me to speak to others; I hate myself.\"",
+            "time": "Mon Nov 13 2023 14:53:23 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "It makes me feel more confident in my future and I hope to remember this statement and make good decisions.",
+            "time": "Mon Nov 13 2023 14:53:27 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That's fantastic! Feeling confident and hoping for better decisions in the future are indicators of growth and a positive mindset. This new thought has the potential to open up a path of understanding and self-compassion when communication becomes challenging. \n",
+            "time": "Mon Nov 13 2023 14:53:32 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, let's imagine a scenario. You find yourself in a stressful situation with your parents again. Instead of berating yourself and getting angry, you think, \"Communication can be challenging at times, and that's okay. I am learning and can work on it. Mistakes don't define me.\" As a result, you feel more confident and hopeful. \n",
+            "time": "Mon Nov 13 2023 14:53:37 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "In such a scenario, do you feel you might act differently compared to impulsively becoming violent or argumentative? What actions or behaviors might you be inspired to take instead?",
+            "time": "Mon Nov 13 2023 14:53:41 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Maybe try to take it slower and to take back control of my emotions. ",
+            "time": "Mon Nov 13 2023 14:54:00 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "That sounds like a really constructive approach. Taking it slower and gaining control over your emotions are assertive actions that reflect increased awareness and self-care. It's very encouraging to see you considering such positive steps towards nurturing your relationships and your emotional well-being. \n",
+            "time": "Mon Nov 13 2023 14:54:10 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "So, let's see. Instead of becoming engulfed in anger and sadness, leading to violent outbursts, you'll approach things more calmly and regain control in a situation where previously you felt you had none. \n",
+            "time": "Mon Nov 13 2023 14:54:14 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Such changes may seem small in the grand scheme of things, but they can truly go a long way in improving your interaction with others and enhancing your self-esteem.\n",
+            "time": "Mon Nov 13 2023 14:54:18 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Before wrapping up, I\u2019d like to check in on something. Comparing how you're feeling now to when you started this conversation, how are you doing?\n",
+            "time": "Mon Nov 13 2023 14:54:21 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "When we started I felt kinda sad, but now that we've come to this conclusion, I'm feeling a lot better.",
+            "time": "Mon Nov 13 2023 14:54:25 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "I'm really glad to hear you're feeling a lot better. It's been a significant journey tonight, and it's those small steps forward that can bring about the most significant shifts. Remember to be patient and kind to yourself; change is a process and it takes time. \n",
+            "time": "Mon Nov 13 2023 14:54:30 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "helper",
+            "text": "Thank you for participating in Cheeseburger Therapy\u2014 it's been a pleasure exploring these troubles with you. Moving forward, whenever you find yourself in a challenging situation remember to think, \"Communication can be challenging at times, and that's okay. I am learning and can work on it. Mistakes don't define me.\" It will give you a fresh and more compassionate perspective. \n",
+            "time": "Mon Nov 13 2023 14:54:36 GMT-0500 (Eastern Standard Time)"
+        },
+        {
+            "user": "thinker",
+            "text": "Thank you!!",
+            "time": "Mon Nov 13 2023 14:55:09 GMT-0500 (Eastern Standard Time)"
+        }
+    ]
+}
